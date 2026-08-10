@@ -1,0 +1,74 @@
+[
+    {
+        "name": "All India Institute of Medical Sciences (AIIMS)",
+        "state": "Delhi",
+        "address": "Sri Aurobindo Marg, Ansari Nagar, New Delhi, Delhi 110029",
+        "timing": "OPD: 8:00 AM - 1:00 PM (Mon-Sat)",
+        "contact_number": "011-26588500",
+        "specialities": ["Cardiology", "Oncology", "Neurology", "General Medicine"]
+    },
+    {
+        "name": "Safdarjung Hospital",
+        "state": "Delhi",
+        "address": "Ansari Nagar East, near AIIMS, New Delhi, Delhi 110029",
+        "timing": "OPD: 8:30 AM - 12:30 PM (Mon-Sat)",
+        "contact_number": "011-26165060",
+        "specialities": ["Orthopedics", "Gynecology", "Pediatrics", "General Surgery"]
+    },
+    {
+        "name": "King Edward Memorial (KEM) Hospital",
+        "state": "Maharashtra",
+        "address": "Acharya Donde Marg, Parel, Mumbai, Maharashtra 400012",
+        "timing": "OPD: 8:00 AM - 2:00 PM (Mon-Sat)",
+        "contact_number": "022-24107000",
+        "specialities": ["General Medicine", "Cardiology", "Nephrology", "Dermatology"]
+    },
+    {
+        "name": "Sir J. J. Group of Hospitals",
+        "state": "Maharashtra",
+        "address": "J. J. Marg, Byculla, Mumbai, Maharashtra 400008",
+        "timing": "OPD: 9:00 AM - 1:00 PM (Mon-Sat)",
+        "contact_number": "022-23735555",
+        "specialities": ["Ophthalmology", "Psychiatry", "Neurology", "Pediatrics"]
+    },
+    {
+        "name": "Civil Hospital, Ahmedabad",
+        "state": "Gujarat",
+        "address": "Asarwa, Ahmedabad, Gujarat 380016",
+        "timing": "OPD: 9:00 AM - 1:00 PM, 3:00 PM - 5:00 PM",
+        "contact_number": "079-22683721",
+        "specialities": ["General Surgery", "Gynecology", "Orthopedics", "ENT"]
+    },
+    {
+        "name": "Sanjay Gandhi Postgraduate Institute of Medical Sciences (SGPGIMS)",
+        "state": "Uttar Pradesh",
+        "address": "New PMSSY Rd, Raibareli Rd, Lucknow, Uttar Pradesh 226014",
+        "timing": "OPD: 9:00 AM - 2:00 PM (Mon-Fri)",
+        "contact_number": "0522-2494000",
+        "specialities": ["Gastroenterology", "Nephrology", "Neurology", "Endocrinology"]
+    },
+    {
+        "name": "King George's Medical University (KGMU)",
+        "state": "Uttar Pradesh",
+        "address": "Shah Mina Rd, Chowk, Lucknow, Uttar Pradesh 226003",
+        "timing": "OPD: 8:30 AM - 1:30 PM (Mon-Sat)",
+        "contact_number": "0522-2257450",
+        "specialities": ["Cardiology", "General Surgery", "Pediatrics", "Orthopedics"]
+    },
+    {
+        "name": "Victoria Hospital",
+        "state": "Karnataka",
+        "address": "Fort Rd, near City Market, Bengaluru, Karnataka 560002",
+        "timing": "OPD: 9:00 AM - 4:00 PM (Mon-Sat)",
+        "contact_number": "080-26701150",
+        "specialities": ["Burn Care", "Trauma", "General Medicine", "Dermatology"]
+    },
+    {
+        "name": "Rajiv Gandhi Government General Hospital (RGGGH)",
+        "state": "Tamil Nadu",
+        "address": "EVR Periyar Salai, Park Town, Chennai, Tamil Nadu 600003",
+        "timing": "OPD: 8:00 AM - 12:00 PM (Mon-Sat)",
+        "contact_number": "044-25305000",
+        "specialities": ["Cardiology", "Neurology", "Oncology", "Diabetology"]
+    }
+]

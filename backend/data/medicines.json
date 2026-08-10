@@ -1,0 +1,82 @@
+{
+  "medicines": [
+    {
+      "name": "Paracetamol 500mg (10 Tablets)",
+      "uses": "Fever & Pain Relief",
+      "market_price": "₹15.00",
+      "scheme_price": "₹4.00",
+      "savings_percentage": "73%"
+    },
+    {
+      "name": "Metformin 500mg (10 Tablets)",
+      "uses": "Type 2 Diabetes",
+      "market_price": "₹22.00",
+      "scheme_price": "₹6.00",
+      "savings_percentage": "72%"
+    },
+    {
+      "name": "Atorvastatin 10mg (10 Tablets)",
+      "uses": "Cholesterol",
+      "market_price": "₹60.00",
+      "scheme_price": "₹12.00",
+      "savings_percentage": "80%"
+    },
+    {
+      "name": "Telmisartan 40mg (10 Tablets)",
+      "uses": "High Blood Pressure",
+      "market_price": "₹55.00",
+      "scheme_price": "₹11.00",
+      "savings_percentage": "80%"
+    }
+  ],
+  "pharmacies": [
+    {
+      "name": "Jan Aushadhi Kendra - Andheri East",
+      "state": "Maharashtra",
+      "address": "Shop No 4, Near Metro Station, Andheri East, Mumbai",
+      "distance": "1.2 km away"
+    },
+    {
+      "name": "Jan Aushadhi Kendra - Pune Camp",
+      "state": "Maharashtra",
+      "address": "MG Road, Camp Area, Pune",
+      "distance": "3.5 km away"
+    },
+    {
+      "name": "Jan Aushadhi Kendra - Connaught Place",
+      "state": "Delhi",
+      "address": "Palika Bazaar entrance, CP, New Delhi",
+      "distance": "0.8 km away"
+    },
+    {
+      "name": "Jan Aushadhi Kendra - Dwarka Sec 10",
+      "state": "Delhi",
+      "address": "Main Market Sector 10, Dwarka, New Delhi",
+      "distance": "4.1 km away"
+    },
+    {
+      "name": "Jan Aushadhi Kendra - Navrangpura",
+      "state": "Gujarat",
+      "address": "CG Road, Navrangpura, Ahmedabad",
+      "distance": "2.2 km away"
+    },
+    {
+      "name": "Jan Aushadhi Kendra - Hazratganj",
+      "state": "Uttar Pradesh",
+      "address": "Near Halwasiya Market, Hazratganj, Lucknow",
+      "distance": "1.5 km away"
+    },
+    {
+      "name": "Jan Aushadhi Kendra - Jayanagar",
+      "state": "Karnataka",
+      "address": "4th Block Complex, Jayanagar, Bengaluru",
+      "distance": "2.7 km away"
+    },
+    {
+      "name": "Jan Aushadhi Kendra - T Nagar",
+      "state": "Tamil Nadu",
+      "address": "Usman Road, T Nagar, Chennai",
+      "distance": "1.9 km away"
+    }
+  ]
+}
