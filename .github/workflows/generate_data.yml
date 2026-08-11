@@ -1,0 +1,41 @@
+name: Auto-Generate Hospital Data
+
+on:
+  schedule:
+    # Runs automatically every Sunday at midnight (UTC)
+    - cron: '0 0 * * 0'
+  workflow_dispatch:
+    # Allows you to trigger this workflow manually from the GitHub UI
+
+jobs:
+  generate-and-commit:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      - name: Run Generator Script
+        run: |
+          # Assuming the script is placed in the root of your backend repo
+          # Adjust the path if it's inside a folder like 'scripts/'
+          cd backend && python scripts/generate_hospitals.py
+          
+          # If the script generates the file elsewhere, move it to your data folder
+          # mv hospitals.json data/hospitals.json
+          
+      - name: Commit and Push Changes
+        run: |
+          git config --local user.name "GitHub Action Bot"
+          git config --local user.email "action@github.com"
+          
+          # Add the generated json file
+          git add hospitals.json
+          
+          # Only commit if there are changes
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Auto-update hospitals data" && git push)
