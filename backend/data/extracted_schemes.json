@@ -20,6 +20,12 @@
             "Fill up the account opening form.",
             "Submit required KYC documents.",
             "Collect Passbook."
+        ],
+        "is_verified": true,
+        "support_number": "1800-180-1111",
+        "benefits": [
+            "Financial support and subsidies for MSMEs.",
+            "Business training and skill development."
         ]
     },
     {
@@ -42,6 +48,12 @@
             "Provide Aadhaar card to the Ayushman Mitra.",
             "Verify identity via fingerprint or OTP.",
             "Receive the PMJAY e-Card."
+        ],
+        "is_verified": true,
+        "support_number": "14555",
+        "benefits": [
+            "Free medical treatment and consultation.",
+            "Financial assistance for medical emergencies."
         ]
     },
     {
@@ -63,6 +75,12 @@
             "Visit official PM-KISAN portal (pmkisan.gov.in).",
             "Click on 'New Farmer Registration'.",
             "Submit Aadhaar and Bank details."
+        ],
+        "is_verified": true,
+        "support_number": "1800-233-3333",
+        "benefits": [
+            "Direct financial assistance.",
+            "Government verified subsidies and grants."
         ]
     },
     {
@@ -83,6 +101,12 @@
         "application_steps": [
             "Visit Maharashtra Gram Panchayat portal.",
             "Apply online with required documents."
+        ],
+        "is_verified": true,
+        "support_number": "1800-233-3333",
+        "benefits": [
+            "Direct financial assistance.",
+            "Government verified subsidies and grants."
         ]
     },
     {
@@ -102,6 +126,12 @@
         "application_steps": [
             "Apply via State Mahila portal.",
             "Complete physical verification."
+        ],
+        "is_verified": true,
+        "support_number": "1800-233-3333",
+        "benefits": [
+            "Direct financial assistance.",
+            "Government verified subsidies and grants."
         ]
     },
     {
@@ -122,6 +152,12 @@
         "application_steps": [
             "Visit Delhi Gram Panchayat portal.",
             "Apply online with required documents."
+        ],
+        "is_verified": true,
+        "support_number": "1800-233-3333",
+        "benefits": [
+            "Direct financial assistance.",
+            "Government verified subsidies and grants."
         ]
     },
     {
@@ -141,6 +177,12 @@
         "application_steps": [
             "Apply via State Mahila portal.",
             "Complete physical verification."
+        ],
+        "is_verified": true,
+        "support_number": "1800-233-3333",
+        "benefits": [
+            "Direct financial assistance.",
+            "Government verified subsidies and grants."
         ]
     },
     {
@@ -161,6 +203,12 @@
         "application_steps": [
             "Visit Karnataka Gram Panchayat portal.",
             "Apply online with required documents."
+        ],
+        "is_verified": true,
+        "support_number": "1800-233-3333",
+        "benefits": [
+            "Direct financial assistance.",
+            "Government verified subsidies and grants."
         ]
     },
     {
@@ -180,6 +228,12 @@
         "application_steps": [
             "Apply via State Mahila portal.",
             "Complete physical verification."
+        ],
+        "is_verified": true,
+        "support_number": "1800-233-3333",
+        "benefits": [
+            "Direct financial assistance.",
+            "Government verified subsidies and grants."
         ]
     },
     {
@@ -200,6 +254,12 @@
         "application_steps": [
             "Visit Gujarat Gram Panchayat portal.",
             "Apply online with required documents."
+        ],
+        "is_verified": true,
+        "support_number": "1800-233-3333",
+        "benefits": [
+            "Direct financial assistance.",
+            "Government verified subsidies and grants."
         ]
     },
     {
@@ -219,6 +279,12 @@
         "application_steps": [
             "Apply via State Mahila portal.",
             "Complete physical verification."
+        ],
+        "is_verified": true,
+        "support_number": "1800-233-3333",
+        "benefits": [
+            "Direct financial assistance.",
+            "Government verified subsidies and grants."
         ]
     },
     {
@@ -239,6 +305,12 @@
         "application_steps": [
             "Visit Tamil Nadu Gram Panchayat portal.",
             "Apply online with required documents."
+        ],
+        "is_verified": true,
+        "support_number": "1800-233-3333",
+        "benefits": [
+            "Direct financial assistance.",
+            "Government verified subsidies and grants."
         ]
     },
     {
@@ -258,6 +330,12 @@
         "application_steps": [
             "Apply via State Mahila portal.",
             "Complete physical verification."
+        ],
+        "is_verified": true,
+        "support_number": "1800-233-3333",
+        "benefits": [
+            "Direct financial assistance.",
+            "Government verified subsidies and grants."
         ]
     },
     {
@@ -278,6 +356,12 @@
         "application_steps": [
             "Visit Uttar Pradesh Gram Panchayat portal.",
             "Apply online with required documents."
+        ],
+        "is_verified": true,
+        "support_number": "1800-233-3333",
+        "benefits": [
+            "Direct financial assistance.",
+            "Government verified subsidies and grants."
         ]
     },
     {
@@ -297,6 +381,12 @@
         "application_steps": [
             "Apply via State Mahila portal.",
             "Complete physical verification."
+        ],
+        "is_verified": true,
+        "support_number": "1800-233-3333",
+        "benefits": [
+            "Direct financial assistance.",
+            "Government verified subsidies and grants."
         ]
     },
     {
@@ -317,6 +407,12 @@
         "application_steps": [
             "Visit West Bengal Gram Panchayat portal.",
             "Apply online with required documents."
+        ],
+        "is_verified": true,
+        "support_number": "1800-233-3333",
+        "benefits": [
+            "Direct financial assistance.",
+            "Government verified subsidies and grants."
         ]
     },
     {
@@ -336,6 +432,12 @@
         "application_steps": [
             "Apply via State Mahila portal.",
             "Complete physical verification."
+        ],
+        "is_verified": true,
+        "support_number": "1800-233-3333",
+        "benefits": [
+            "Direct financial assistance.",
+            "Government verified subsidies and grants."
         ]
     },
     {
@@ -356,6 +458,12 @@
         "application_steps": [
             "Visit Punjab Gram Panchayat portal.",
             "Apply online with required documents."
+        ],
+        "is_verified": true,
+        "support_number": "1800-233-3333",
+        "benefits": [
+            "Direct financial assistance.",
+            "Government verified subsidies and grants."
         ]
     },
     {
@@ -375,6 +483,12 @@
         "application_steps": [
             "Apply via State Mahila portal.",
             "Complete physical verification."
+        ],
+        "is_verified": true,
+        "support_number": "1800-233-3333",
+        "benefits": [
+            "Direct financial assistance.",
+            "Government verified subsidies and grants."
         ]
     },
     {
@@ -395,6 +509,12 @@
         "application_steps": [
             "Visit Rajasthan Gram Panchayat portal.",
             "Apply online with required documents."
+        ],
+        "is_verified": true,
+        "support_number": "1800-233-3333",
+        "benefits": [
+            "Direct financial assistance.",
+            "Government verified subsidies and grants."
         ]
     },
     {
@@ -414,6 +534,12 @@
         "application_steps": [
             "Apply via State Mahila portal.",
             "Complete physical verification."
+        ],
+        "is_verified": true,
+        "support_number": "1800-233-3333",
+        "benefits": [
+            "Direct financial assistance.",
+            "Government verified subsidies and grants."
         ]
     },
     {
@@ -434,6 +560,12 @@
         "application_steps": [
             "Visit Kerala Gram Panchayat portal.",
             "Apply online with required documents."
+        ],
+        "is_verified": true,
+        "support_number": "1800-233-3333",
+        "benefits": [
+            "Direct financial assistance.",
+            "Government verified subsidies and grants."
         ]
     },
     {
@@ -453,6 +585,12 @@
         "application_steps": [
             "Apply via State Mahila portal.",
             "Complete physical verification."
+        ],
+        "is_verified": true,
+        "support_number": "1800-233-3333",
+        "benefits": [
+            "Direct financial assistance.",
+            "Government verified subsidies and grants."
         ]
     },
     {
@@ -473,6 +611,12 @@
         "application_steps": [
             "Visit Andhra Pradesh Gram Panchayat portal.",
             "Apply online with required documents."
+        ],
+        "is_verified": true,
+        "support_number": "1800-233-3333",
+        "benefits": [
+            "Direct financial assistance.",
+            "Government verified subsidies and grants."
         ]
     },
     {
@@ -492,6 +636,12 @@
         "application_steps": [
             "Apply via State Mahila portal.",
             "Complete physical verification."
+        ],
+        "is_verified": true,
+        "support_number": "1800-233-3333",
+        "benefits": [
+            "Direct financial assistance.",
+            "Government verified subsidies and grants."
         ]
     },
     {
@@ -512,6 +662,12 @@
         "application_steps": [
             "Visit Bihar Gram Panchayat portal.",
             "Apply online with required documents."
+        ],
+        "is_verified": true,
+        "support_number": "1800-233-3333",
+        "benefits": [
+            "Direct financial assistance.",
+            "Government verified subsidies and grants."
         ]
     },
     {
@@ -531,6 +687,12 @@
         "application_steps": [
             "Apply via State Mahila portal.",
             "Complete physical verification."
+        ],
+        "is_verified": true,
+        "support_number": "1800-233-3333",
+        "benefits": [
+            "Direct financial assistance.",
+            "Government verified subsidies and grants."
         ]
     },
     {
@@ -551,6 +713,12 @@
         "application_steps": [
             "Visit Haryana Gram Panchayat portal.",
             "Apply online with required documents."
+        ],
+        "is_verified": true,
+        "support_number": "1800-233-3333",
+        "benefits": [
+            "Direct financial assistance.",
+            "Government verified subsidies and grants."
         ]
     },
     {
@@ -570,6 +738,12 @@
         "application_steps": [
             "Apply via State Mahila portal.",
             "Complete physical verification."
+        ],
+        "is_verified": true,
+        "support_number": "1800-233-3333",
+        "benefits": [
+            "Direct financial assistance.",
+            "Government verified subsidies and grants."
         ]
     },
     {
@@ -590,6 +764,12 @@
         "application_steps": [
             "Visit Madhya Pradesh Gram Panchayat portal.",
             "Apply online with required documents."
+        ],
+        "is_verified": true,
+        "support_number": "1800-233-3333",
+        "benefits": [
+            "Direct financial assistance.",
+            "Government verified subsidies and grants."
         ]
     },
     {
@@ -609,6 +789,12 @@
         "application_steps": [
             "Apply via State Mahila portal.",
             "Complete physical verification."
+        ],
+        "is_verified": true,
+        "support_number": "1800-233-3333",
+        "benefits": [
+            "Direct financial assistance.",
+            "Government verified subsidies and grants."
         ]
     },
     {
@@ -632,7 +818,13 @@
             "Visit empaneled hospital or CSC",
             "Verify identity and generate e-card"
         ],
-        "apply_url": "https://pmjay.gov.in/"
+        "apply_url": "https://pmjay.gov.in/",
+        "is_verified": true,
+        "support_number": "14555",
+        "benefits": [
+            "Up to \u20b95 Lakhs free health cover per family per year.",
+            "Cashless treatment at empaneled hospitals."
+        ]
     },
     {
         "scheme_name": "Central Government Health Scheme (CGHS)",
@@ -656,7 +848,13 @@
             "Submit to parent department",
             "Card issued after verification"
         ],
-        "apply_url": "https://cghs.nic.in/"
+        "apply_url": "https://cghs.nic.in/",
+        "is_verified": true,
+        "support_number": "1800-180-5145",
+        "benefits": [
+            "Free medical treatment and consultation.",
+            "Financial assistance for medical emergencies."
+        ]
     },
     {
         "scheme_name": "Rashtriya Arogya Nidhi (RAN)",
@@ -680,7 +878,13 @@
             "Submit application to Health Ministry",
             "Funds released to Hospital"
         ],
-        "apply_url": "https://main.mohfw.gov.in/"
+        "apply_url": "https://main.mohfw.gov.in/",
+        "is_verified": true,
+        "support_number": "1800-180-5145",
+        "benefits": [
+            "Free medical treatment and consultation.",
+            "Financial assistance for medical emergencies."
+        ]
     },
     {
         "scheme_name": "Pradhan Mantri Suraksha Bima Yojana (PMSBY)",
@@ -702,7 +906,13 @@
             "Opt-in for PMSBY",
             "Give consent for \u20b920 auto-debit"
         ],
-        "apply_url": "https://jansuraksha.gov.in/"
+        "apply_url": "https://jansuraksha.gov.in/",
+        "is_verified": true,
+        "support_number": "1800-180-5145",
+        "benefits": [
+            "\u20b92 Lakhs accidental death cover.",
+            "\u20b91 Lakh for partial disability."
+        ]
     },
     {
         "scheme_name": "Health Minister's Discretionary Grant (HMDG)",
@@ -724,7 +934,13 @@
             "Verification by Ministry",
             "Direct payment to hospital"
         ],
-        "apply_url": "https://main.mohfw.gov.in/"
+        "apply_url": "https://main.mohfw.gov.in/",
+        "is_verified": true,
+        "support_number": "1800-180-5145",
+        "benefits": [
+            "Up to \u20b95 Lakhs free health cover per family per year.",
+            "Cashless treatment at empaneled hospitals."
+        ]
     },
     {
         "scheme_name": "Aam Aadmi Bima Yojana (AABY)",
@@ -747,7 +963,13 @@
             "Submit required documents",
             "Premium shared by State/Central Govt"
         ],
-        "apply_url": "https://licindia.in/"
+        "apply_url": "https://licindia.in/",
+        "is_verified": true,
+        "support_number": "1800-180-5145",
+        "benefits": [
+            "Free medical treatment and consultation.",
+            "Financial assistance for medical emergencies."
+        ]
     },
     {
         "scheme_name": "National Means-cum-Merit Scholarship (NMMS)",
@@ -771,7 +993,13 @@
             "Submit online application",
             "Clear the NMMS selection test"
         ],
-        "apply_url": "https://scholarships.gov.in/"
+        "apply_url": "https://scholarships.gov.in/",
+        "is_verified": true,
+        "support_number": "1800-111-366",
+        "benefits": [
+            "Financial assistance for tuition fees.",
+            "Scholarship amount transferred directly to bank account via DBT."
+        ]
     },
     {
         "scheme_name": "PM YASASVI Scholarship Scheme",
@@ -795,7 +1023,13 @@
             "Appear for YASASVI Entrance Test",
             "Qualify and register on NSP"
         ],
-        "apply_url": "https://yet.nta.ac.in/"
+        "apply_url": "https://yet.nta.ac.in/",
+        "is_verified": true,
+        "support_number": "1800-111-366",
+        "benefits": [
+            "Financial assistance for tuition fees.",
+            "Scholarship amount transferred directly to bank account via DBT."
+        ]
     },
     {
         "scheme_name": "Pragati Scholarship for Girls",
@@ -819,7 +1053,13 @@
             "Fill online application form",
             "Institute verifies the details"
         ],
-        "apply_url": "https://scholarships.gov.in/"
+        "apply_url": "https://scholarships.gov.in/",
+        "is_verified": true,
+        "support_number": "1800-111-366",
+        "benefits": [
+            "Financial assistance for tuition fees.",
+            "Scholarship amount transferred directly to bank account via DBT."
+        ]
     },
     {
         "scheme_name": "Right to Education (RTE) 25% Quota",
@@ -844,7 +1084,13 @@
             "Select nearby private schools",
             "Wait for lottery results"
         ],
-        "apply_url": "https://rte.updc.gov.in/"
+        "apply_url": "https://rte.updc.gov.in/",
+        "is_verified": true,
+        "support_number": "1800-111-366",
+        "benefits": [
+            "Financial assistance for tuition fees.",
+            "Scholarship amount transferred directly to bank account via DBT."
+        ]
     },
     {
         "scheme_name": "Post-Matric Scholarship for SC/ST/OBC Students",
@@ -871,6 +1117,12 @@
             "Fill out the detailed application form",
             "Submit hardcopy to institution"
         ],
-        "apply_url": "https://scholarship.up.gov.in/"
+        "apply_url": "https://scholarship.up.gov.in/",
+        "is_verified": true,
+        "support_number": "1800-111-366",
+        "benefits": [
+            "Financial assistance for tuition fees.",
+            "Scholarship amount transferred directly to bank account via DBT."
+        ]
     }
 ]
