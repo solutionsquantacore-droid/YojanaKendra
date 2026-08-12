@@ -610,5 +610,183 @@
             "Apply via State Mahila portal.",
             "Complete physical verification."
         ]
+    },
+    {
+        "scheme_name": "National Livestock Mission (NLM)",
+        "state": "Central",
+        "sector": "Business",
+        "category": "Poultry & Dairy",
+        "description": "50% capital subsidy (up to \u20b950 Lakhs) for setting up rural poultry farms, hatcheries, or sheep/goat breeding units.",
+        "eligibility_criteria": [
+            "Individuals",
+            "FPOs",
+            "SHGs",
+            "Farmers"
+        ],
+        "required_documents": [
+            "Aadhaar Card",
+            "Detailed Project Report (DPR)",
+            "Land Document",
+            "Bank Passbook"
+        ],
+        "application_steps": [
+            "Register on NLM portal",
+            "Submit DPR and application",
+            "Bank appraises the project",
+            "Subsidy released through bank"
+        ],
+        "apply_url": "https://nlm.udyamimitra.in/"
+    },
+    {
+        "scheme_name": "Animal Husbandry Infrastructure Development Fund (AHIDF)",
+        "state": "Central",
+        "sector": "Business",
+        "category": "Dairy Processing",
+        "description": "3% interest subvention on loans for dairy processing, meat processing, and animal feed plants.",
+        "eligibility_criteria": [
+            "FPOs",
+            "MSMEs",
+            "Section 8 Companies",
+            "Private Companies",
+            "Individual Entrepreneurs"
+        ],
+        "required_documents": [
+            "Aadhaar Card",
+            "PAN Card",
+            "Project Report",
+            "Bank Details"
+        ],
+        "application_steps": [
+            "Apply on AHIDF portal",
+            "Select preferred bank",
+            "Project reviewed by committee",
+            "Loan sanctioned with subvention"
+        ],
+        "apply_url": "https://ahidf.udyamimitra.in/"
+    },
+    {
+        "scheme_name": "Pradhan Mantri Mudra Yojana (PMMY)",
+        "state": "Central",
+        "sector": "Business",
+        "category": "Small Business",
+        "description": "Collateral-free loans up to \u20b910 Lakhs for non-corporate, non-farm small/micro enterprises (including allied agriculture).",
+        "eligibility_criteria": [
+            "Individuals",
+            "Proprietors",
+            "Partnerships",
+            "Small Business Owners"
+        ],
+        "required_documents": [
+            "Aadhaar",
+            "PAN",
+            "Business Proof",
+            "Project Plan"
+        ],
+        "application_steps": [
+            "Visit nearest bank branch or apply via Jan Samarth portal",
+            "Fill Mudra application form",
+            "Submit business plan"
+        ],
+        "apply_url": "https://www.jansamarth.in/"
+    },
+    {
+        "scheme_name": "PM Formalisation of Micro food processing Enterprises (PMFME)",
+        "state": "Central",
+        "sector": "Business",
+        "category": "Food Processing",
+        "description": "35% credit-linked capital subsidy (up to \u20b910 Lakhs) for upgrading or setting up a micro food processing unit.",
+        "eligibility_criteria": [
+            "Micro Enterprises",
+            "FPOs",
+            "SHGs",
+            "Cooperatives"
+        ],
+        "required_documents": [
+            "Aadhaar",
+            "PAN",
+            "Bank Details",
+            "Project Report"
+        ],
+        "application_steps": [
+            "Apply online on PMFME portal",
+            "Submit DPR",
+            "Approval by state nodal agency",
+            "Loan and subsidy disbursed"
+        ],
+        "apply_url": "https://pmfme.mofpi.gov.in/"
+    },
+    {
+        "scheme_name": "Pradhan Mantri Matsya Sampada Yojana (PMMSY)",
+        "state": "Central",
+        "sector": "Business",
+        "category": "Fisheries",
+        "description": "40% subsidy for General category and 60% for SC/ST/Women for fish farming, cold storage, hatcheries, and aquaculture.",
+        "eligibility_criteria": [
+            "Fish Farmers",
+            "Fish Workers",
+            "Fisheries Cooperatives",
+            "Entrepreneurs",
+            "SC/ST/Women"
+        ],
+        "required_documents": [
+            "Aadhaar",
+            "Land Records",
+            "Bank Passbook",
+            "Project Report"
+        ],
+        "application_steps": [
+            "Contact local Fisheries Department",
+            "Submit detailed project report",
+            "Get approval from District Level Committee"
+        ],
+        "apply_url": "https://pmmsy.dof.gov.in/"
+    },
+    {
+        "scheme_name": "Credit Guarantee Fund Trust for Micro and Small Enterprises (CGTMSE)",
+        "state": "Central",
+        "sector": "Business",
+        "category": "Manufacturing",
+        "description": "Collateral-free bank loans up to \u20b92 Crores backed by a government guarantee for manufacturing and service sectors.",
+        "eligibility_criteria": [
+            "New MSMEs",
+            "Existing MSMEs",
+            "Manufacturing Units"
+        ],
+        "required_documents": [
+            "Aadhaar",
+            "PAN",
+            "Udyam Registration",
+            "Detailed Business Plan"
+        ],
+        "application_steps": [
+            "Apply for loan at any scheduled commercial bank",
+            "Bank applies for guarantee cover with CGTMSE"
+        ],
+        "apply_url": "https://www.cgtmse.in/"
+    },
+    {
+        "scheme_name": "PM Vishwakarma Scheme",
+        "state": "Central",
+        "sector": "Business",
+        "category": "Handicrafts",
+        "description": "Support for traditional artisans with collateral-free credit (up to \u20b93 Lakhs at 5% interest) and a toolkit incentive of \u20b915,000.",
+        "eligibility_criteria": [
+            "Traditional Artisans",
+            "Craftsmen",
+            "Weavers",
+            "Potters",
+            "Carpenters"
+        ],
+        "required_documents": [
+            "Aadhaar",
+            "Bank Passbook",
+            "Ration Card"
+        ],
+        "application_steps": [
+            "Register on PM Vishwakarma portal via CSC",
+            "Get skill training",
+            "Receive toolkit and loan"
+        ],
+        "apply_url": "https://pmvishwakarma.gov.in/"
     }
 ]
