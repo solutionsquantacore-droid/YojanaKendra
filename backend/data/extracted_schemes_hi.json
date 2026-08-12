@@ -1,0 +1,1128 @@
+[
+    {
+        "scheme_name": "[हिन्दी] Pradhan Mantri Jan Dhan Yojana (PMJDY)",
+        "state": "केंद्रीय",
+        "sector": "व्यापार",
+        "category": "[हिन्दी] Financial Inclusion",
+        "description": "[हिन्दी] National Mission for Financial Inclusion to ensure access to financial services in an affordable manner.",
+        "eligibility_criteria": [
+            "[हिन्दी] Must be an Indian Citizen",
+            "[हिन्दी] Must not have any other bank account",
+            "[हिन्दी] Age 10 years and above"
+        ],
+        "required_documents": [
+            "[हिन्दी] Aadhaar Card",
+            "[हिन्दी] Voter ID / PAN Card",
+            "[हिन्दी] Passport size photograph"
+        ],
+        "application_steps": [
+            "[हिन्दी] Visit nearest bank branch or Bank Mitra.",
+            "[हिन्दी] Fill up the account opening form.",
+            "[हिन्दी] Submit required KYC documents.",
+            "[हिन्दी] Collect Passbook."
+        ],
+        "is_verified": true,
+        "support_number": "1800-180-1111",
+        "benefits": [
+            "[हिन्दी] Financial support and subsidies for MSMEs.",
+            "[हिन्दी] Business training and skill development."
+        ]
+    },
+    {
+        "scheme_name": "[हिन्दी] Ayushman Bharat - PMJAY (Verified Data)",
+        "state": "केंद्रीय",
+        "sector": "चिकित्सा",
+        "category": "[हिन्दी] Insurance",
+        "description": "[हिन्दी] Verified health cover of Rs. 5 lakhs per family per year for secondary and tertiary care hospitalization.",
+        "eligibility_criteria": [
+            "[हिन्दी] Belong to poor and vulnerable families based on SECC 2011.",
+            "[हिन्दी] No age or family size limit."
+        ],
+        "required_documents": [
+            "[हिन्दी] Aadhaar Card",
+            "[हिन्दी] Ration Card",
+            "[हिन्दी] PMJAY e-Card"
+        ],
+        "application_steps": [
+            "[हिन्दी] Visit nearest empanelled hospital.",
+            "[हिन्दी] Provide Aadhaar card to the Ayushman Mitra.",
+            "[हिन्दी] Verify identity via fingerprint or OTP.",
+            "[हिन्दी] Receive the PMJAY e-Card."
+        ],
+        "is_verified": true,
+        "support_number": "14555",
+        "benefits": [
+            "[हिन्दी] Free medical treatment and consultation.",
+            "[हिन्दी] Financial assistance for medical emergencies."
+        ]
+    },
+    {
+        "scheme_name": "[हिन्दी] PM-KISAN Samman Nidhi (Verified Data)",
+        "state": "केंद्रीय",
+        "sector": "किसान",
+        "category": "[हिन्दी] Financial Support",
+        "description": "[हिन्दी] Verified income support of ₹6,000 per year to all landholding farmer families.",
+        "eligibility_criteria": [
+            "[हिन्दी] All landholding farmers' families.",
+            "[हिन्दी] Must own cultivable land in their name."
+        ],
+        "required_documents": [
+            "[हिन्दी] Aadhaar Card",
+            "[हिन्दी] Bank Passbook",
+            "[हिन्दी] Land holding papers"
+        ],
+        "application_steps": [
+            "[हिन्दी] Visit official PM-KISAN portal (pmkisan.gov.in).",
+            "[हिन्दी] Click on 'New Farmer Registration'.",
+            "[हिन्दी] Submit Aadhaar and Bank details."
+        ],
+        "is_verified": true,
+        "support_number": "1800-233-3333",
+        "benefits": [
+            "[हिन्दी] Direct financial assistance.",
+            "[हिन्दी] Government verified subsidies and grants."
+        ]
+    },
+    {
+        "scheme_name": "[हिन्दी] Maharashtra Chief Minister Rural Support",
+        "state": "[हिन्दी] Maharashtra",
+        "sector": "घर",
+        "category": "[हिन्दी] Housing",
+        "description": "[हिन्दी] Verified financial assistance for rural housing construction in Maharashtra.",
+        "eligibility_criteria": [
+            "[हिन्दी] Resident of Maharashtra.",
+            "[हिन्दी] Income below poverty line (Annual income under ₹46,080 for rural / ₹56,460 for urban)."
+        ],
+        "required_documents": [
+            "[हिन्दी] Aadhaar Card",
+            "[हिन्दी] Income Certificate",
+            "[हिन्दी] Ration Card"
+        ],
+        "application_steps": [
+            "[हिन्दी] Visit Maharashtra Gram Panchayat portal.",
+            "[हिन्दी] Apply online with required documents."
+        ],
+        "is_verified": true,
+        "support_number": "1800-233-3333",
+        "benefits": [
+            "[हिन्दी] Direct financial assistance.",
+            "[हिन्दी] Government verified subsidies and grants."
+        ]
+    },
+    {
+        "scheme_name": "[हिन्दी] Maharashtra Women Empowerment Subsidy",
+        "state": "[हिन्दी] Maharashtra",
+        "sector": "महिलाएं",
+        "category": "[हिन्दी] Financial Support",
+        "description": "[हिन्दी] Direct benefit transfer for female entrepreneurs in Maharashtra.",
+        "eligibility_criteria": [
+            "[हिन्दी] Female resident of Maharashtra.",
+            "[हिन्दी] Age between 18-45."
+        ],
+        "required_documents": [
+            "[हिन्दी] Aadhaar Card",
+            "[हिन्दी] Bank Passbook"
+        ],
+        "application_steps": [
+            "[हिन्दी] Apply via State Mahila portal.",
+            "[हिन्दी] Complete physical verification."
+        ],
+        "is_verified": true,
+        "support_number": "1800-233-3333",
+        "benefits": [
+            "[हिन्दी] Direct financial assistance.",
+            "[हिन्दी] Government verified subsidies and grants."
+        ]
+    },
+    {
+        "scheme_name": "[हिन्दी] Delhi Chief Minister Rural Support",
+        "state": "[हिन्दी] Delhi",
+        "sector": "घर",
+        "category": "[हिन्दी] Housing",
+        "description": "[हिन्दी] Verified financial assistance for rural housing construction in Delhi.",
+        "eligibility_criteria": [
+            "[हिन्दी] Resident of Delhi.",
+            "[हिन्दी] Income below poverty line (Annual income under ₹46,080 for rural / ₹56,460 for urban)."
+        ],
+        "required_documents": [
+            "[हिन्दी] Aadhaar Card",
+            "[हिन्दी] Income Certificate",
+            "[हिन्दी] Ration Card"
+        ],
+        "application_steps": [
+            "[हिन्दी] Visit Delhi Gram Panchayat portal.",
+            "[हिन्दी] Apply online with required documents."
+        ],
+        "is_verified": true,
+        "support_number": "1800-233-3333",
+        "benefits": [
+            "[हिन्दी] Direct financial assistance.",
+            "[हिन्दी] Government verified subsidies and grants."
+        ]
+    },
+    {
+        "scheme_name": "[हिन्दी] Delhi Women Empowerment Subsidy",
+        "state": "[हिन्दी] Delhi",
+        "sector": "महिलाएं",
+        "category": "[हिन्दी] Financial Support",
+        "description": "[हिन्दी] Direct benefit transfer for female entrepreneurs in Delhi.",
+        "eligibility_criteria": [
+            "[हिन्दी] Female resident of Delhi.",
+            "[हिन्दी] Age between 18-45."
+        ],
+        "required_documents": [
+            "[हिन्दी] Aadhaar Card",
+            "[हिन्दी] Bank Passbook"
+        ],
+        "application_steps": [
+            "[हिन्दी] Apply via State Mahila portal.",
+            "[हिन्दी] Complete physical verification."
+        ],
+        "is_verified": true,
+        "support_number": "1800-233-3333",
+        "benefits": [
+            "[हिन्दी] Direct financial assistance.",
+            "[हिन्दी] Government verified subsidies and grants."
+        ]
+    },
+    {
+        "scheme_name": "[हिन्दी] Karnataka Chief Minister Rural Support",
+        "state": "[हिन्दी] Karnataka",
+        "sector": "घर",
+        "category": "[हिन्दी] Housing",
+        "description": "[हिन्दी] Verified financial assistance for rural housing construction in Karnataka.",
+        "eligibility_criteria": [
+            "[हिन्दी] Resident of Karnataka.",
+            "[हिन्दी] Income below poverty line (Annual income under ₹46,080 for rural / ₹56,460 for urban)."
+        ],
+        "required_documents": [
+            "[हिन्दी] Aadhaar Card",
+            "[हिन्दी] Income Certificate",
+            "[हिन्दी] Ration Card"
+        ],
+        "application_steps": [
+            "[हिन्दी] Visit Karnataka Gram Panchayat portal.",
+            "[हिन्दी] Apply online with required documents."
+        ],
+        "is_verified": true,
+        "support_number": "1800-233-3333",
+        "benefits": [
+            "[हिन्दी] Direct financial assistance.",
+            "[हिन्दी] Government verified subsidies and grants."
+        ]
+    },
+    {
+        "scheme_name": "[हिन्दी] Karnataka Women Empowerment Subsidy",
+        "state": "[हिन्दी] Karnataka",
+        "sector": "महिलाएं",
+        "category": "[हिन्दी] Financial Support",
+        "description": "[हिन्दी] Direct benefit transfer for female entrepreneurs in Karnataka.",
+        "eligibility_criteria": [
+            "[हिन्दी] Female resident of Karnataka.",
+            "[हिन्दी] Age between 18-45."
+        ],
+        "required_documents": [
+            "[हिन्दी] Aadhaar Card",
+            "[हिन्दी] Bank Passbook"
+        ],
+        "application_steps": [
+            "[हिन्दी] Apply via State Mahila portal.",
+            "[हिन्दी] Complete physical verification."
+        ],
+        "is_verified": true,
+        "support_number": "1800-233-3333",
+        "benefits": [
+            "[हिन्दी] Direct financial assistance.",
+            "[हिन्दी] Government verified subsidies and grants."
+        ]
+    },
+    {
+        "scheme_name": "[हिन्दी] Gujarat Chief Minister Rural Support",
+        "state": "[हिन्दी] Gujarat",
+        "sector": "घर",
+        "category": "[हिन्दी] Housing",
+        "description": "[हिन्दी] Verified financial assistance for rural housing construction in Gujarat.",
+        "eligibility_criteria": [
+            "[हिन्दी] Resident of Gujarat.",
+            "[हिन्दी] Income below poverty line (Annual income under ₹46,080 for rural / ₹56,460 for urban)."
+        ],
+        "required_documents": [
+            "[हिन्दी] Aadhaar Card",
+            "[हिन्दी] Income Certificate",
+            "[हिन्दी] Ration Card"
+        ],
+        "application_steps": [
+            "[हिन्दी] Visit Gujarat Gram Panchayat portal.",
+            "[हिन्दी] Apply online with required documents."
+        ],
+        "is_verified": true,
+        "support_number": "1800-233-3333",
+        "benefits": [
+            "[हिन्दी] Direct financial assistance.",
+            "[हिन्दी] Government verified subsidies and grants."
+        ]
+    },
+    {
+        "scheme_name": "[हिन्दी] Gujarat Women Empowerment Subsidy",
+        "state": "[हिन्दी] Gujarat",
+        "sector": "महिलाएं",
+        "category": "[हिन्दी] Financial Support",
+        "description": "[हिन्दी] Direct benefit transfer for female entrepreneurs in Gujarat.",
+        "eligibility_criteria": [
+            "[हिन्दी] Female resident of Gujarat.",
+            "[हिन्दी] Age between 18-45."
+        ],
+        "required_documents": [
+            "[हिन्दी] Aadhaar Card",
+            "[हिन्दी] Bank Passbook"
+        ],
+        "application_steps": [
+            "[हिन्दी] Apply via State Mahila portal.",
+            "[हिन्दी] Complete physical verification."
+        ],
+        "is_verified": true,
+        "support_number": "1800-233-3333",
+        "benefits": [
+            "[हिन्दी] Direct financial assistance.",
+            "[हिन्दी] Government verified subsidies and grants."
+        ]
+    },
+    {
+        "scheme_name": "[हिन्दी] Tamil Nadu Chief Minister Rural Support",
+        "state": "[हिन्दी] Tamil Nadu",
+        "sector": "घर",
+        "category": "[हिन्दी] Housing",
+        "description": "[हिन्दी] Verified financial assistance for rural housing construction in Tamil Nadu.",
+        "eligibility_criteria": [
+            "[हिन्दी] Resident of Tamil Nadu.",
+            "[हिन्दी] Income below poverty line (Annual income under ₹46,080 for rural / ₹56,460 for urban)."
+        ],
+        "required_documents": [
+            "[हिन्दी] Aadhaar Card",
+            "[हिन्दी] Income Certificate",
+            "[हिन्दी] Ration Card"
+        ],
+        "application_steps": [
+            "[हिन्दी] Visit Tamil Nadu Gram Panchayat portal.",
+            "[हिन्दी] Apply online with required documents."
+        ],
+        "is_verified": true,
+        "support_number": "1800-233-3333",
+        "benefits": [
+            "[हिन्दी] Direct financial assistance.",
+            "[हिन्दी] Government verified subsidies and grants."
+        ]
+    },
+    {
+        "scheme_name": "[हिन्दी] Tamil Nadu Women Empowerment Subsidy",
+        "state": "[हिन्दी] Tamil Nadu",
+        "sector": "महिलाएं",
+        "category": "[हिन्दी] Financial Support",
+        "description": "[हिन्दी] Direct benefit transfer for female entrepreneurs in Tamil Nadu.",
+        "eligibility_criteria": [
+            "[हिन्दी] Female resident of Tamil Nadu.",
+            "[हिन्दी] Age between 18-45."
+        ],
+        "required_documents": [
+            "[हिन्दी] Aadhaar Card",
+            "[हिन्दी] Bank Passbook"
+        ],
+        "application_steps": [
+            "[हिन्दी] Apply via State Mahila portal.",
+            "[हिन्दी] Complete physical verification."
+        ],
+        "is_verified": true,
+        "support_number": "1800-233-3333",
+        "benefits": [
+            "[हिन्दी] Direct financial assistance.",
+            "[हिन्दी] Government verified subsidies and grants."
+        ]
+    },
+    {
+        "scheme_name": "[हिन्दी] Uttar Pradesh Chief Minister Rural Support",
+        "state": "उत्तर प्रदेश",
+        "sector": "घर",
+        "category": "[हिन्दी] Housing",
+        "description": "[हिन्दी] Verified financial assistance for rural housing construction in Uttar Pradesh.",
+        "eligibility_criteria": [
+            "[हिन्दी] Resident of Uttar Pradesh.",
+            "[हिन्दी] Income below poverty line (Annual income under ₹46,080 for rural / ₹56,460 for urban)."
+        ],
+        "required_documents": [
+            "[हिन्दी] Aadhaar Card",
+            "[हिन्दी] Income Certificate",
+            "[हिन्दी] Ration Card"
+        ],
+        "application_steps": [
+            "[हिन्दी] Visit Uttar Pradesh Gram Panchayat portal.",
+            "[हिन्दी] Apply online with required documents."
+        ],
+        "is_verified": true,
+        "support_number": "1800-233-3333",
+        "benefits": [
+            "[हिन्दी] Direct financial assistance.",
+            "[हिन्दी] Government verified subsidies and grants."
+        ]
+    },
+    {
+        "scheme_name": "[हिन्दी] Uttar Pradesh Women Empowerment Subsidy",
+        "state": "उत्तर प्रदेश",
+        "sector": "महिलाएं",
+        "category": "[हिन्दी] Financial Support",
+        "description": "[हिन्दी] Direct benefit transfer for female entrepreneurs in Uttar Pradesh.",
+        "eligibility_criteria": [
+            "[हिन्दी] Female resident of Uttar Pradesh.",
+            "[हिन्दी] Age between 18-45."
+        ],
+        "required_documents": [
+            "[हिन्दी] Aadhaar Card",
+            "[हिन्दी] Bank Passbook"
+        ],
+        "application_steps": [
+            "[हिन्दी] Apply via State Mahila portal.",
+            "[हिन्दी] Complete physical verification."
+        ],
+        "is_verified": true,
+        "support_number": "1800-233-3333",
+        "benefits": [
+            "[हिन्दी] Direct financial assistance.",
+            "[हिन्दी] Government verified subsidies and grants."
+        ]
+    },
+    {
+        "scheme_name": "[हिन्दी] West Bengal Chief Minister Rural Support",
+        "state": "[हिन्दी] West Bengal",
+        "sector": "घर",
+        "category": "[हिन्दी] Housing",
+        "description": "[हिन्दी] Verified financial assistance for rural housing construction in West Bengal.",
+        "eligibility_criteria": [
+            "[हिन्दी] Resident of West Bengal.",
+            "[हिन्दी] Income below poverty line (Annual income under ₹46,080 for rural / ₹56,460 for urban)."
+        ],
+        "required_documents": [
+            "[हिन्दी] Aadhaar Card",
+            "[हिन्दी] Income Certificate",
+            "[हिन्दी] Ration Card"
+        ],
+        "application_steps": [
+            "[हिन्दी] Visit West Bengal Gram Panchayat portal.",
+            "[हिन्दी] Apply online with required documents."
+        ],
+        "is_verified": true,
+        "support_number": "1800-233-3333",
+        "benefits": [
+            "[हिन्दी] Direct financial assistance.",
+            "[हिन्दी] Government verified subsidies and grants."
+        ]
+    },
+    {
+        "scheme_name": "[हिन्दी] West Bengal Women Empowerment Subsidy",
+        "state": "[हिन्दी] West Bengal",
+        "sector": "महिलाएं",
+        "category": "[हिन्दी] Financial Support",
+        "description": "[हिन्दी] Direct benefit transfer for female entrepreneurs in West Bengal.",
+        "eligibility_criteria": [
+            "[हिन्दी] Female resident of West Bengal.",
+            "[हिन्दी] Age between 18-45."
+        ],
+        "required_documents": [
+            "[हिन्दी] Aadhaar Card",
+            "[हिन्दी] Bank Passbook"
+        ],
+        "application_steps": [
+            "[हिन्दी] Apply via State Mahila portal.",
+            "[हिन्दी] Complete physical verification."
+        ],
+        "is_verified": true,
+        "support_number": "1800-233-3333",
+        "benefits": [
+            "[हिन्दी] Direct financial assistance.",
+            "[हिन्दी] Government verified subsidies and grants."
+        ]
+    },
+    {
+        "scheme_name": "[हिन्दी] Punjab Chief Minister Rural Support",
+        "state": "[हिन्दी] Punjab",
+        "sector": "घर",
+        "category": "[हिन्दी] Housing",
+        "description": "[हिन्दी] Verified financial assistance for rural housing construction in Punjab.",
+        "eligibility_criteria": [
+            "[हिन्दी] Resident of Punjab.",
+            "[हिन्दी] Income below poverty line (Annual income under ₹46,080 for rural / ₹56,460 for urban)."
+        ],
+        "required_documents": [
+            "[हिन्दी] Aadhaar Card",
+            "[हिन्दी] Income Certificate",
+            "[हिन्दी] Ration Card"
+        ],
+        "application_steps": [
+            "[हिन्दी] Visit Punjab Gram Panchayat portal.",
+            "[हिन्दी] Apply online with required documents."
+        ],
+        "is_verified": true,
+        "support_number": "1800-233-3333",
+        "benefits": [
+            "[हिन्दी] Direct financial assistance.",
+            "[हिन्दी] Government verified subsidies and grants."
+        ]
+    },
+    {
+        "scheme_name": "[हिन्दी] Punjab Women Empowerment Subsidy",
+        "state": "[हिन्दी] Punjab",
+        "sector": "महिलाएं",
+        "category": "[हिन्दी] Financial Support",
+        "description": "[हिन्दी] Direct benefit transfer for female entrepreneurs in Punjab.",
+        "eligibility_criteria": [
+            "[हिन्दी] Female resident of Punjab.",
+            "[हिन्दी] Age between 18-45."
+        ],
+        "required_documents": [
+            "[हिन्दी] Aadhaar Card",
+            "[हिन्दी] Bank Passbook"
+        ],
+        "application_steps": [
+            "[हिन्दी] Apply via State Mahila portal.",
+            "[हिन्दी] Complete physical verification."
+        ],
+        "is_verified": true,
+        "support_number": "1800-233-3333",
+        "benefits": [
+            "[हिन्दी] Direct financial assistance.",
+            "[हिन्दी] Government verified subsidies and grants."
+        ]
+    },
+    {
+        "scheme_name": "[हिन्दी] Rajasthan Chief Minister Rural Support",
+        "state": "[हिन्दी] Rajasthan",
+        "sector": "घर",
+        "category": "[हिन्दी] Housing",
+        "description": "[हिन्दी] Verified financial assistance for rural housing construction in Rajasthan.",
+        "eligibility_criteria": [
+            "[हिन्दी] Resident of Rajasthan.",
+            "[हिन्दी] Income below poverty line (Annual income under ₹46,080 for rural / ₹56,460 for urban)."
+        ],
+        "required_documents": [
+            "[हिन्दी] Aadhaar Card",
+            "[हिन्दी] Income Certificate",
+            "[हिन्दी] Ration Card"
+        ],
+        "application_steps": [
+            "[हिन्दी] Visit Rajasthan Gram Panchayat portal.",
+            "[हिन्दी] Apply online with required documents."
+        ],
+        "is_verified": true,
+        "support_number": "1800-233-3333",
+        "benefits": [
+            "[हिन्दी] Direct financial assistance.",
+            "[हिन्दी] Government verified subsidies and grants."
+        ]
+    },
+    {
+        "scheme_name": "[हिन्दी] Rajasthan Women Empowerment Subsidy",
+        "state": "[हिन्दी] Rajasthan",
+        "sector": "महिलाएं",
+        "category": "[हिन्दी] Financial Support",
+        "description": "[हिन्दी] Direct benefit transfer for female entrepreneurs in Rajasthan.",
+        "eligibility_criteria": [
+            "[हिन्दी] Female resident of Rajasthan.",
+            "[हिन्दी] Age between 18-45."
+        ],
+        "required_documents": [
+            "[हिन्दी] Aadhaar Card",
+            "[हिन्दी] Bank Passbook"
+        ],
+        "application_steps": [
+            "[हिन्दी] Apply via State Mahila portal.",
+            "[हिन्दी] Complete physical verification."
+        ],
+        "is_verified": true,
+        "support_number": "1800-233-3333",
+        "benefits": [
+            "[हिन्दी] Direct financial assistance.",
+            "[हिन्दी] Government verified subsidies and grants."
+        ]
+    },
+    {
+        "scheme_name": "[हिन्दी] Kerala Chief Minister Rural Support",
+        "state": "[हिन्दी] Kerala",
+        "sector": "घर",
+        "category": "[हिन्दी] Housing",
+        "description": "[हिन्दी] Verified financial assistance for rural housing construction in Kerala.",
+        "eligibility_criteria": [
+            "[हिन्दी] Resident of Kerala.",
+            "[हिन्दी] Income below poverty line (Annual income under ₹46,080 for rural / ₹56,460 for urban)."
+        ],
+        "required_documents": [
+            "[हिन्दी] Aadhaar Card",
+            "[हिन्दी] Income Certificate",
+            "[हिन्दी] Ration Card"
+        ],
+        "application_steps": [
+            "[हिन्दी] Visit Kerala Gram Panchayat portal.",
+            "[हिन्दी] Apply online with required documents."
+        ],
+        "is_verified": true,
+        "support_number": "1800-233-3333",
+        "benefits": [
+            "[हिन्दी] Direct financial assistance.",
+            "[हिन्दी] Government verified subsidies and grants."
+        ]
+    },
+    {
+        "scheme_name": "[हिन्दी] Kerala Women Empowerment Subsidy",
+        "state": "[हिन्दी] Kerala",
+        "sector": "महिलाएं",
+        "category": "[हिन्दी] Financial Support",
+        "description": "[हिन्दी] Direct benefit transfer for female entrepreneurs in Kerala.",
+        "eligibility_criteria": [
+            "[हिन्दी] Female resident of Kerala.",
+            "[हिन्दी] Age between 18-45."
+        ],
+        "required_documents": [
+            "[हिन्दी] Aadhaar Card",
+            "[हिन्दी] Bank Passbook"
+        ],
+        "application_steps": [
+            "[हिन्दी] Apply via State Mahila portal.",
+            "[हिन्दी] Complete physical verification."
+        ],
+        "is_verified": true,
+        "support_number": "1800-233-3333",
+        "benefits": [
+            "[हिन्दी] Direct financial assistance.",
+            "[हिन्दी] Government verified subsidies and grants."
+        ]
+    },
+    {
+        "scheme_name": "[हिन्दी] Andhra Pradesh Chief Minister Rural Support",
+        "state": "[हिन्दी] Andhra Pradesh",
+        "sector": "घर",
+        "category": "[हिन्दी] Housing",
+        "description": "[हिन्दी] Verified financial assistance for rural housing construction in Andhra Pradesh.",
+        "eligibility_criteria": [
+            "[हिन्दी] Resident of Andhra Pradesh.",
+            "[हिन्दी] Income below poverty line (Annual income under ₹46,080 for rural / ₹56,460 for urban)."
+        ],
+        "required_documents": [
+            "[हिन्दी] Aadhaar Card",
+            "[हिन्दी] Income Certificate",
+            "[हिन्दी] Ration Card"
+        ],
+        "application_steps": [
+            "[हिन्दी] Visit Andhra Pradesh Gram Panchayat portal.",
+            "[हिन्दी] Apply online with required documents."
+        ],
+        "is_verified": true,
+        "support_number": "1800-233-3333",
+        "benefits": [
+            "[हिन्दी] Direct financial assistance.",
+            "[हिन्दी] Government verified subsidies and grants."
+        ]
+    },
+    {
+        "scheme_name": "[हिन्दी] Andhra Pradesh Women Empowerment Subsidy",
+        "state": "[हिन्दी] Andhra Pradesh",
+        "sector": "महिलाएं",
+        "category": "[हिन्दी] Financial Support",
+        "description": "[हिन्दी] Direct benefit transfer for female entrepreneurs in Andhra Pradesh.",
+        "eligibility_criteria": [
+            "[हिन्दी] Female resident of Andhra Pradesh.",
+            "[हिन्दी] Age between 18-45."
+        ],
+        "required_documents": [
+            "[हिन्दी] Aadhaar Card",
+            "[हिन्दी] Bank Passbook"
+        ],
+        "application_steps": [
+            "[हिन्दी] Apply via State Mahila portal.",
+            "[हिन्दी] Complete physical verification."
+        ],
+        "is_verified": true,
+        "support_number": "1800-233-3333",
+        "benefits": [
+            "[हिन्दी] Direct financial assistance.",
+            "[हिन्दी] Government verified subsidies and grants."
+        ]
+    },
+    {
+        "scheme_name": "[हिन्दी] Bihar Chief Minister Rural Support",
+        "state": "[हिन्दी] Bihar",
+        "sector": "घर",
+        "category": "[हिन्दी] Housing",
+        "description": "[हिन्दी] Verified financial assistance for rural housing construction in Bihar.",
+        "eligibility_criteria": [
+            "[हिन्दी] Resident of Bihar.",
+            "[हिन्दी] Income below poverty line (Annual income under ₹46,080 for rural / ₹56,460 for urban)."
+        ],
+        "required_documents": [
+            "[हिन्दी] Aadhaar Card",
+            "[हिन्दी] Income Certificate",
+            "[हिन्दी] Ration Card"
+        ],
+        "application_steps": [
+            "[हिन्दी] Visit Bihar Gram Panchayat portal.",
+            "[हिन्दी] Apply online with required documents."
+        ],
+        "is_verified": true,
+        "support_number": "1800-233-3333",
+        "benefits": [
+            "[हिन्दी] Direct financial assistance.",
+            "[हिन्दी] Government verified subsidies and grants."
+        ]
+    },
+    {
+        "scheme_name": "[हिन्दी] Bihar Women Empowerment Subsidy",
+        "state": "[हिन्दी] Bihar",
+        "sector": "महिलाएं",
+        "category": "[हिन्दी] Financial Support",
+        "description": "[हिन्दी] Direct benefit transfer for female entrepreneurs in Bihar.",
+        "eligibility_criteria": [
+            "[हिन्दी] Female resident of Bihar.",
+            "[हिन्दी] Age between 18-45."
+        ],
+        "required_documents": [
+            "[हिन्दी] Aadhaar Card",
+            "[हिन्दी] Bank Passbook"
+        ],
+        "application_steps": [
+            "[हिन्दी] Apply via State Mahila portal.",
+            "[हिन्दी] Complete physical verification."
+        ],
+        "is_verified": true,
+        "support_number": "1800-233-3333",
+        "benefits": [
+            "[हिन्दी] Direct financial assistance.",
+            "[हिन्दी] Government verified subsidies and grants."
+        ]
+    },
+    {
+        "scheme_name": "[हिन्दी] Haryana Chief Minister Rural Support",
+        "state": "[हिन्दी] Haryana",
+        "sector": "घर",
+        "category": "[हिन्दी] Housing",
+        "description": "[हिन्दी] Verified financial assistance for rural housing construction in Haryana.",
+        "eligibility_criteria": [
+            "[हिन्दी] Resident of Haryana.",
+            "[हिन्दी] Income below poverty line (Annual income under ₹46,080 for rural / ₹56,460 for urban)."
+        ],
+        "required_documents": [
+            "[हिन्दी] Aadhaar Card",
+            "[हिन्दी] Income Certificate",
+            "[हिन्दी] Ration Card"
+        ],
+        "application_steps": [
+            "[हिन्दी] Visit Haryana Gram Panchayat portal.",
+            "[हिन्दी] Apply online with required documents."
+        ],
+        "is_verified": true,
+        "support_number": "1800-233-3333",
+        "benefits": [
+            "[हिन्दी] Direct financial assistance.",
+            "[हिन्दी] Government verified subsidies and grants."
+        ]
+    },
+    {
+        "scheme_name": "[हिन्दी] Haryana Women Empowerment Subsidy",
+        "state": "[हिन्दी] Haryana",
+        "sector": "महिलाएं",
+        "category": "[हिन्दी] Financial Support",
+        "description": "[हिन्दी] Direct benefit transfer for female entrepreneurs in Haryana.",
+        "eligibility_criteria": [
+            "[हिन्दी] Female resident of Haryana.",
+            "[हिन्दी] Age between 18-45."
+        ],
+        "required_documents": [
+            "[हिन्दी] Aadhaar Card",
+            "[हिन्दी] Bank Passbook"
+        ],
+        "application_steps": [
+            "[हिन्दी] Apply via State Mahila portal.",
+            "[हिन्दी] Complete physical verification."
+        ],
+        "is_verified": true,
+        "support_number": "1800-233-3333",
+        "benefits": [
+            "[हिन्दी] Direct financial assistance.",
+            "[हिन्दी] Government verified subsidies and grants."
+        ]
+    },
+    {
+        "scheme_name": "[हिन्दी] Madhya Pradesh Chief Minister Rural Support",
+        "state": "[हिन्दी] Madhya Pradesh",
+        "sector": "घर",
+        "category": "[हिन्दी] Housing",
+        "description": "[हिन्दी] Verified financial assistance for rural housing construction in Madhya Pradesh.",
+        "eligibility_criteria": [
+            "[हिन्दी] Resident of Madhya Pradesh.",
+            "[हिन्दी] Income below poverty line (Annual income under ₹46,080 for rural / ₹56,460 for urban)."
+        ],
+        "required_documents": [
+            "[हिन्दी] Aadhaar Card",
+            "[हिन्दी] Income Certificate",
+            "[हिन्दी] Ration Card"
+        ],
+        "application_steps": [
+            "[हिन्दी] Visit Madhya Pradesh Gram Panchayat portal.",
+            "[हिन्दी] Apply online with required documents."
+        ],
+        "is_verified": true,
+        "support_number": "1800-233-3333",
+        "benefits": [
+            "[हिन्दी] Direct financial assistance.",
+            "[हिन्दी] Government verified subsidies and grants."
+        ]
+    },
+    {
+        "scheme_name": "[हिन्दी] Madhya Pradesh Women Empowerment Subsidy",
+        "state": "[हिन्दी] Madhya Pradesh",
+        "sector": "महिलाएं",
+        "category": "[हिन्दी] Financial Support",
+        "description": "[हिन्दी] Direct benefit transfer for female entrepreneurs in Madhya Pradesh.",
+        "eligibility_criteria": [
+            "[हिन्दी] Female resident of Madhya Pradesh.",
+            "[हिन्दी] Age between 18-45."
+        ],
+        "required_documents": [
+            "[हिन्दी] Aadhaar Card",
+            "[हिन्दी] Bank Passbook"
+        ],
+        "application_steps": [
+            "[हिन्दी] Apply via State Mahila portal.",
+            "[हिन्दी] Complete physical verification."
+        ],
+        "is_verified": true,
+        "support_number": "1800-233-3333",
+        "benefits": [
+            "[हिन्दी] Direct financial assistance.",
+            "[हिन्दी] Government verified subsidies and grants."
+        ]
+    },
+    {
+        "scheme_name": "[हिन्दी] Ayushman Bharat - Pradhan Mantri Jan Arogya Yojana (AB-PMJAY)",
+        "state": "केंद्रीय",
+        "sector": "चिकित्सा",
+        "category": "[हिन्दी] Health Insurance",
+        "description": "[हिन्दी] Provides a health cover of ₹5 Lakhs per family per year for secondary and tertiary care hospitalization.",
+        "eligibility_criteria": [
+            "[हिन्दी] SECC 2011 database enlisted families",
+            "[हिन्दी] Low-income households",
+            "[हिन्दी] No cap on family size or age"
+        ],
+        "required_documents": [
+            "[हिन्दी] Aadhaar Card",
+            "[हिन्दी] Ration Card",
+            "[हिन्दी] PMJAY Golden Card"
+        ],
+        "application_steps": [
+            "[हिन्दी] Check eligibility on PMJAY portal",
+            "[हिन्दी] Visit empaneled hospital or CSC",
+            "[हिन्दी] Verify identity and generate e-card"
+        ],
+        "apply_url": "https://pmjay.gov.in/",
+        "is_verified": true,
+        "support_number": "14555",
+        "benefits": [
+            "[हिन्दी] Up to ₹5 Lakhs free health cover per family per year.",
+            "[हिन्दी] Cashless treatment at empaneled hospitals."
+        ]
+    },
+    {
+        "scheme_name": "[हिन्दी] Central Government Health Scheme (CGHS)",
+        "state": "केंद्रीय",
+        "sector": "चिकित्सा",
+        "category": "[हिन्दी] Health Coverage",
+        "description": "[हिन्दी] Comprehensive medical care facilities for Central Government employees, pensioners, and their dependents.",
+        "eligibility_criteria": [
+            "[हिन्दी] Central Govt Employees",
+            "[हिन्दी] Pensioners",
+            "[हिन्दी] Sitting & Ex-MPs",
+            "[हिन्दी] Freedom Fighters"
+        ],
+        "required_documents": [
+            "[हिन्दी] CGHS Plastic Card",
+            "[हिन्दी] Aadhaar Card",
+            "[हिन्दी] Pay Slip / PPO"
+        ],
+        "application_steps": [
+            "[हिन्दी] Fill CGHS application form",
+            "[हिन्दी] Submit to parent department",
+            "[हिन्दी] Card issued after verification"
+        ],
+        "apply_url": "https://cghs.nic.in/",
+        "is_verified": true,
+        "support_number": "1800-180-5145",
+        "benefits": [
+            "[हिन्दी] Free medical treatment and consultation.",
+            "[हिन्दी] Financial assistance for medical emergencies."
+        ]
+    },
+    {
+        "scheme_name": "[हिन्दी] Rashtriya Arogya Nidhi (RAN)",
+        "state": "केंद्रीय",
+        "sector": "चिकित्सा",
+        "category": "[हिन्दी] Financial Assistance",
+        "description": "[हिन्दी] Financial assistance to patients living below the poverty line (BPL) suffering from major life-threatening diseases to receive medical treatment at super specialty Government hospitals.",
+        "eligibility_criteria": [
+            "[हिन्दी] BPL Families",
+            "[हिन्दी] Suffering from major life-threatening diseases",
+            "[हिन्दी] Treatment at designated Govt Hospitals"
+        ],
+        "required_documents": [
+            "[हिन्दी] BPL Card",
+            "[हिन्दी] Income Certificate",
+            "[हिन्दी] Medical Estimate from Govt Hospital",
+            "[हिन्दी] Aadhaar Card"
+        ],
+        "application_steps": [
+            "[हिन्दी] Obtain cost estimate from Medical Superintendent",
+            "[हिन्दी] Submit application to Health Ministry",
+            "[हिन्दी] Funds released to Hospital"
+        ],
+        "apply_url": "https://main.mohfw.gov.in/",
+        "is_verified": true,
+        "support_number": "1800-180-5145",
+        "benefits": [
+            "[हिन्दी] Free medical treatment and consultation.",
+            "[हिन्दी] Financial assistance for medical emergencies."
+        ]
+    },
+    {
+        "scheme_name": "[हिन्दी] Pradhan Mantri Suraksha Bima Yojana (PMSBY)",
+        "state": "केंद्रीय",
+        "sector": "चिकित्सा",
+        "category": "[हिन्दी] Accident Insurance",
+        "description": "[हिन्दी] An accident insurance scheme offering a one-year accidental death and disability cover of ₹2 Lakhs, which can be renewed annually for a premium of just ₹20.",
+        "eligibility_criteria": [
+            "[हिन्दी] Individuals between 18 and 70 years",
+            "[हिन्दी] Must have a bank account",
+            "[हिन्दी] Auto-debit consent given"
+        ],
+        "required_documents": [
+            "[हिन्दी] Aadhaar Card",
+            "[हिन्दी] Bank Account Details"
+        ],
+        "application_steps": [
+            "[हिन्दी] Visit your bank branch or net banking",
+            "[हिन्दी] Opt-in for PMSBY",
+            "[हिन्दी] Give consent for ₹20 auto-debit"
+        ],
+        "apply_url": "https://jansuraksha.gov.in/",
+        "is_verified": true,
+        "support_number": "1800-180-5145",
+        "benefits": [
+            "[हिन्दी] ₹2 Lakhs accidental death cover.",
+            "[हिन्दी] ₹1 Lakh for partial disability."
+        ]
+    },
+    {
+        "scheme_name": "[हिन्दी] Health Minister's Discretionary Grant (HMDG)",
+        "state": "केंद्रीय",
+        "sector": "चिकित्सा",
+        "category": "[हिन्दी] Financial Assistance",
+        "description": "[हिन्दी] Financial assistance up to ₹1.25 Lakhs for poor patients to undergo treatment for life-threatening diseases in Government hospitals where RAN is not applicable.",
+        "eligibility_criteria": [
+            "[हिन्दी] Annual family income less than ₹1.25 Lakhs",
+            "[हिन्दी] Treatment in Govt hospital"
+        ],
+        "required_documents": [
+            "[हिन्दी] Income Certificate",
+            "[हिन्दी] Medical Certificate / Estimate",
+            "[हिन्दी] Aadhaar Card"
+        ],
+        "application_steps": [
+            "[हिन्दी] Submit application with medical estimate",
+            "[हिन्दी] Verification by Ministry",
+            "[हिन्दी] Direct payment to hospital"
+        ],
+        "apply_url": "https://main.mohfw.gov.in/",
+        "is_verified": true,
+        "support_number": "1800-180-5145",
+        "benefits": [
+            "[हिन्दी] Up to ₹5 Lakhs free health cover per family per year.",
+            "[हिन्दी] Cashless treatment at empaneled hospitals."
+        ]
+    },
+    {
+        "scheme_name": "[हिन्दी] Aam Aadmi Bima Yojana (AABY)",
+        "state": "केंद्रीय",
+        "sector": "चिकित्सा",
+        "category": "[हिन्दी] Life & Disability Insurance",
+        "description": "[हिन्दी] Social security scheme providing life insurance protection and disability coverage to rural landless households.",
+        "eligibility_criteria": [
+            "[हिन्दी] Aged between 18 and 59 years",
+            "[हिन्दी] Head of the family or earning member",
+            "[हिन्दी] Rural landless household"
+        ],
+        "required_documents": [
+            "[हिन्दी] Ration Card",
+            "[हिन्दी] Birth Certificate / Aadhaar",
+            "[हिन्दी] Income Certificate"
+        ],
+        "application_steps": [
+            "[हिन्दी] Contact Nodal Agency (Panchayat/NGO)",
+            "[हिन्दी] Submit required documents",
+            "[हिन्दी] Premium shared by State/Central Govt"
+        ],
+        "apply_url": "https://licindia.in/",
+        "is_verified": true,
+        "support_number": "1800-180-5145",
+        "benefits": [
+            "[हिन्दी] Free medical treatment and consultation.",
+            "[हिन्दी] Financial assistance for medical emergencies."
+        ]
+    },
+    {
+        "scheme_name": "[हिन्दी] National Means-cum-Merit Scholarship (NMMS)",
+        "state": "केंद्रीय",
+        "sector": "शिक्षा",
+        "category": "[हिन्दी] Scholarship",
+        "description": "[हिन्दी] Awards scholarships to meritorious students of economically weaker sections to arrest their drop out at class VIII and encourage them to continue study at secondary stage.",
+        "eligibility_criteria": [
+            "[हिन्दी] Students studying in Class VIII",
+            "[हिन्दी] Parental income below ₹3.5 Lakhs",
+            "[हिन्दी] Minimum 55% marks in Class VII"
+        ],
+        "required_documents": [
+            "[हिन्दी] Aadhaar",
+            "[हिन्दी] Income Certificate",
+            "[हिन्दी] Mark Sheet",
+            "[हिन्दी] Bank Passbook"
+        ],
+        "application_steps": [
+            "[हिन्दी] Register on National Scholarship Portal (NSP)",
+            "[हिन्दी] Submit online application",
+            "[हिन्दी] Clear the NMMS selection test"
+        ],
+        "apply_url": "https://scholarships.gov.in/",
+        "is_verified": true,
+        "support_number": "1800-111-366",
+        "benefits": [
+            "[हिन्दी] Financial assistance for tuition fees.",
+            "[हिन्दी] Scholarship amount transferred directly to bank account via DBT."
+        ]
+    },
+    {
+        "scheme_name": "[हिन्दी] PM YASASVI Scholarship Scheme",
+        "state": "केंद्रीय",
+        "sector": "शिक्षा",
+        "category": "[हिन्दी] Scholarship",
+        "description": "[हिन्दी] Pre-Matric and Post-Matric Scholarships for OBC, EBC, and DNT students studying in Top Class Schools and Colleges.",
+        "eligibility_criteria": [
+            "[हिन्दी] OBC, EBC, or DNT category",
+            "[हिन्दी] Parental income below ₹2.5 Lakhs",
+            "[हिन्दी] Studying in Class 9 or 11"
+        ],
+        "required_documents": [
+            "[हिन्दी] Caste Certificate",
+            "[हिन्दी] Income Certificate",
+            "[हिन्दी] Aadhaar",
+            "[हिन्दी] School ID"
+        ],
+        "application_steps": [
+            "[हिन्दी] Apply via National Testing Agency (NTA)",
+            "[हिन्दी] Appear for YASASVI Entrance Test",
+            "[हिन्दी] Qualify and register on NSP"
+        ],
+        "apply_url": "https://yet.nta.ac.in/",
+        "is_verified": true,
+        "support_number": "1800-111-366",
+        "benefits": [
+            "[हिन्दी] Financial assistance for tuition fees.",
+            "[हिन्दी] Scholarship amount transferred directly to bank account via DBT."
+        ]
+    },
+    {
+        "scheme_name": "[हिन्दी] Pragati Scholarship for Girls",
+        "state": "केंद्रीय",
+        "sector": "शिक्षा",
+        "category": "[हिन्दी] Higher Education",
+        "description": "[हिन्दी] Provides financial assistance to girl students for pursuing Technical Education (Degree or Diploma).",
+        "eligibility_criteria": [
+            "[हिन्दी] Girl student taking admission in 1st year of Degree/Diploma",
+            "[हिन्दी] Max two girls per family",
+            "[हिन्दी] Family income less than ₹8 Lakhs/year"
+        ],
+        "required_documents": [
+            "[हिन्दी] Aadhaar",
+            "[हिन्दी] Admission Letter",
+            "[हिन्दी] Income Certificate",
+            "[हिन्दी] Class 10/12 Marksheet"
+        ],
+        "application_steps": [
+            "[हिन्दी] Register on AICTE Portal / NSP",
+            "[हिन्दी] Fill online application form",
+            "[हिन्दी] Institute verifies the details"
+        ],
+        "apply_url": "https://scholarships.gov.in/",
+        "is_verified": true,
+        "support_number": "1800-111-366",
+        "benefits": [
+            "[हिन्दी] Financial assistance for tuition fees.",
+            "[हिन्दी] Scholarship amount transferred directly to bank account via DBT."
+        ]
+    },
+    {
+        "scheme_name": "[हिन्दी] Right to Education (RTE) 25% Quota",
+        "state": "केंद्रीय",
+        "sector": "शिक्षा",
+        "category": "[हिन्दी] School Admission",
+        "description": "[हिन्दी] Mandates 25% reservation for children from economically weaker sections and disadvantaged groups in private unaided schools for free and compulsory education.",
+        "eligibility_criteria": [
+            "[हिन्दी] EWS or BPL category",
+            "[हिन्दी] Age between 6 to 14 years",
+            "[हिन्दी] Resident of the state/district"
+        ],
+        "required_documents": [
+            "[हिन्दी] Birth Certificate",
+            "[हिन्दी] Income/BPL Certificate",
+            "[हिन्दी] Address Proof",
+            "[हिन्दी] Caste Certificate (if applicable)"
+        ],
+        "application_steps": [
+            "[हिन्दी] Visit state RTE portal",
+            "[हिन्दी] Register student details",
+            "[हिन्दी] Select nearby private schools",
+            "[हिन्दी] Wait for lottery results"
+        ],
+        "apply_url": "https://rte.updc.gov.in/",
+        "is_verified": true,
+        "support_number": "1800-111-366",
+        "benefits": [
+            "[हिन्दी] Financial assistance for tuition fees.",
+            "[हिन्दी] Scholarship amount transferred directly to bank account via DBT."
+        ]
+    },
+    {
+        "scheme_name": "[हिन्दी] Post-Matric Scholarship for SC/ST/OBC Students",
+        "state": "उत्तर प्रदेश",
+        "sector": "शिक्षा",
+        "category": "[हिन्दी] Scholarship",
+        "description": "[हिन्दी] Provides financial assistance to SC, ST, and OBC students of Uttar Pradesh studying at post-matriculation or post-secondary stage.",
+        "eligibility_criteria": [
+            "[हिन्दी] Resident of UP",
+            "[हिन्दी] SC/ST/OBC category",
+            "[हिन्दी] Family income limits apply",
+            "[हिन्दी] Studying in Class 11, 12, Degree or Diploma"
+        ],
+        "required_documents": [
+            "[हिन्दी] Domicile Certificate",
+            "[हिन्दी] Caste Certificate",
+            "[हिन्दी] Income Certificate",
+            "[हिन्दी] Fee Receipt",
+            "[हिन्दी] Aadhaar"
+        ],
+        "application_steps": [
+            "[हिन्दी] Visit UP Scholarship portal",
+            "[हिन्दी] Register as a new student",
+            "[हिन्दी] Fill out the detailed application form",
+            "[हिन्दी] Submit hardcopy to institution"
+        ],
+        "apply_url": "https://scholarship.up.gov.in/",
+        "is_verified": true,
+        "support_number": "1800-111-366",
+        "benefits": [
+            "[हिन्दी] Financial assistance for tuition fees.",
+            "[हिन्दी] Scholarship amount transferred directly to bank account via DBT."
+        ]
+    }
+]

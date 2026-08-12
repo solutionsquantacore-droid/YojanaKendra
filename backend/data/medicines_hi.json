@@ -1,0 +1,82 @@
+{
+    "medicines": [
+        {
+            "name": "[हिन्दी] Paracetamol 500mg (10 Tablets)",
+            "uses": "[हिन्दी] Fever & Pain Relief",
+            "market_price": "₹15.00",
+            "scheme_price": "₹4.00",
+            "savings_percentage": "73%"
+        },
+        {
+            "name": "[हिन्दी] Metformin 500mg (10 Tablets)",
+            "uses": "[हिन्दी] Type 2 Diabetes",
+            "market_price": "₹22.00",
+            "scheme_price": "₹6.00",
+            "savings_percentage": "72%"
+        },
+        {
+            "name": "[हिन्दी] Atorvastatin 10mg (10 Tablets)",
+            "uses": "[हिन्दी] Cholesterol",
+            "market_price": "₹60.00",
+            "scheme_price": "₹12.00",
+            "savings_percentage": "80%"
+        },
+        {
+            "name": "[हिन्दी] Telmisartan 40mg (10 Tablets)",
+            "uses": "[हिन्दी] High Blood Pressure",
+            "market_price": "₹55.00",
+            "scheme_price": "₹11.00",
+            "savings_percentage": "80%"
+        }
+    ],
+    "pharmacies": [
+        {
+            "name": "[हिन्दी] Jan Aushadhi Kendra - Andheri East",
+            "state": "[हिन्दी] Maharashtra",
+            "address": "[हिन्दी] Shop No 4, Near Metro Station, Andheri East, Mumbai",
+            "distance": "[हिन्दी] 1.2 km away"
+        },
+        {
+            "name": "[हिन्दी] Jan Aushadhi Kendra - Pune Camp",
+            "state": "[हिन्दी] Maharashtra",
+            "address": "[हिन्दी] MG Road, Camp Area, Pune",
+            "distance": "[हिन्दी] 3.5 km away"
+        },
+        {
+            "name": "[हिन्दी] Jan Aushadhi Kendra - Connaught Place",
+            "state": "[हिन्दी] Delhi",
+            "address": "[हिन्दी] Palika Bazaar entrance, CP, New Delhi",
+            "distance": "[हिन्दी] 0.8 km away"
+        },
+        {
+            "name": "[हिन्दी] Jan Aushadhi Kendra - Dwarka Sec 10",
+            "state": "[हिन्दी] Delhi",
+            "address": "[हिन्दी] Main Market Sector 10, Dwarka, New Delhi",
+            "distance": "[हिन्दी] 4.1 km away"
+        },
+        {
+            "name": "[हिन्दी] Jan Aushadhi Kendra - Navrangpura",
+            "state": "[हिन्दी] Gujarat",
+            "address": "[हिन्दी] CG Road, Navrangpura, Ahmedabad",
+            "distance": "[हिन्दी] 2.2 km away"
+        },
+        {
+            "name": "[हिन्दी] Jan Aushadhi Kendra - Hazratganj",
+            "state": "उत्तर प्रदेश",
+            "address": "[हिन्दी] Near Halwasiya Market, Hazratganj, Lucknow",
+            "distance": "[हिन्दी] 1.5 km away"
+        },
+        {
+            "name": "[हिन्दी] Jan Aushadhi Kendra - Jayanagar",
+            "state": "[हिन्दी] Karnataka",
+            "address": "[हिन्दी] 4th Block Complex, Jayanagar, Bengaluru",
+            "distance": "[हिन्दी] 2.7 km away"
+        },
+        {
+            "name": "[हिन्दी] Jan Aushadhi Kendra - T Nagar",
+            "state": "[हिन्दी] Tamil Nadu",
+            "address": "[हिन्दी] Usman Road, T Nagar, Chennai",
+            "distance": "[हिन्दी] 1.9 km away"
+        }
+    ]
+}
