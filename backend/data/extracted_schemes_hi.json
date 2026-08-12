@@ -1,8 +1,8 @@
 [
     {
         "scheme_name": "[हिन्दी] Pradhan Mantri Jan Dhan Yojana (PMJDY)",
-        "state": "केंद्रीय",
-        "sector": "व्यापार",
+        "state": "Central",
+        "sector": "Business",
         "category": "[हिन्दी] Financial Inclusion",
         "description": "[हिन्दी] National Mission for Financial Inclusion to ensure access to financial services in an affordable manner.",
         "eligibility_criteria": [
@@ -30,8 +30,8 @@
     },
     {
         "scheme_name": "[हिन्दी] Ayushman Bharat - PMJAY (Verified Data)",
-        "state": "केंद्रीय",
-        "sector": "चिकित्सा",
+        "state": "Central",
+        "sector": "Medical",
         "category": "[हिन्दी] Insurance",
         "description": "[हिन्दी] Verified health cover of Rs. 5 lakhs per family per year for secondary and tertiary care hospitalization.",
         "eligibility_criteria": [
@@ -58,8 +58,8 @@
     },
     {
         "scheme_name": "[हिन्दी] PM-KISAN Samman Nidhi (Verified Data)",
-        "state": "केंद्रीय",
-        "sector": "किसान",
+        "state": "Central",
+        "sector": "Farmers",
         "category": "[हिन्दी] Financial Support",
         "description": "[हिन्दी] Verified income support of ₹6,000 per year to all landholding farmer families.",
         "eligibility_criteria": [
@@ -85,8 +85,8 @@
     },
     {
         "scheme_name": "[हिन्दी] Maharashtra Chief Minister Rural Support",
-        "state": "[हिन्दी] Maharashtra",
-        "sector": "घर",
+        "state": "Maharashtra",
+        "sector": "Home",
         "category": "[हिन्दी] Housing",
         "description": "[हिन्दी] Verified financial assistance for rural housing construction in Maharashtra.",
         "eligibility_criteria": [
@@ -111,8 +111,8 @@
     },
     {
         "scheme_name": "[हिन्दी] Maharashtra Women Empowerment Subsidy",
-        "state": "[हिन्दी] Maharashtra",
-        "sector": "महिलाएं",
+        "state": "Maharashtra",
+        "sector": "Women",
         "category": "[हिन्दी] Financial Support",
         "description": "[हिन्दी] Direct benefit transfer for female entrepreneurs in Maharashtra.",
         "eligibility_criteria": [
@@ -136,8 +136,8 @@
     },
     {
         "scheme_name": "[हिन्दी] Delhi Chief Minister Rural Support",
-        "state": "[हिन्दी] Delhi",
-        "sector": "घर",
+        "state": "Delhi",
+        "sector": "Home",
         "category": "[हिन्दी] Housing",
         "description": "[हिन्दी] Verified financial assistance for rural housing construction in Delhi.",
         "eligibility_criteria": [
@@ -162,8 +162,8 @@
     },
     {
         "scheme_name": "[हिन्दी] Delhi Women Empowerment Subsidy",
-        "state": "[हिन्दी] Delhi",
-        "sector": "महिलाएं",
+        "state": "Delhi",
+        "sector": "Women",
         "category": "[हिन्दी] Financial Support",
         "description": "[हिन्दी] Direct benefit transfer for female entrepreneurs in Delhi.",
         "eligibility_criteria": [
@@ -187,8 +187,8 @@
     },
     {
         "scheme_name": "[हिन्दी] Karnataka Chief Minister Rural Support",
-        "state": "[हिन्दी] Karnataka",
-        "sector": "घर",
+        "state": "Karnataka",
+        "sector": "Home",
         "category": "[हिन्दी] Housing",
         "description": "[हिन्दी] Verified financial assistance for rural housing construction in Karnataka.",
         "eligibility_criteria": [
@@ -213,8 +213,8 @@
     },
     {
         "scheme_name": "[हिन्दी] Karnataka Women Empowerment Subsidy",
-        "state": "[हिन्दी] Karnataka",
-        "sector": "महिलाएं",
+        "state": "Karnataka",
+        "sector": "Women",
         "category": "[हिन्दी] Financial Support",
         "description": "[हिन्दी] Direct benefit transfer for female entrepreneurs in Karnataka.",
         "eligibility_criteria": [
@@ -238,8 +238,8 @@
     },
     {
         "scheme_name": "[हिन्दी] Gujarat Chief Minister Rural Support",
-        "state": "[हिन्दी] Gujarat",
-        "sector": "घर",
+        "state": "Gujarat",
+        "sector": "Home",
         "category": "[हिन्दी] Housing",
         "description": "[हिन्दी] Verified financial assistance for rural housing construction in Gujarat.",
         "eligibility_criteria": [
@@ -264,8 +264,8 @@
     },
     {
         "scheme_name": "[हिन्दी] Gujarat Women Empowerment Subsidy",
-        "state": "[हिन्दी] Gujarat",
-        "sector": "महिलाएं",
+        "state": "Gujarat",
+        "sector": "Women",
         "category": "[हिन्दी] Financial Support",
         "description": "[हिन्दी] Direct benefit transfer for female entrepreneurs in Gujarat.",
         "eligibility_criteria": [
@@ -289,8 +289,8 @@
     },
     {
         "scheme_name": "[हिन्दी] Tamil Nadu Chief Minister Rural Support",
-        "state": "[हिन्दी] Tamil Nadu",
-        "sector": "घर",
+        "state": "Tamil Nadu",
+        "sector": "Home",
         "category": "[हिन्दी] Housing",
         "description": "[हिन्दी] Verified financial assistance for rural housing construction in Tamil Nadu.",
         "eligibility_criteria": [
@@ -315,8 +315,8 @@
     },
     {
         "scheme_name": "[हिन्दी] Tamil Nadu Women Empowerment Subsidy",
-        "state": "[हिन्दी] Tamil Nadu",
-        "sector": "महिलाएं",
+        "state": "Tamil Nadu",
+        "sector": "Women",
         "category": "[हिन्दी] Financial Support",
         "description": "[हिन्दी] Direct benefit transfer for female entrepreneurs in Tamil Nadu.",
         "eligibility_criteria": [
@@ -340,8 +340,8 @@
     },
     {
         "scheme_name": "[हिन्दी] Uttar Pradesh Chief Minister Rural Support",
-        "state": "उत्तर प्रदेश",
-        "sector": "घर",
+        "state": "Uttar Pradesh",
+        "sector": "Home",
         "category": "[हिन्दी] Housing",
         "description": "[हिन्दी] Verified financial assistance for rural housing construction in Uttar Pradesh.",
         "eligibility_criteria": [
@@ -366,8 +366,8 @@
     },
     {
         "scheme_name": "[हिन्दी] Uttar Pradesh Women Empowerment Subsidy",
-        "state": "उत्तर प्रदेश",
-        "sector": "महिलाएं",
+        "state": "Uttar Pradesh",
+        "sector": "Women",
         "category": "[हिन्दी] Financial Support",
         "description": "[हिन्दी] Direct benefit transfer for female entrepreneurs in Uttar Pradesh.",
         "eligibility_criteria": [
@@ -391,8 +391,8 @@
     },
     {
         "scheme_name": "[हिन्दी] West Bengal Chief Minister Rural Support",
-        "state": "[हिन्दी] West Bengal",
-        "sector": "घर",
+        "state": "West Bengal",
+        "sector": "Home",
         "category": "[हिन्दी] Housing",
         "description": "[हिन्दी] Verified financial assistance for rural housing construction in West Bengal.",
         "eligibility_criteria": [
@@ -417,8 +417,8 @@
     },
     {
         "scheme_name": "[हिन्दी] West Bengal Women Empowerment Subsidy",
-        "state": "[हिन्दी] West Bengal",
-        "sector": "महिलाएं",
+        "state": "West Bengal",
+        "sector": "Women",
         "category": "[हिन्दी] Financial Support",
         "description": "[हिन्दी] Direct benefit transfer for female entrepreneurs in West Bengal.",
         "eligibility_criteria": [
@@ -442,8 +442,8 @@
     },
     {
         "scheme_name": "[हिन्दी] Punjab Chief Minister Rural Support",
-        "state": "[हिन्दी] Punjab",
-        "sector": "घर",
+        "state": "Punjab",
+        "sector": "Home",
         "category": "[हिन्दी] Housing",
         "description": "[हिन्दी] Verified financial assistance for rural housing construction in Punjab.",
         "eligibility_criteria": [
@@ -468,8 +468,8 @@
     },
     {
         "scheme_name": "[हिन्दी] Punjab Women Empowerment Subsidy",
-        "state": "[हिन्दी] Punjab",
-        "sector": "महिलाएं",
+        "state": "Punjab",
+        "sector": "Women",
         "category": "[हिन्दी] Financial Support",
         "description": "[हिन्दी] Direct benefit transfer for female entrepreneurs in Punjab.",
         "eligibility_criteria": [
@@ -493,8 +493,8 @@
     },
     {
         "scheme_name": "[हिन्दी] Rajasthan Chief Minister Rural Support",
-        "state": "[हिन्दी] Rajasthan",
-        "sector": "घर",
+        "state": "Rajasthan",
+        "sector": "Home",
         "category": "[हिन्दी] Housing",
         "description": "[हिन्दी] Verified financial assistance for rural housing construction in Rajasthan.",
         "eligibility_criteria": [
@@ -519,8 +519,8 @@
     },
     {
         "scheme_name": "[हिन्दी] Rajasthan Women Empowerment Subsidy",
-        "state": "[हिन्दी] Rajasthan",
-        "sector": "महिलाएं",
+        "state": "Rajasthan",
+        "sector": "Women",
         "category": "[हिन्दी] Financial Support",
         "description": "[हिन्दी] Direct benefit transfer for female entrepreneurs in Rajasthan.",
         "eligibility_criteria": [
@@ -544,8 +544,8 @@
     },
     {
         "scheme_name": "[हिन्दी] Kerala Chief Minister Rural Support",
-        "state": "[हिन्दी] Kerala",
-        "sector": "घर",
+        "state": "Kerala",
+        "sector": "Home",
         "category": "[हिन्दी] Housing",
         "description": "[हिन्दी] Verified financial assistance for rural housing construction in Kerala.",
         "eligibility_criteria": [
@@ -570,8 +570,8 @@
     },
     {
         "scheme_name": "[हिन्दी] Kerala Women Empowerment Subsidy",
-        "state": "[हिन्दी] Kerala",
-        "sector": "महिलाएं",
+        "state": "Kerala",
+        "sector": "Women",
         "category": "[हिन्दी] Financial Support",
         "description": "[हिन्दी] Direct benefit transfer for female entrepreneurs in Kerala.",
         "eligibility_criteria": [
@@ -595,8 +595,8 @@
     },
     {
         "scheme_name": "[हिन्दी] Andhra Pradesh Chief Minister Rural Support",
-        "state": "[हिन्दी] Andhra Pradesh",
-        "sector": "घर",
+        "state": "Andhra Pradesh",
+        "sector": "Home",
         "category": "[हिन्दी] Housing",
         "description": "[हिन्दी] Verified financial assistance for rural housing construction in Andhra Pradesh.",
         "eligibility_criteria": [
@@ -621,8 +621,8 @@
     },
     {
         "scheme_name": "[हिन्दी] Andhra Pradesh Women Empowerment Subsidy",
-        "state": "[हिन्दी] Andhra Pradesh",
-        "sector": "महिलाएं",
+        "state": "Andhra Pradesh",
+        "sector": "Women",
         "category": "[हिन्दी] Financial Support",
         "description": "[हिन्दी] Direct benefit transfer for female entrepreneurs in Andhra Pradesh.",
         "eligibility_criteria": [
@@ -646,8 +646,8 @@
     },
     {
         "scheme_name": "[हिन्दी] Bihar Chief Minister Rural Support",
-        "state": "[हिन्दी] Bihar",
-        "sector": "घर",
+        "state": "Bihar",
+        "sector": "Home",
         "category": "[हिन्दी] Housing",
         "description": "[हिन्दी] Verified financial assistance for rural housing construction in Bihar.",
         "eligibility_criteria": [
@@ -672,8 +672,8 @@
     },
     {
         "scheme_name": "[हिन्दी] Bihar Women Empowerment Subsidy",
-        "state": "[हिन्दी] Bihar",
-        "sector": "महिलाएं",
+        "state": "Bihar",
+        "sector": "Women",
         "category": "[हिन्दी] Financial Support",
         "description": "[हिन्दी] Direct benefit transfer for female entrepreneurs in Bihar.",
         "eligibility_criteria": [
@@ -697,8 +697,8 @@
     },
     {
         "scheme_name": "[हिन्दी] Haryana Chief Minister Rural Support",
-        "state": "[हिन्दी] Haryana",
-        "sector": "घर",
+        "state": "Haryana",
+        "sector": "Home",
         "category": "[हिन्दी] Housing",
         "description": "[हिन्दी] Verified financial assistance for rural housing construction in Haryana.",
         "eligibility_criteria": [
@@ -723,8 +723,8 @@
     },
     {
         "scheme_name": "[हिन्दी] Haryana Women Empowerment Subsidy",
-        "state": "[हिन्दी] Haryana",
-        "sector": "महिलाएं",
+        "state": "Haryana",
+        "sector": "Women",
         "category": "[हिन्दी] Financial Support",
         "description": "[हिन्दी] Direct benefit transfer for female entrepreneurs in Haryana.",
         "eligibility_criteria": [
@@ -748,8 +748,8 @@
     },
     {
         "scheme_name": "[हिन्दी] Madhya Pradesh Chief Minister Rural Support",
-        "state": "[हिन्दी] Madhya Pradesh",
-        "sector": "घर",
+        "state": "Madhya Pradesh",
+        "sector": "Home",
         "category": "[हिन्दी] Housing",
         "description": "[हिन्दी] Verified financial assistance for rural housing construction in Madhya Pradesh.",
         "eligibility_criteria": [
@@ -774,8 +774,8 @@
     },
     {
         "scheme_name": "[हिन्दी] Madhya Pradesh Women Empowerment Subsidy",
-        "state": "[हिन्दी] Madhya Pradesh",
-        "sector": "महिलाएं",
+        "state": "Madhya Pradesh",
+        "sector": "Women",
         "category": "[हिन्दी] Financial Support",
         "description": "[हिन्दी] Direct benefit transfer for female entrepreneurs in Madhya Pradesh.",
         "eligibility_criteria": [
@@ -799,8 +799,8 @@
     },
     {
         "scheme_name": "[हिन्दी] Ayushman Bharat - Pradhan Mantri Jan Arogya Yojana (AB-PMJAY)",
-        "state": "केंद्रीय",
-        "sector": "चिकित्सा",
+        "state": "Central",
+        "sector": "Medical",
         "category": "[हिन्दी] Health Insurance",
         "description": "[हिन्दी] Provides a health cover of ₹5 Lakhs per family per year for secondary and tertiary care hospitalization.",
         "eligibility_criteria": [
@@ -828,8 +828,8 @@
     },
     {
         "scheme_name": "[हिन्दी] Central Government Health Scheme (CGHS)",
-        "state": "केंद्रीय",
-        "sector": "चिकित्सा",
+        "state": "Central",
+        "sector": "Medical",
         "category": "[हिन्दी] Health Coverage",
         "description": "[हिन्दी] Comprehensive medical care facilities for Central Government employees, pensioners, and their dependents.",
         "eligibility_criteria": [
@@ -858,8 +858,8 @@
     },
     {
         "scheme_name": "[हिन्दी] Rashtriya Arogya Nidhi (RAN)",
-        "state": "केंद्रीय",
-        "sector": "चिकित्सा",
+        "state": "Central",
+        "sector": "Medical",
         "category": "[हिन्दी] Financial Assistance",
         "description": "[हिन्दी] Financial assistance to patients living below the poverty line (BPL) suffering from major life-threatening diseases to receive medical treatment at super specialty Government hospitals.",
         "eligibility_criteria": [
@@ -888,8 +888,8 @@
     },
     {
         "scheme_name": "[हिन्दी] Pradhan Mantri Suraksha Bima Yojana (PMSBY)",
-        "state": "केंद्रीय",
-        "sector": "चिकित्सा",
+        "state": "Central",
+        "sector": "Medical",
         "category": "[हिन्दी] Accident Insurance",
         "description": "[हिन्दी] An accident insurance scheme offering a one-year accidental death and disability cover of ₹2 Lakhs, which can be renewed annually for a premium of just ₹20.",
         "eligibility_criteria": [
@@ -916,8 +916,8 @@
     },
     {
         "scheme_name": "[हिन्दी] Health Minister's Discretionary Grant (HMDG)",
-        "state": "केंद्रीय",
-        "sector": "चिकित्सा",
+        "state": "Central",
+        "sector": "Medical",
         "category": "[हिन्दी] Financial Assistance",
         "description": "[हिन्दी] Financial assistance up to ₹1.25 Lakhs for poor patients to undergo treatment for life-threatening diseases in Government hospitals where RAN is not applicable.",
         "eligibility_criteria": [
@@ -944,8 +944,8 @@
     },
     {
         "scheme_name": "[हिन्दी] Aam Aadmi Bima Yojana (AABY)",
-        "state": "केंद्रीय",
-        "sector": "चिकित्सा",
+        "state": "Central",
+        "sector": "Medical",
         "category": "[हिन्दी] Life & Disability Insurance",
         "description": "[हिन्दी] Social security scheme providing life insurance protection and disability coverage to rural landless households.",
         "eligibility_criteria": [
@@ -973,8 +973,8 @@
     },
     {
         "scheme_name": "[हिन्दी] National Means-cum-Merit Scholarship (NMMS)",
-        "state": "केंद्रीय",
-        "sector": "शिक्षा",
+        "state": "Central",
+        "sector": "Education",
         "category": "[हिन्दी] Scholarship",
         "description": "[हिन्दी] Awards scholarships to meritorious students of economically weaker sections to arrest their drop out at class VIII and encourage them to continue study at secondary stage.",
         "eligibility_criteria": [
@@ -1003,8 +1003,8 @@
     },
     {
         "scheme_name": "[हिन्दी] PM YASASVI Scholarship Scheme",
-        "state": "केंद्रीय",
-        "sector": "शिक्षा",
+        "state": "Central",
+        "sector": "Education",
         "category": "[हिन्दी] Scholarship",
         "description": "[हिन्दी] Pre-Matric and Post-Matric Scholarships for OBC, EBC, and DNT students studying in Top Class Schools and Colleges.",
         "eligibility_criteria": [
@@ -1033,8 +1033,8 @@
     },
     {
         "scheme_name": "[हिन्दी] Pragati Scholarship for Girls",
-        "state": "केंद्रीय",
-        "sector": "शिक्षा",
+        "state": "Central",
+        "sector": "Education",
         "category": "[हिन्दी] Higher Education",
         "description": "[हिन्दी] Provides financial assistance to girl students for pursuing Technical Education (Degree or Diploma).",
         "eligibility_criteria": [
@@ -1063,8 +1063,8 @@
     },
     {
         "scheme_name": "[हिन्दी] Right to Education (RTE) 25% Quota",
-        "state": "केंद्रीय",
-        "sector": "शिक्षा",
+        "state": "Central",
+        "sector": "Education",
         "category": "[हिन्दी] School Admission",
         "description": "[हिन्दी] Mandates 25% reservation for children from economically weaker sections and disadvantaged groups in private unaided schools for free and compulsory education.",
         "eligibility_criteria": [
@@ -1094,8 +1094,8 @@
     },
     {
         "scheme_name": "[हिन्दी] Post-Matric Scholarship for SC/ST/OBC Students",
-        "state": "उत्तर प्रदेश",
-        "sector": "शिक्षा",
+        "state": "Uttar Pradesh",
+        "sector": "Education",
         "category": "[हिन्दी] Scholarship",
         "description": "[हिन्दी] Provides financial assistance to SC, ST, and OBC students of Uttar Pradesh studying at post-matriculation or post-secondary stage.",
         "eligibility_criteria": [

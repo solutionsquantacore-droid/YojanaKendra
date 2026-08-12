@@ -1,7 +1,7 @@
 [
     {
         "name": "[हिन्दी] All India Institute of Medical Sciences (AIIMS)",
-        "state": "[हिन्दी] Delhi",
+        "state": "Delhi",
         "address": "[हिन्दी] Sri Aurobindo Marg, Ansari Nagar, New Delhi, Delhi 110029",
         "timing": "[हिन्दी] OPD: 8:00 AM - 1:00 PM (Mon-Sat)",
         "contact_number": "011-26588500",
@@ -14,7 +14,7 @@
     },
     {
         "name": "[हिन्दी] Safdarjung Hospital",
-        "state": "[हिन्दी] Delhi",
+        "state": "Delhi",
         "address": "[हिन्दी] Ansari Nagar East, near AIIMS, New Delhi, Delhi 110029",
         "timing": "[हिन्दी] OPD: 8:30 AM - 12:30 PM (Mon-Sat)",
         "contact_number": "011-26165060",
@@ -27,7 +27,7 @@
     },
     {
         "name": "[हिन्दी] King Edward Memorial (KEM) Hospital",
-        "state": "[हिन्दी] Maharashtra",
+        "state": "Maharashtra",
         "address": "[हिन्दी] Acharya Donde Marg, Parel, Mumbai, Maharashtra 400012",
         "timing": "[हिन्दी] OPD: 8:00 AM - 2:00 PM (Mon-Sat)",
         "contact_number": "022-24107000",
@@ -40,7 +40,7 @@
     },
     {
         "name": "[हिन्दी] Sir J. J. Group of Hospitals",
-        "state": "[हिन्दी] Maharashtra",
+        "state": "Maharashtra",
         "address": "[हिन्दी] J. J. Marg, Byculla, Mumbai, Maharashtra 400008",
         "timing": "[हिन्दी] OPD: 9:00 AM - 1:00 PM (Mon-Sat)",
         "contact_number": "022-23735555",
@@ -53,7 +53,7 @@
     },
     {
         "name": "[हिन्दी] Civil Hospital, Ahmedabad",
-        "state": "[हिन्दी] Gujarat",
+        "state": "Gujarat",
         "address": "[हिन्दी] Asarwa, Ahmedabad, Gujarat 380016",
         "timing": "[हिन्दी] OPD: 9:00 AM - 1:00 PM, 3:00 PM - 5:00 PM",
         "contact_number": "079-22683721",
@@ -66,7 +66,7 @@
     },
     {
         "name": "[हिन्दी] Sanjay Gandhi Postgraduate Institute of Medical Sciences (SGPGIMS)",
-        "state": "उत्तर प्रदेश",
+        "state": "Uttar Pradesh",
         "address": "[हिन्दी] New PMSSY Rd, Raibareli Rd, Lucknow, Uttar Pradesh 226014",
         "timing": "[हिन्दी] OPD: 9:00 AM - 2:00 PM (Mon-Fri)",
         "contact_number": "0522-2494000",
@@ -79,7 +79,7 @@
     },
     {
         "name": "[हिन्दी] King George's Medical University (KGMU)",
-        "state": "उत्तर प्रदेश",
+        "state": "Uttar Pradesh",
         "address": "[हिन्दी] Shah Mina Rd, Chowk, Lucknow, Uttar Pradesh 226003",
         "timing": "[हिन्दी] OPD: 8:30 AM - 1:30 PM (Mon-Sat)",
         "contact_number": "0522-2257450",
@@ -92,7 +92,7 @@
     },
     {
         "name": "[हिन्दी] Victoria Hospital",
-        "state": "[हिन्दी] Karnataka",
+        "state": "Karnataka",
         "address": "[हिन्दी] Fort Rd, near City Market, Bengaluru, Karnataka 560002",
         "timing": "[हिन्दी] OPD: 9:00 AM - 4:00 PM (Mon-Sat)",
         "contact_number": "080-26701150",
@@ -105,7 +105,7 @@
     },
     {
         "name": "[हिन्दी] Rajiv Gandhi Government General Hospital (RGGGH)",
-        "state": "[हिन्दी] Tamil Nadu",
+        "state": "Tamil Nadu",
         "address": "[हिन्दी] EVR Periyar Salai, Park Town, Chennai, Tamil Nadu 600003",
         "timing": "[हिन्दी] OPD: 8:00 AM - 12:00 PM (Mon-Sat)",
         "contact_number": "044-25305000",
@@ -118,7 +118,7 @@
     },
     {
         "name": "[हिन्दी] AIIMS Gorakhpur",
-        "state": "उत्तर प्रदेश",
+        "state": "Uttar Pradesh",
         "address": "[हिन्दी] Kunraghat, Gorakhpur, Uttar Pradesh 273008",
         "timing": "[हिन्दी] OPD: 8:00 AM - 1:00 PM",
         "contact_number": "0551-2205501",
@@ -131,7 +131,7 @@
     },
     {
         "name": "[हिन्दी] AIIMS Raebareli",
-        "state": "उत्तर प्रदेश",
+        "state": "Uttar Pradesh",
         "address": "[हिन्दी] Munshiganj, Dalmau Road, Raebareli, Uttar Pradesh 229405",
         "timing": "[हिन्दी] OPD: 9:00 AM - 2:00 PM",
         "contact_number": "0535-2704400",
@@ -144,7 +144,7 @@
     },
     {
         "name": "[हिन्दी] Dr. Ram Manohar Lohia Institute of Medical Sciences (RMLIMS)",
-        "state": "उत्तर प्रदेश",
+        "state": "Uttar Pradesh",
         "address": "[हिन्दी] Vibhuti Khand, Gomti Nagar, Lucknow, Uttar Pradesh 226010",
         "timing": "[हिन्दी] OPD: 9:00 AM - 3:00 PM",
         "contact_number": "0522-4918504",
@@ -157,7 +157,7 @@
     },
     {
         "name": "[हिन्दी] Sir Sunderlal Hospital (BHU)",
-        "state": "उत्तर प्रदेश",
+        "state": "Uttar Pradesh",
         "address": "[हिन्दी] Banaras Hindu University Campus, Varanasi, Uttar Pradesh 221005",
         "timing": "[हिन्दी] OPD: 8:00 AM - 1:30 PM",
         "contact_number": "0542-2367568",
@@ -170,7 +170,7 @@
     },
     {
         "name": "[हिन्दी] Lala Lajpat Rai (LLR) Hospital (Hallet)",
-        "state": "उत्तर प्रदेश",
+        "state": "Uttar Pradesh",
         "address": "[हिन्दी] Swaroop Nagar, Kanpur, Uttar Pradesh 208002",
         "timing": "[हिन्दी] OPD: 8:30 AM - 2:00 PM",
         "contact_number": "0512-2535483",
@@ -183,7 +183,7 @@
     },
     {
         "name": "[हिन्दी] Sarojini Naidu (SN) Medical College Hospital",
-        "state": "उत्तर प्रदेश",
+        "state": "Uttar Pradesh",
         "address": "[हिन्दी] Motilal Nehru Road, Agra, Uttar Pradesh 282002",
         "timing": "[हिन्दी] OPD: 8:00 AM - 1:00 PM",
         "contact_number": "0562-2260353",
@@ -196,7 +196,7 @@
     },
     {
         "name": "[हिन्दी] Swaroop Rani Nehru Hospital (MLN Medical College)",
-        "state": "उत्तर प्रदेश",
+        "state": "Uttar Pradesh",
         "address": "[हिन्दी] Lowther Road, Prayagraj, Uttar Pradesh 211001",
         "timing": "[हिन्दी] OPD: 9:00 AM - 2:00 PM",
         "contact_number": "0532-2256501",
@@ -209,7 +209,7 @@
     },
     {
         "name": "[हिन्दी] BRD Medical College Hospital",
-        "state": "उत्तर प्रदेश",
+        "state": "Uttar Pradesh",
         "address": "[हिन्दी] Gorakhpur-Maharajganj Road, Gorakhpur, Uttar Pradesh 273013",
         "timing": "[हिन्दी] OPD: 8:00 AM - 2:00 PM",
         "contact_number": "0551-2501736",
@@ -222,7 +222,7 @@
     },
     {
         "name": "[हिन्दी] Sardar Vallabh Bhai Patel Hospital (LLRM)",
-        "state": "उत्तर प्रदेश",
+        "state": "Uttar Pradesh",
         "address": "[हिन्दी] Garh Road, Jai Bhim Nagar, Meerut, Uttar Pradesh 250004",
         "timing": "[हिन्दी] OPD: 8:30 AM - 1:30 PM",
         "contact_number": "0121-2601444",
@@ -235,7 +235,7 @@
     },
     {
         "name": "[हिन्दी] Government Institute of Medical Sciences (GIMS)",
-        "state": "उत्तर प्रदेश",
+        "state": "Uttar Pradesh",
         "address": "[हिन्दी] Kasna, Greater Noida, Uttar Pradesh 201310",
         "timing": "[हिन्दी] OPD: 9:00 AM - 2:00 PM",
         "contact_number": "0120-2341738",

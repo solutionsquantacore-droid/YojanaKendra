@@ -32,49 +32,49 @@
     "pharmacies": [
         {
             "name": "[हिन्दी] Jan Aushadhi Kendra - Andheri East",
-            "state": "[हिन्दी] Maharashtra",
+            "state": "Maharashtra",
             "address": "[हिन्दी] Shop No 4, Near Metro Station, Andheri East, Mumbai",
             "distance": "[हिन्दी] 1.2 km away"
         },
         {
             "name": "[हिन्दी] Jan Aushadhi Kendra - Pune Camp",
-            "state": "[हिन्दी] Maharashtra",
+            "state": "Maharashtra",
             "address": "[हिन्दी] MG Road, Camp Area, Pune",
             "distance": "[हिन्दी] 3.5 km away"
         },
         {
             "name": "[हिन्दी] Jan Aushadhi Kendra - Connaught Place",
-            "state": "[हिन्दी] Delhi",
+            "state": "Delhi",
             "address": "[हिन्दी] Palika Bazaar entrance, CP, New Delhi",
             "distance": "[हिन्दी] 0.8 km away"
         },
         {
             "name": "[हिन्दी] Jan Aushadhi Kendra - Dwarka Sec 10",
-            "state": "[हिन्दी] Delhi",
+            "state": "Delhi",
             "address": "[हिन्दी] Main Market Sector 10, Dwarka, New Delhi",
             "distance": "[हिन्दी] 4.1 km away"
         },
         {
             "name": "[हिन्दी] Jan Aushadhi Kendra - Navrangpura",
-            "state": "[हिन्दी] Gujarat",
+            "state": "Gujarat",
             "address": "[हिन्दी] CG Road, Navrangpura, Ahmedabad",
             "distance": "[हिन्दी] 2.2 km away"
         },
         {
             "name": "[हिन्दी] Jan Aushadhi Kendra - Hazratganj",
-            "state": "उत्तर प्रदेश",
+            "state": "Uttar Pradesh",
             "address": "[हिन्दी] Near Halwasiya Market, Hazratganj, Lucknow",
             "distance": "[हिन्दी] 1.5 km away"
         },
         {
             "name": "[हिन्दी] Jan Aushadhi Kendra - Jayanagar",
-            "state": "[हिन्दी] Karnataka",
+            "state": "Karnataka",
             "address": "[हिन्दी] 4th Block Complex, Jayanagar, Bengaluru",
             "distance": "[हिन्दी] 2.7 km away"
         },
         {
             "name": "[हिन्दी] Jan Aushadhi Kendra - T Nagar",
-            "state": "[हिन्दी] Tamil Nadu",
+            "state": "Tamil Nadu",
             "address": "[हिन्दी] Usman Road, T Nagar, Chennai",
             "distance": "[हिन्दी] 1.9 km away"
         }
