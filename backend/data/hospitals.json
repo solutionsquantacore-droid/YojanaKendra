@@ -5,7 +5,12 @@
         "address": "Sri Aurobindo Marg, Ansari Nagar, New Delhi, Delhi 110029",
         "timing": "OPD: 8:00 AM - 1:00 PM (Mon-Sat)",
         "contact_number": "011-26588500",
-        "specialities": ["Cardiology", "Oncology", "Neurology", "General Medicine"]
+        "specialities": [
+            "Cardiology",
+            "Oncology",
+            "Neurology",
+            "General Medicine"
+        ]
     },
     {
         "name": "Safdarjung Hospital",
@@ -13,7 +18,12 @@
         "address": "Ansari Nagar East, near AIIMS, New Delhi, Delhi 110029",
         "timing": "OPD: 8:30 AM - 12:30 PM (Mon-Sat)",
         "contact_number": "011-26165060",
-        "specialities": ["Orthopedics", "Gynecology", "Pediatrics", "General Surgery"]
+        "specialities": [
+            "Orthopedics",
+            "Gynecology",
+            "Pediatrics",
+            "General Surgery"
+        ]
     },
     {
         "name": "King Edward Memorial (KEM) Hospital",
@@ -21,7 +31,12 @@
         "address": "Acharya Donde Marg, Parel, Mumbai, Maharashtra 400012",
         "timing": "OPD: 8:00 AM - 2:00 PM (Mon-Sat)",
         "contact_number": "022-24107000",
-        "specialities": ["General Medicine", "Cardiology", "Nephrology", "Dermatology"]
+        "specialities": [
+            "General Medicine",
+            "Cardiology",
+            "Nephrology",
+            "Dermatology"
+        ]
     },
     {
         "name": "Sir J. J. Group of Hospitals",
@@ -29,7 +44,12 @@
         "address": "J. J. Marg, Byculla, Mumbai, Maharashtra 400008",
         "timing": "OPD: 9:00 AM - 1:00 PM (Mon-Sat)",
         "contact_number": "022-23735555",
-        "specialities": ["Ophthalmology", "Psychiatry", "Neurology", "Pediatrics"]
+        "specialities": [
+            "Ophthalmology",
+            "Psychiatry",
+            "Neurology",
+            "Pediatrics"
+        ]
     },
     {
         "name": "Civil Hospital, Ahmedabad",
@@ -37,7 +57,12 @@
         "address": "Asarwa, Ahmedabad, Gujarat 380016",
         "timing": "OPD: 9:00 AM - 1:00 PM, 3:00 PM - 5:00 PM",
         "contact_number": "079-22683721",
-        "specialities": ["General Surgery", "Gynecology", "Orthopedics", "ENT"]
+        "specialities": [
+            "General Surgery",
+            "Gynecology",
+            "Orthopedics",
+            "ENT"
+        ]
     },
     {
         "name": "Sanjay Gandhi Postgraduate Institute of Medical Sciences (SGPGIMS)",
@@ -45,7 +70,12 @@
         "address": "New PMSSY Rd, Raibareli Rd, Lucknow, Uttar Pradesh 226014",
         "timing": "OPD: 9:00 AM - 2:00 PM (Mon-Fri)",
         "contact_number": "0522-2494000",
-        "specialities": ["Gastroenterology", "Nephrology", "Neurology", "Endocrinology"]
+        "specialities": [
+            "Gastroenterology",
+            "Nephrology",
+            "Neurology",
+            "Endocrinology"
+        ]
     },
     {
         "name": "King George's Medical University (KGMU)",
@@ -53,7 +83,12 @@
         "address": "Shah Mina Rd, Chowk, Lucknow, Uttar Pradesh 226003",
         "timing": "OPD: 8:30 AM - 1:30 PM (Mon-Sat)",
         "contact_number": "0522-2257450",
-        "specialities": ["Cardiology", "General Surgery", "Pediatrics", "Orthopedics"]
+        "specialities": [
+            "Cardiology",
+            "General Surgery",
+            "Pediatrics",
+            "Orthopedics"
+        ]
     },
     {
         "name": "Victoria Hospital",
@@ -61,7 +96,12 @@
         "address": "Fort Rd, near City Market, Bengaluru, Karnataka 560002",
         "timing": "OPD: 9:00 AM - 4:00 PM (Mon-Sat)",
         "contact_number": "080-26701150",
-        "specialities": ["Burn Care", "Trauma", "General Medicine", "Dermatology"]
+        "specialities": [
+            "Burn Care",
+            "Trauma",
+            "General Medicine",
+            "Dermatology"
+        ]
     },
     {
         "name": "Rajiv Gandhi Government General Hospital (RGGGH)",
@@ -69,6 +109,141 @@
         "address": "EVR Periyar Salai, Park Town, Chennai, Tamil Nadu 600003",
         "timing": "OPD: 8:00 AM - 12:00 PM (Mon-Sat)",
         "contact_number": "044-25305000",
-        "specialities": ["Cardiology", "Neurology", "Oncology", "Diabetology"]
+        "specialities": [
+            "Cardiology",
+            "Neurology",
+            "Oncology",
+            "Diabetology"
+        ]
+    },
+    {
+        "name": "AIIMS Gorakhpur",
+        "state": "Uttar Pradesh",
+        "address": "Kunraghat, Gorakhpur, Uttar Pradesh 273008",
+        "timing": "OPD: 8:00 AM - 1:00 PM",
+        "contact_number": "0551-2205501",
+        "specialities": [
+            "General Medicine",
+            "Cardiology",
+            "Neurology",
+            "Oncology"
+        ]
+    },
+    {
+        "name": "AIIMS Raebareli",
+        "state": "Uttar Pradesh",
+        "address": "Munshiganj, Dalmau Road, Raebareli, Uttar Pradesh 229405",
+        "timing": "OPD: 9:00 AM - 2:00 PM",
+        "contact_number": "0535-2704400",
+        "specialities": [
+            "Pediatrics",
+            "Orthopedics",
+            "Gynecology",
+            "ENT"
+        ]
+    },
+    {
+        "name": "Dr. Ram Manohar Lohia Institute of Medical Sciences (RMLIMS)",
+        "state": "Uttar Pradesh",
+        "address": "Vibhuti Khand, Gomti Nagar, Lucknow, Uttar Pradesh 226010",
+        "timing": "OPD: 9:00 AM - 3:00 PM",
+        "contact_number": "0522-4918504",
+        "specialities": [
+            "Cardiology",
+            "Neurology",
+            "Urology",
+            "Oncology"
+        ]
+    },
+    {
+        "name": "Sir Sunderlal Hospital (BHU)",
+        "state": "Uttar Pradesh",
+        "address": "Banaras Hindu University Campus, Varanasi, Uttar Pradesh 221005",
+        "timing": "OPD: 8:00 AM - 1:30 PM",
+        "contact_number": "0542-2367568",
+        "specialities": [
+            "General Surgery",
+            "Internal Medicine",
+            "Ophthalmology",
+            "Dermatology"
+        ]
+    },
+    {
+        "name": "Lala Lajpat Rai (LLR) Hospital (Hallet)",
+        "state": "Uttar Pradesh",
+        "address": "Swaroop Nagar, Kanpur, Uttar Pradesh 208002",
+        "timing": "OPD: 8:30 AM - 2:00 PM",
+        "contact_number": "0512-2535483",
+        "specialities": [
+            "Trauma",
+            "Orthopedics",
+            "General Surgery",
+            "Pediatrics"
+        ]
+    },
+    {
+        "name": "Sarojini Naidu (SN) Medical College Hospital",
+        "state": "Uttar Pradesh",
+        "address": "Motilal Nehru Road, Agra, Uttar Pradesh 282002",
+        "timing": "OPD: 8:00 AM - 1:00 PM",
+        "contact_number": "0562-2260353",
+        "specialities": [
+            "General Medicine",
+            "Gynecology",
+            "ENT",
+            "Orthopedics"
+        ]
+    },
+    {
+        "name": "Swaroop Rani Nehru Hospital (MLN Medical College)",
+        "state": "Uttar Pradesh",
+        "address": "Lowther Road, Prayagraj, Uttar Pradesh 211001",
+        "timing": "OPD: 9:00 AM - 2:00 PM",
+        "contact_number": "0532-2256501",
+        "specialities": [
+            "General Surgery",
+            "Internal Medicine",
+            "Ophthalmology",
+            "Pediatrics"
+        ]
+    },
+    {
+        "name": "BRD Medical College Hospital",
+        "state": "Uttar Pradesh",
+        "address": "Gorakhpur-Maharajganj Road, Gorakhpur, Uttar Pradesh 273013",
+        "timing": "OPD: 8:00 AM - 2:00 PM",
+        "contact_number": "0551-2501736",
+        "specialities": [
+            "Pediatrics",
+            "Infectious Diseases",
+            "General Medicine",
+            "Orthopedics"
+        ]
+    },
+    {
+        "name": "Sardar Vallabh Bhai Patel Hospital (LLRM)",
+        "state": "Uttar Pradesh",
+        "address": "Garh Road, Jai Bhim Nagar, Meerut, Uttar Pradesh 250004",
+        "timing": "OPD: 8:30 AM - 1:30 PM",
+        "contact_number": "0121-2601444",
+        "specialities": [
+            "General Surgery",
+            "Trauma",
+            "Internal Medicine",
+            "Gynecology"
+        ]
+    },
+    {
+        "name": "Government Institute of Medical Sciences (GIMS)",
+        "state": "Uttar Pradesh",
+        "address": "Kasna, Greater Noida, Uttar Pradesh 201310",
+        "timing": "OPD: 9:00 AM - 2:00 PM",
+        "contact_number": "0120-2341738",
+        "specialities": [
+            "Internal Medicine",
+            "Pediatrics",
+            "Gynecology",
+            "General Surgery"
+        ]
     }
 ]
