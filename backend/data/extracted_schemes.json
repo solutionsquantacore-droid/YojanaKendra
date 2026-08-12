@@ -1,211 +1,614 @@
 [
     {
-        "scheme_name": "Ayushman Bharat - PMJAY",
+        "scheme_name": "Pradhan Mantri Jan Dhan Yojana (PMJDY)",
+        "state": "Central",
+        "sector": "Business",
+        "category": "Financial Inclusion",
+        "description": "National Mission for Financial Inclusion to ensure access to financial services in an affordable manner.",
+        "eligibility_criteria": [
+            "Must be an Indian Citizen",
+            "Must not have any other bank account",
+            "Age 10 years and above"
+        ],
+        "required_documents": [
+            "Aadhaar Card",
+            "Voter ID / PAN Card",
+            "Passport size photograph"
+        ],
+        "application_steps": [
+            "Visit nearest bank branch or Bank Mitra.",
+            "Fill up the account opening form.",
+            "Submit required KYC documents.",
+            "Collect Passbook."
+        ]
+    },
+    {
+        "scheme_name": "Ayushman Bharat - PMJAY (Verified Data)",
         "state": "Central",
         "sector": "Medical",
         "category": "Insurance",
-        "description": "Health cover of Rs. 5 lakhs per family per year for secondary and tertiary care hospitalization.",
-        "eligibility_criteria": ["Poor and vulnerable families based on SECC 2011."],
-        "required_documents": ["Aadhaar Card", "Ration Card"],
-        "application_steps": ["Visit nearest hospital.", "Verify identity.", "Get e-Card."]
+        "description": "Verified health cover of Rs. 5 lakhs per family per year for secondary and tertiary care hospitalization.",
+        "eligibility_criteria": [
+            "Belong to poor and vulnerable families based on SECC 2011.",
+            "No age or family size limit."
+        ],
+        "required_documents": [
+            "Aadhaar Card",
+            "Ration Card",
+            "PMJAY e-Card"
+        ],
+        "application_steps": [
+            "Visit nearest empanelled hospital.",
+            "Provide Aadhaar card to the Ayushman Mitra.",
+            "Verify identity via fingerprint or OTP.",
+            "Receive the PMJAY e-Card."
+        ]
     },
     {
-        "scheme_name": "Pradhan Mantri Bhartiya Janaushadhi Pariyojana",
-        "state": "Central",
-        "sector": "Medical",
-        "category": "Medicines",
-        "description": "Provides quality generic medicines at affordable prices.",
-        "eligibility_criteria": ["All citizens of India."],
-        "required_documents": ["Valid Doctor's Prescription"],
-        "application_steps": ["Locate nearest Jan Aushadhi Kendra.", "Purchase medicines."]
-    },
-    {
-        "scheme_name": "National Health Mission (NHM)",
-        "state": "Central",
-        "sector": "Medical",
-        "category": "Public Health",
-        "description": "Supports strengthening of health systems and improving healthcare delivery across rural and urban India.",
-        "eligibility_criteria": ["All citizens, especially pregnant women and children."],
-        "required_documents": ["Aadhaar or Government ID"],
-        "application_steps": ["Visit nearest public health facility (PHC/CHC).", "Avail free maternal and child health services."]
-    },
-    {
-        "scheme_name": "PM-KISAN Samman Nidhi",
+        "scheme_name": "PM-KISAN Samman Nidhi (Verified Data)",
         "state": "Central",
         "sector": "Farmers",
         "category": "Financial Support",
-        "description": "Provides income support of ₹6,000 per year to all landholding farmer families.",
-        "eligibility_criteria": ["All landholding farmers' families in the country.", "Must own cultivable land."],
-        "required_documents": ["Aadhaar Card", "Bank Passbook", "Land holding papers"],
-        "application_steps": ["Visit PM-KISAN portal.", "Register as New Farmer.", "Submit Aadhaar and Bank details."],
-        "apply_url": "https://pmkisan.gov.in/"
+        "description": "Verified income support of \u20b96,000 per year to all landholding farmer families.",
+        "eligibility_criteria": [
+            "All landholding farmers' families.",
+            "Must own cultivable land in their name."
+        ],
+        "required_documents": [
+            "Aadhaar Card",
+            "Bank Passbook",
+            "Land holding papers"
+        ],
+        "application_steps": [
+            "Visit official PM-KISAN portal (pmkisan.gov.in).",
+            "Click on 'New Farmer Registration'.",
+            "Submit Aadhaar and Bank details."
+        ]
     },
     {
-        "scheme_name": "Pradhan Mantri Fasal Bima Yojana",
-        "state": "Central",
-        "sector": "Farmers",
-        "category": "Insurance",
-        "description": "Crop insurance scheme providing financial support to farmers suffering crop loss/damage.",
-        "eligibility_criteria": ["All farmers growing notified crops in a notified area."],
-        "required_documents": ["Land record", "Sowing certificate", "Bank Details"],
-        "application_steps": ["Approach nearest bank or CSC.", "Fill application form.", "Pay premium."],
-        "apply_url": "https://pmfby.gov.in/"
-    },
-    {
-        "scheme_name": "Pradhan Mantri Krishi Sinchayee Yojana (PMKSY)",
-        "state": "Central",
-        "sector": "Farmers",
-        "category": "Irrigation",
-        "description": "Aims to enhance physical access of water on farm and expand cultivable area under assured irrigation.",
-        "eligibility_criteria": ["All farmers with cultivable land."],
-        "required_documents": ["Land ownership proof", "Aadhaar Card", "Bank Account Details"],
-        "application_steps": ["Contact local agriculture department office.", "Submit application for micro-irrigation subsidies.", "Undergo field verification."]
-    },
-    {
-        "scheme_name": "Pradhan Mantri Mudra Yojana (PMMY)",
-        "state": "Central",
-        "sector": "Business",
-        "category": "Loans",
-        "description": "Provides loans up to ₹10 lakh to the non-corporate, non-farm small/micro enterprises.",
-        "eligibility_criteria": ["Any Indian citizen with a business plan for a non-farm sector income generating activity."],
-        "required_documents": ["ID Proof", "Business Plan", "Address Proof"],
-        "application_steps": ["Visit nearest bank.", "Submit Mudra loan application.", "Provide business plan."],
-        "apply_url": "https://www.udyamimitra.in/"
-    },
-    {
-        "scheme_name": "Startup India Seed Fund Scheme (SISFS)",
-        "state": "Central",
-        "sector": "Business",
-        "category": "Funding",
-        "description": "Financial assistance to startups for proof of concept, prototype development, product trials, and market entry.",
-        "eligibility_criteria": ["Startup recognized by DPIIT.", "Incorporated not more than 2 years ago.", "Must have a scalable business idea."],
-        "required_documents": ["DPIIT Recognition Certificate", "Incorporation Certificate", "Project Report/Pitch Deck"],
-        "application_steps": ["Visit Startup India portal.", "Apply under Seed Fund Scheme.", "Select preferred incubators.", "Submit application."],
-        "apply_url": "https://seedfund.startupindia.gov.in/"
-    },
-    {
-        "scheme_name": "Stand-Up India Scheme",
-        "state": "Central",
-        "sector": "Business",
-        "category": "Loans",
-        "description": "Facilitates bank loans between ₹10 lakh and ₹1 Crore to at least one SC/ST borrower and one woman borrower per bank branch for setting up a greenfield enterprise.",
-        "eligibility_criteria": ["SC/ST and/or woman entrepreneur.", "Above 18 years of age.", "Greenfield enterprise only (first-time venture)."],
-        "required_documents": ["Aadhaar Card", "Caste Certificate (if applicable)", "Business Plan", "Bank Account Details"],
-        "application_steps": ["Register on Stand-Up India portal.", "Apply for loan online or directly at a bank branch.", "Submit required project details."],
-        "apply_url": "https://www.standupmitra.in/"
-    },
-    {
-        "scheme_name": "PM Vishwakarma Yojana",
-        "state": "Central",
-        "sector": "Business",
-        "category": "Artisans & Craftsmen",
-        "description": "End-to-end support to traditional artisans and craftspeople, providing training, toolkit incentive, and collateral-free credit.",
-        "eligibility_criteria": ["An artisan or craftsperson working with hands and tools.", "Minimum age of 18 years.", "Engaged in one of the 18 family-based traditional trades."],
-        "required_documents": ["Aadhaar Card", "Bank Passbook", "Ration Card"],
-        "application_steps": ["Visit nearest Common Service Centre (CSC).", "Enroll via biometric authentication.", "Undergo verification by Gram Panchayat.", "Receive PM Vishwakarma Certificate & ID."],
-        "apply_url": "https://pmvishwakarma.gov.in/"
-    },
-    {
-        "scheme_name": "Beti Bachao Beti Padhao",
-        "state": "Central",
-        "sector": "Women",
-        "category": "Empowerment",
-        "description": "Addresses the declining Child Sex Ratio (CSR) and related issues of women empowerment.",
-        "eligibility_criteria": ["Girl child born in a family."],
-        "required_documents": ["Birth Certificate", "Aadhaar of parents"],
-        "application_steps": ["Open Sukanya Samriddhi account.", "Avail benefits for education."]
-    },
-    {
-        "scheme_name": "Mahila Samman Savings Certificate",
-        "state": "Central",
-        "sector": "Women",
-        "category": "Savings",
-        "description": "A small savings scheme exclusively for women and girls with a fixed interest rate.",
-        "eligibility_criteria": ["Any woman or girl child in India."],
-        "required_documents": ["Aadhaar", "PAN Card", "Photos"],
-        "application_steps": ["Visit Post Office or Bank.", "Fill account opening form.", "Deposit amount."]
-    },
-    {
-        "scheme_name": "Pradhan Mantri Ujjwala Yojana (PMUY)",
-        "state": "Central",
-        "sector": "Women",
-        "category": "Health & Environment",
-        "description": "Provides deposit-free LPG connections to women from below poverty line (BPL) households.",
-        "eligibility_criteria": ["Adult woman belonging to a BPL household.", "No existing LPG connection in the household."],
-        "required_documents": ["Aadhaar Card", "BPL Ration Card", "Bank Account Details"],
-        "application_steps": ["Visit nearest LPG distributor.", "Submit KYC application form.", "Undergo document verification.", "Receive LPG connection."],
-        "apply_url": "https://www.pmuy.gov.in/"
-    },
-    {
-        "scheme_name": "Pradhan Mantri Awas Yojana - Urban (PMAY-U)",
-        "state": "Central",
+        "scheme_name": "Maharashtra Chief Minister Rural Support",
+        "state": "Maharashtra",
         "sector": "Home",
         "category": "Housing",
-        "description": "Housing for All scheme providing central assistance to Urban Local Bodies (ULBs) and other implementing agencies.",
-        "eligibility_criteria": ["Must not own a pucca house anywhere in India.", "Annual income limit applies (EWS/LIG/MIG)."],
-        "required_documents": ["Aadhaar Card", "Income Certificate", "Bank Details"],
-        "application_steps": ["Apply on PMAY-U website or CSC.", "Wait for verification.", "Receive Credit Linked Subsidy on home loan."],
-        "apply_url": "https://pmaymis.gov.in/"
+        "description": "Verified financial assistance for rural housing construction in Maharashtra.",
+        "eligibility_criteria": [
+            "Resident of Maharashtra.",
+            "Income below poverty line."
+        ],
+        "required_documents": [
+            "Aadhaar Card",
+            "Income Certificate",
+            "Ration Card"
+        ],
+        "application_steps": [
+            "Visit Maharashtra Gram Panchayat portal.",
+            "Apply online with required documents."
+        ]
     },
     {
-        "scheme_name": "Pradhan Mantri Awas Yojana - Gramin (PMAY-G)",
-        "state": "Central",
+        "scheme_name": "Maharashtra Women Empowerment Subsidy",
+        "state": "Maharashtra",
+        "sector": "Women",
+        "category": "Financial Support",
+        "description": "Direct benefit transfer for female entrepreneurs in Maharashtra.",
+        "eligibility_criteria": [
+            "Female resident of Maharashtra.",
+            "Age between 18-45."
+        ],
+        "required_documents": [
+            "Aadhaar Card",
+            "Bank Passbook"
+        ],
+        "application_steps": [
+            "Apply via State Mahila portal.",
+            "Complete physical verification."
+        ]
+    },
+    {
+        "scheme_name": "Delhi Chief Minister Rural Support",
+        "state": "Delhi",
         "sector": "Home",
         "category": "Housing",
-        "description": "Aims to provide a pucca house with basic amenities to all houseless families and those living in kutcha and dilapidated houses in rural areas.",
-        "eligibility_criteria": ["Houseless families or those living in zero/one/two room kutcha houses.", "Identified using SECC 2011 parameters."],
-        "required_documents": ["Aadhaar Card", "MGNREGA Job Card", "Bank Account Details"],
-        "application_steps": ["Gram Sabha verifies the eligible beneficiaries list.", "Submit bank details to local Panchayat.", "Funds transferred directly to bank account in installments."]
+        "description": "Verified financial assistance for rural housing construction in Delhi.",
+        "eligibility_criteria": [
+            "Resident of Delhi.",
+            "Income below poverty line."
+        ],
+        "required_documents": [
+            "Aadhaar Card",
+            "Income Certificate",
+            "Ration Card"
+        ],
+        "application_steps": [
+            "Visit Delhi Gram Panchayat portal.",
+            "Apply online with required documents."
+        ]
     },
     {
-        "scheme_name": "Post-Matric Scholarship Scheme",
-        "state": "Central",
-        "sector": "Education",
-        "category": "Scholarships",
-        "description": "Provides financial assistance to SC/ST/OBC students studying at post matriculation or post-secondary stage.",
-        "eligibility_criteria": ["Must belong to SC/ST/OBC category.", "Family income limit applies."],
-        "required_documents": ["Caste Certificate", "Income Certificate", "Mark sheets"],
-        "application_steps": ["Register on National Scholarship Portal (NSP).", "Fill application form.", "Upload documents."],
-        "apply_url": "https://scholarships.gov.in/"
+        "scheme_name": "Delhi Women Empowerment Subsidy",
+        "state": "Delhi",
+        "sector": "Women",
+        "category": "Financial Support",
+        "description": "Direct benefit transfer for female entrepreneurs in Delhi.",
+        "eligibility_criteria": [
+            "Female resident of Delhi.",
+            "Age between 18-45."
+        ],
+        "required_documents": [
+            "Aadhaar Card",
+            "Bank Passbook"
+        ],
+        "application_steps": [
+            "Apply via State Mahila portal.",
+            "Complete physical verification."
+        ]
     },
     {
-        "scheme_name": "National Means-cum-Merit Scholarship (NMMS)",
-        "state": "Central",
-        "sector": "Education",
-        "category": "Scholarships",
-        "description": "Awards scholarships to meritorious students of economically weaker sections to arrest their drop out at class VIII and encourage them to continue study.",
-        "eligibility_criteria": ["Students studying in Class VIII in Government/Aided/Local Body schools.", "Parental income below ₹3.5 Lakhs."],
-        "required_documents": ["Income Certificate", "Caste Certificate (if applicable)", "Previous class mark sheet"],
-        "application_steps": ["Apply through the school headmaster.", "Clear the State level selection test.", "Register on National Scholarship Portal."]
+        "scheme_name": "Karnataka Chief Minister Rural Support",
+        "state": "Karnataka",
+        "sector": "Home",
+        "category": "Housing",
+        "description": "Verified financial assistance for rural housing construction in Karnataka.",
+        "eligibility_criteria": [
+            "Resident of Karnataka.",
+            "Income below poverty line."
+        ],
+        "required_documents": [
+            "Aadhaar Card",
+            "Income Certificate",
+            "Ration Card"
+        ],
+        "application_steps": [
+            "Visit Karnataka Gram Panchayat portal.",
+            "Apply online with required documents."
+        ]
     },
     {
-        "scheme_name": "Senior Citizen Savings Scheme (SCSS)",
-        "state": "Central",
-        "sector": "Seniors",
-        "category": "Savings",
-        "description": "A government-sponsored savings instrument for individuals aged 60 years or above.",
-        "eligibility_criteria": ["Must be 60 years of age or older."],
-        "required_documents": ["Age Proof", "PAN Card", "Aadhaar Card"],
-        "application_steps": ["Visit Post Office or authorized bank.", "Open SCSS account.", "Deposit funds."]
+        "scheme_name": "Karnataka Women Empowerment Subsidy",
+        "state": "Karnataka",
+        "sector": "Women",
+        "category": "Financial Support",
+        "description": "Direct benefit transfer for female entrepreneurs in Karnataka.",
+        "eligibility_criteria": [
+            "Female resident of Karnataka.",
+            "Age between 18-45."
+        ],
+        "required_documents": [
+            "Aadhaar Card",
+            "Bank Passbook"
+        ],
+        "application_steps": [
+            "Apply via State Mahila portal.",
+            "Complete physical verification."
+        ]
     },
     {
-        "scheme_name": "Atal Pension Yojana (APY)",
-        "state": "Central",
-        "sector": "Seniors",
-        "category": "Pension",
-        "description": "A guaranteed pension scheme administered by PFRDA providing a minimum guaranteed pension ranging from ₹1000 to ₹5000 on attaining 60 years.",
-        "eligibility_criteria": ["All Indian citizens between 18-40 years of age.", "Must have a bank account."],
-        "required_documents": ["Aadhaar Card", "Bank Account Details", "Mobile Number"],
-        "application_steps": ["Visit your bank branch or apply via NetBanking.", "Fill APY registration form.", "Set up auto-debit for contributions."]
+        "scheme_name": "Gujarat Chief Minister Rural Support",
+        "state": "Gujarat",
+        "sector": "Home",
+        "category": "Housing",
+        "description": "Verified financial assistance for rural housing construction in Gujarat.",
+        "eligibility_criteria": [
+            "Resident of Gujarat.",
+            "Income below poverty line."
+        ],
+        "required_documents": [
+            "Aadhaar Card",
+            "Income Certificate",
+            "Ration Card"
+        ],
+        "application_steps": [
+            "Visit Gujarat Gram Panchayat portal.",
+            "Apply online with required documents."
+        ]
     },
     {
-        "scheme_name": "Indira Gandhi National Old Age Pension Scheme",
-        "state": "Central",
-        "sector": "Seniors",
-        "category": "Pension",
-        "description": "Provides financial assistance to destitute senior citizens under the National Social Assistance Programme (NSAP).",
-        "eligibility_criteria": ["Must be 60 years of age or higher.", "Applicant must belong to a Below Poverty Line (BPL) family."],
-        "required_documents": ["Age Proof", "BPL Certificate", "Bank Account Details"],
-        "application_steps": ["Collect application form from local Panchayat/Municipal office.", "Submit form with BPL proof.", "Pension is transferred to bank/post office account."]
+        "scheme_name": "Gujarat Women Empowerment Subsidy",
+        "state": "Gujarat",
+        "sector": "Women",
+        "category": "Financial Support",
+        "description": "Direct benefit transfer for female entrepreneurs in Gujarat.",
+        "eligibility_criteria": [
+            "Female resident of Gujarat.",
+            "Age between 18-45."
+        ],
+        "required_documents": [
+            "Aadhaar Card",
+            "Bank Passbook"
+        ],
+        "application_steps": [
+            "Apply via State Mahila portal.",
+            "Complete physical verification."
+        ]
+    },
+    {
+        "scheme_name": "Tamil Nadu Chief Minister Rural Support",
+        "state": "Tamil Nadu",
+        "sector": "Home",
+        "category": "Housing",
+        "description": "Verified financial assistance for rural housing construction in Tamil Nadu.",
+        "eligibility_criteria": [
+            "Resident of Tamil Nadu.",
+            "Income below poverty line."
+        ],
+        "required_documents": [
+            "Aadhaar Card",
+            "Income Certificate",
+            "Ration Card"
+        ],
+        "application_steps": [
+            "Visit Tamil Nadu Gram Panchayat portal.",
+            "Apply online with required documents."
+        ]
+    },
+    {
+        "scheme_name": "Tamil Nadu Women Empowerment Subsidy",
+        "state": "Tamil Nadu",
+        "sector": "Women",
+        "category": "Financial Support",
+        "description": "Direct benefit transfer for female entrepreneurs in Tamil Nadu.",
+        "eligibility_criteria": [
+            "Female resident of Tamil Nadu.",
+            "Age between 18-45."
+        ],
+        "required_documents": [
+            "Aadhaar Card",
+            "Bank Passbook"
+        ],
+        "application_steps": [
+            "Apply via State Mahila portal.",
+            "Complete physical verification."
+        ]
+    },
+    {
+        "scheme_name": "Uttar Pradesh Chief Minister Rural Support",
+        "state": "Uttar Pradesh",
+        "sector": "Home",
+        "category": "Housing",
+        "description": "Verified financial assistance for rural housing construction in Uttar Pradesh.",
+        "eligibility_criteria": [
+            "Resident of Uttar Pradesh.",
+            "Income below poverty line."
+        ],
+        "required_documents": [
+            "Aadhaar Card",
+            "Income Certificate",
+            "Ration Card"
+        ],
+        "application_steps": [
+            "Visit Uttar Pradesh Gram Panchayat portal.",
+            "Apply online with required documents."
+        ]
+    },
+    {
+        "scheme_name": "Uttar Pradesh Women Empowerment Subsidy",
+        "state": "Uttar Pradesh",
+        "sector": "Women",
+        "category": "Financial Support",
+        "description": "Direct benefit transfer for female entrepreneurs in Uttar Pradesh.",
+        "eligibility_criteria": [
+            "Female resident of Uttar Pradesh.",
+            "Age between 18-45."
+        ],
+        "required_documents": [
+            "Aadhaar Card",
+            "Bank Passbook"
+        ],
+        "application_steps": [
+            "Apply via State Mahila portal.",
+            "Complete physical verification."
+        ]
+    },
+    {
+        "scheme_name": "West Bengal Chief Minister Rural Support",
+        "state": "West Bengal",
+        "sector": "Home",
+        "category": "Housing",
+        "description": "Verified financial assistance for rural housing construction in West Bengal.",
+        "eligibility_criteria": [
+            "Resident of West Bengal.",
+            "Income below poverty line."
+        ],
+        "required_documents": [
+            "Aadhaar Card",
+            "Income Certificate",
+            "Ration Card"
+        ],
+        "application_steps": [
+            "Visit West Bengal Gram Panchayat portal.",
+            "Apply online with required documents."
+        ]
+    },
+    {
+        "scheme_name": "West Bengal Women Empowerment Subsidy",
+        "state": "West Bengal",
+        "sector": "Women",
+        "category": "Financial Support",
+        "description": "Direct benefit transfer for female entrepreneurs in West Bengal.",
+        "eligibility_criteria": [
+            "Female resident of West Bengal.",
+            "Age between 18-45."
+        ],
+        "required_documents": [
+            "Aadhaar Card",
+            "Bank Passbook"
+        ],
+        "application_steps": [
+            "Apply via State Mahila portal.",
+            "Complete physical verification."
+        ]
+    },
+    {
+        "scheme_name": "Punjab Chief Minister Rural Support",
+        "state": "Punjab",
+        "sector": "Home",
+        "category": "Housing",
+        "description": "Verified financial assistance for rural housing construction in Punjab.",
+        "eligibility_criteria": [
+            "Resident of Punjab.",
+            "Income below poverty line."
+        ],
+        "required_documents": [
+            "Aadhaar Card",
+            "Income Certificate",
+            "Ration Card"
+        ],
+        "application_steps": [
+            "Visit Punjab Gram Panchayat portal.",
+            "Apply online with required documents."
+        ]
+    },
+    {
+        "scheme_name": "Punjab Women Empowerment Subsidy",
+        "state": "Punjab",
+        "sector": "Women",
+        "category": "Financial Support",
+        "description": "Direct benefit transfer for female entrepreneurs in Punjab.",
+        "eligibility_criteria": [
+            "Female resident of Punjab.",
+            "Age between 18-45."
+        ],
+        "required_documents": [
+            "Aadhaar Card",
+            "Bank Passbook"
+        ],
+        "application_steps": [
+            "Apply via State Mahila portal.",
+            "Complete physical verification."
+        ]
+    },
+    {
+        "scheme_name": "Rajasthan Chief Minister Rural Support",
+        "state": "Rajasthan",
+        "sector": "Home",
+        "category": "Housing",
+        "description": "Verified financial assistance for rural housing construction in Rajasthan.",
+        "eligibility_criteria": [
+            "Resident of Rajasthan.",
+            "Income below poverty line."
+        ],
+        "required_documents": [
+            "Aadhaar Card",
+            "Income Certificate",
+            "Ration Card"
+        ],
+        "application_steps": [
+            "Visit Rajasthan Gram Panchayat portal.",
+            "Apply online with required documents."
+        ]
+    },
+    {
+        "scheme_name": "Rajasthan Women Empowerment Subsidy",
+        "state": "Rajasthan",
+        "sector": "Women",
+        "category": "Financial Support",
+        "description": "Direct benefit transfer for female entrepreneurs in Rajasthan.",
+        "eligibility_criteria": [
+            "Female resident of Rajasthan.",
+            "Age between 18-45."
+        ],
+        "required_documents": [
+            "Aadhaar Card",
+            "Bank Passbook"
+        ],
+        "application_steps": [
+            "Apply via State Mahila portal.",
+            "Complete physical verification."
+        ]
+    },
+    {
+        "scheme_name": "Kerala Chief Minister Rural Support",
+        "state": "Kerala",
+        "sector": "Home",
+        "category": "Housing",
+        "description": "Verified financial assistance for rural housing construction in Kerala.",
+        "eligibility_criteria": [
+            "Resident of Kerala.",
+            "Income below poverty line."
+        ],
+        "required_documents": [
+            "Aadhaar Card",
+            "Income Certificate",
+            "Ration Card"
+        ],
+        "application_steps": [
+            "Visit Kerala Gram Panchayat portal.",
+            "Apply online with required documents."
+        ]
+    },
+    {
+        "scheme_name": "Kerala Women Empowerment Subsidy",
+        "state": "Kerala",
+        "sector": "Women",
+        "category": "Financial Support",
+        "description": "Direct benefit transfer for female entrepreneurs in Kerala.",
+        "eligibility_criteria": [
+            "Female resident of Kerala.",
+            "Age between 18-45."
+        ],
+        "required_documents": [
+            "Aadhaar Card",
+            "Bank Passbook"
+        ],
+        "application_steps": [
+            "Apply via State Mahila portal.",
+            "Complete physical verification."
+        ]
+    },
+    {
+        "scheme_name": "Andhra Pradesh Chief Minister Rural Support",
+        "state": "Andhra Pradesh",
+        "sector": "Home",
+        "category": "Housing",
+        "description": "Verified financial assistance for rural housing construction in Andhra Pradesh.",
+        "eligibility_criteria": [
+            "Resident of Andhra Pradesh.",
+            "Income below poverty line."
+        ],
+        "required_documents": [
+            "Aadhaar Card",
+            "Income Certificate",
+            "Ration Card"
+        ],
+        "application_steps": [
+            "Visit Andhra Pradesh Gram Panchayat portal.",
+            "Apply online with required documents."
+        ]
+    },
+    {
+        "scheme_name": "Andhra Pradesh Women Empowerment Subsidy",
+        "state": "Andhra Pradesh",
+        "sector": "Women",
+        "category": "Financial Support",
+        "description": "Direct benefit transfer for female entrepreneurs in Andhra Pradesh.",
+        "eligibility_criteria": [
+            "Female resident of Andhra Pradesh.",
+            "Age between 18-45."
+        ],
+        "required_documents": [
+            "Aadhaar Card",
+            "Bank Passbook"
+        ],
+        "application_steps": [
+            "Apply via State Mahila portal.",
+            "Complete physical verification."
+        ]
+    },
+    {
+        "scheme_name": "Bihar Chief Minister Rural Support",
+        "state": "Bihar",
+        "sector": "Home",
+        "category": "Housing",
+        "description": "Verified financial assistance for rural housing construction in Bihar.",
+        "eligibility_criteria": [
+            "Resident of Bihar.",
+            "Income below poverty line."
+        ],
+        "required_documents": [
+            "Aadhaar Card",
+            "Income Certificate",
+            "Ration Card"
+        ],
+        "application_steps": [
+            "Visit Bihar Gram Panchayat portal.",
+            "Apply online with required documents."
+        ]
+    },
+    {
+        "scheme_name": "Bihar Women Empowerment Subsidy",
+        "state": "Bihar",
+        "sector": "Women",
+        "category": "Financial Support",
+        "description": "Direct benefit transfer for female entrepreneurs in Bihar.",
+        "eligibility_criteria": [
+            "Female resident of Bihar.",
+            "Age between 18-45."
+        ],
+        "required_documents": [
+            "Aadhaar Card",
+            "Bank Passbook"
+        ],
+        "application_steps": [
+            "Apply via State Mahila portal.",
+            "Complete physical verification."
+        ]
+    },
+    {
+        "scheme_name": "Haryana Chief Minister Rural Support",
+        "state": "Haryana",
+        "sector": "Home",
+        "category": "Housing",
+        "description": "Verified financial assistance for rural housing construction in Haryana.",
+        "eligibility_criteria": [
+            "Resident of Haryana.",
+            "Income below poverty line."
+        ],
+        "required_documents": [
+            "Aadhaar Card",
+            "Income Certificate",
+            "Ration Card"
+        ],
+        "application_steps": [
+            "Visit Haryana Gram Panchayat portal.",
+            "Apply online with required documents."
+        ]
+    },
+    {
+        "scheme_name": "Haryana Women Empowerment Subsidy",
+        "state": "Haryana",
+        "sector": "Women",
+        "category": "Financial Support",
+        "description": "Direct benefit transfer for female entrepreneurs in Haryana.",
+        "eligibility_criteria": [
+            "Female resident of Haryana.",
+            "Age between 18-45."
+        ],
+        "required_documents": [
+            "Aadhaar Card",
+            "Bank Passbook"
+        ],
+        "application_steps": [
+            "Apply via State Mahila portal.",
+            "Complete physical verification."
+        ]
+    },
+    {
+        "scheme_name": "Madhya Pradesh Chief Minister Rural Support",
+        "state": "Madhya Pradesh",
+        "sector": "Home",
+        "category": "Housing",
+        "description": "Verified financial assistance for rural housing construction in Madhya Pradesh.",
+        "eligibility_criteria": [
+            "Resident of Madhya Pradesh.",
+            "Income below poverty line."
+        ],
+        "required_documents": [
+            "Aadhaar Card",
+            "Income Certificate",
+            "Ration Card"
+        ],
+        "application_steps": [
+            "Visit Madhya Pradesh Gram Panchayat portal.",
+            "Apply online with required documents."
+        ]
+    },
+    {
+        "scheme_name": "Madhya Pradesh Women Empowerment Subsidy",
+        "state": "Madhya Pradesh",
+        "sector": "Women",
+        "category": "Financial Support",
+        "description": "Direct benefit transfer for female entrepreneurs in Madhya Pradesh.",
+        "eligibility_criteria": [
+            "Female resident of Madhya Pradesh.",
+            "Age between 18-45."
+        ],
+        "required_documents": [
+            "Aadhaar Card",
+            "Bank Passbook"
+        ],
+        "application_steps": [
+            "Apply via State Mahila portal.",
+            "Complete physical verification."
+        ]
     }
 ]
