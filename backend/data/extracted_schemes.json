@@ -20,12 +20,6 @@
             "Fill up the account opening form.",
             "Submit required KYC documents.",
             "Collect Passbook."
-        ],
-        "is_verified": true,
-        "support_number": "1800-180-1111",
-        "benefits": [
-            "Financial support and subsidies for MSMEs.",
-            "Business training and skill development."
         ]
     },
     {
@@ -48,12 +42,6 @@
             "Provide Aadhaar card to the Ayushman Mitra.",
             "Verify identity via fingerprint or OTP.",
             "Receive the PMJAY e-Card."
-        ],
-        "is_verified": true,
-        "support_number": "14555",
-        "benefits": [
-            "Free medical treatment and consultation.",
-            "Financial assistance for medical emergencies."
         ]
     },
     {
@@ -75,12 +63,6 @@
             "Visit official PM-KISAN portal (pmkisan.gov.in).",
             "Click on 'New Farmer Registration'.",
             "Submit Aadhaar and Bank details."
-        ],
-        "is_verified": true,
-        "support_number": "1800-233-3333",
-        "benefits": [
-            "Direct financial assistance.",
-            "Government verified subsidies and grants."
         ]
     },
     {
@@ -91,7 +73,7 @@
         "description": "Verified financial assistance for rural housing construction in Maharashtra.",
         "eligibility_criteria": [
             "Resident of Maharashtra.",
-            "Income below poverty line (Annual income under \u20b946,080 for rural / \u20b956,460 for urban)."
+            "Income below poverty line."
         ],
         "required_documents": [
             "Aadhaar Card",
@@ -101,12 +83,6 @@
         "application_steps": [
             "Visit Maharashtra Gram Panchayat portal.",
             "Apply online with required documents."
-        ],
-        "is_verified": true,
-        "support_number": "1800-233-3333",
-        "benefits": [
-            "Direct financial assistance.",
-            "Government verified subsidies and grants."
         ]
     },
     {
@@ -126,12 +102,6 @@
         "application_steps": [
             "Apply via State Mahila portal.",
             "Complete physical verification."
-        ],
-        "is_verified": true,
-        "support_number": "1800-233-3333",
-        "benefits": [
-            "Direct financial assistance.",
-            "Government verified subsidies and grants."
         ]
     },
     {
@@ -142,7 +112,7 @@
         "description": "Verified financial assistance for rural housing construction in Delhi.",
         "eligibility_criteria": [
             "Resident of Delhi.",
-            "Income below poverty line (Annual income under \u20b946,080 for rural / \u20b956,460 for urban)."
+            "Income below poverty line."
         ],
         "required_documents": [
             "Aadhaar Card",
@@ -152,12 +122,6 @@
         "application_steps": [
             "Visit Delhi Gram Panchayat portal.",
             "Apply online with required documents."
-        ],
-        "is_verified": true,
-        "support_number": "1800-233-3333",
-        "benefits": [
-            "Direct financial assistance.",
-            "Government verified subsidies and grants."
         ]
     },
     {
@@ -177,12 +141,6 @@
         "application_steps": [
             "Apply via State Mahila portal.",
             "Complete physical verification."
-        ],
-        "is_verified": true,
-        "support_number": "1800-233-3333",
-        "benefits": [
-            "Direct financial assistance.",
-            "Government verified subsidies and grants."
         ]
     },
     {
@@ -193,7 +151,7 @@
         "description": "Verified financial assistance for rural housing construction in Karnataka.",
         "eligibility_criteria": [
             "Resident of Karnataka.",
-            "Income below poverty line (Annual income under \u20b946,080 for rural / \u20b956,460 for urban)."
+            "Income below poverty line."
         ],
         "required_documents": [
             "Aadhaar Card",
@@ -203,12 +161,6 @@
         "application_steps": [
             "Visit Karnataka Gram Panchayat portal.",
             "Apply online with required documents."
-        ],
-        "is_verified": true,
-        "support_number": "1800-233-3333",
-        "benefits": [
-            "Direct financial assistance.",
-            "Government verified subsidies and grants."
         ]
     },
     {
@@ -228,12 +180,6 @@
         "application_steps": [
             "Apply via State Mahila portal.",
             "Complete physical verification."
-        ],
-        "is_verified": true,
-        "support_number": "1800-233-3333",
-        "benefits": [
-            "Direct financial assistance.",
-            "Government verified subsidies and grants."
         ]
     },
     {
@@ -244,7 +190,7 @@
         "description": "Verified financial assistance for rural housing construction in Gujarat.",
         "eligibility_criteria": [
             "Resident of Gujarat.",
-            "Income below poverty line (Annual income under \u20b946,080 for rural / \u20b956,460 for urban)."
+            "Income below poverty line."
         ],
         "required_documents": [
             "Aadhaar Card",
@@ -254,12 +200,6 @@
         "application_steps": [
             "Visit Gujarat Gram Panchayat portal.",
             "Apply online with required documents."
-        ],
-        "is_verified": true,
-        "support_number": "1800-233-3333",
-        "benefits": [
-            "Direct financial assistance.",
-            "Government verified subsidies and grants."
         ]
     },
     {
@@ -279,12 +219,6 @@
         "application_steps": [
             "Apply via State Mahila portal.",
             "Complete physical verification."
-        ],
-        "is_verified": true,
-        "support_number": "1800-233-3333",
-        "benefits": [
-            "Direct financial assistance.",
-            "Government verified subsidies and grants."
         ]
     },
     {
@@ -295,7 +229,7 @@
         "description": "Verified financial assistance for rural housing construction in Tamil Nadu.",
         "eligibility_criteria": [
             "Resident of Tamil Nadu.",
-            "Income below poverty line (Annual income under \u20b946,080 for rural / \u20b956,460 for urban)."
+            "Income below poverty line."
         ],
         "required_documents": [
             "Aadhaar Card",
@@ -305,12 +239,6 @@
         "application_steps": [
             "Visit Tamil Nadu Gram Panchayat portal.",
             "Apply online with required documents."
-        ],
-        "is_verified": true,
-        "support_number": "1800-233-3333",
-        "benefits": [
-            "Direct financial assistance.",
-            "Government verified subsidies and grants."
         ]
     },
     {
@@ -330,12 +258,6 @@
         "application_steps": [
             "Apply via State Mahila portal.",
             "Complete physical verification."
-        ],
-        "is_verified": true,
-        "support_number": "1800-233-3333",
-        "benefits": [
-            "Direct financial assistance.",
-            "Government verified subsidies and grants."
         ]
     },
     {
@@ -346,7 +268,7 @@
         "description": "Verified financial assistance for rural housing construction in Uttar Pradesh.",
         "eligibility_criteria": [
             "Resident of Uttar Pradesh.",
-            "Income below poverty line (Annual income under \u20b946,080 for rural / \u20b956,460 for urban)."
+            "Income below poverty line."
         ],
         "required_documents": [
             "Aadhaar Card",
@@ -356,12 +278,6 @@
         "application_steps": [
             "Visit Uttar Pradesh Gram Panchayat portal.",
             "Apply online with required documents."
-        ],
-        "is_verified": true,
-        "support_number": "1800-233-3333",
-        "benefits": [
-            "Direct financial assistance.",
-            "Government verified subsidies and grants."
         ]
     },
     {
@@ -381,12 +297,6 @@
         "application_steps": [
             "Apply via State Mahila portal.",
             "Complete physical verification."
-        ],
-        "is_verified": true,
-        "support_number": "1800-233-3333",
-        "benefits": [
-            "Direct financial assistance.",
-            "Government verified subsidies and grants."
         ]
     },
     {
@@ -397,7 +307,7 @@
         "description": "Verified financial assistance for rural housing construction in West Bengal.",
         "eligibility_criteria": [
             "Resident of West Bengal.",
-            "Income below poverty line (Annual income under \u20b946,080 for rural / \u20b956,460 for urban)."
+            "Income below poverty line."
         ],
         "required_documents": [
             "Aadhaar Card",
@@ -407,12 +317,6 @@
         "application_steps": [
             "Visit West Bengal Gram Panchayat portal.",
             "Apply online with required documents."
-        ],
-        "is_verified": true,
-        "support_number": "1800-233-3333",
-        "benefits": [
-            "Direct financial assistance.",
-            "Government verified subsidies and grants."
         ]
     },
     {
@@ -432,12 +336,6 @@
         "application_steps": [
             "Apply via State Mahila portal.",
             "Complete physical verification."
-        ],
-        "is_verified": true,
-        "support_number": "1800-233-3333",
-        "benefits": [
-            "Direct financial assistance.",
-            "Government verified subsidies and grants."
         ]
     },
     {
@@ -448,7 +346,7 @@
         "description": "Verified financial assistance for rural housing construction in Punjab.",
         "eligibility_criteria": [
             "Resident of Punjab.",
-            "Income below poverty line (Annual income under \u20b946,080 for rural / \u20b956,460 for urban)."
+            "Income below poverty line."
         ],
         "required_documents": [
             "Aadhaar Card",
@@ -458,12 +356,6 @@
         "application_steps": [
             "Visit Punjab Gram Panchayat portal.",
             "Apply online with required documents."
-        ],
-        "is_verified": true,
-        "support_number": "1800-233-3333",
-        "benefits": [
-            "Direct financial assistance.",
-            "Government verified subsidies and grants."
         ]
     },
     {
@@ -483,12 +375,6 @@
         "application_steps": [
             "Apply via State Mahila portal.",
             "Complete physical verification."
-        ],
-        "is_verified": true,
-        "support_number": "1800-233-3333",
-        "benefits": [
-            "Direct financial assistance.",
-            "Government verified subsidies and grants."
         ]
     },
     {
@@ -499,7 +385,7 @@
         "description": "Verified financial assistance for rural housing construction in Rajasthan.",
         "eligibility_criteria": [
             "Resident of Rajasthan.",
-            "Income below poverty line (Annual income under \u20b946,080 for rural / \u20b956,460 for urban)."
+            "Income below poverty line."
         ],
         "required_documents": [
             "Aadhaar Card",
@@ -509,12 +395,6 @@
         "application_steps": [
             "Visit Rajasthan Gram Panchayat portal.",
             "Apply online with required documents."
-        ],
-        "is_verified": true,
-        "support_number": "1800-233-3333",
-        "benefits": [
-            "Direct financial assistance.",
-            "Government verified subsidies and grants."
         ]
     },
     {
@@ -534,12 +414,6 @@
         "application_steps": [
             "Apply via State Mahila portal.",
             "Complete physical verification."
-        ],
-        "is_verified": true,
-        "support_number": "1800-233-3333",
-        "benefits": [
-            "Direct financial assistance.",
-            "Government verified subsidies and grants."
         ]
     },
     {
@@ -550,7 +424,7 @@
         "description": "Verified financial assistance for rural housing construction in Kerala.",
         "eligibility_criteria": [
             "Resident of Kerala.",
-            "Income below poverty line (Annual income under \u20b946,080 for rural / \u20b956,460 for urban)."
+            "Income below poverty line."
         ],
         "required_documents": [
             "Aadhaar Card",
@@ -560,12 +434,6 @@
         "application_steps": [
             "Visit Kerala Gram Panchayat portal.",
             "Apply online with required documents."
-        ],
-        "is_verified": true,
-        "support_number": "1800-233-3333",
-        "benefits": [
-            "Direct financial assistance.",
-            "Government verified subsidies and grants."
         ]
     },
     {
@@ -585,12 +453,6 @@
         "application_steps": [
             "Apply via State Mahila portal.",
             "Complete physical verification."
-        ],
-        "is_verified": true,
-        "support_number": "1800-233-3333",
-        "benefits": [
-            "Direct financial assistance.",
-            "Government verified subsidies and grants."
         ]
     },
     {
@@ -601,7 +463,7 @@
         "description": "Verified financial assistance for rural housing construction in Andhra Pradesh.",
         "eligibility_criteria": [
             "Resident of Andhra Pradesh.",
-            "Income below poverty line (Annual income under \u20b946,080 for rural / \u20b956,460 for urban)."
+            "Income below poverty line."
         ],
         "required_documents": [
             "Aadhaar Card",
@@ -611,12 +473,6 @@
         "application_steps": [
             "Visit Andhra Pradesh Gram Panchayat portal.",
             "Apply online with required documents."
-        ],
-        "is_verified": true,
-        "support_number": "1800-233-3333",
-        "benefits": [
-            "Direct financial assistance.",
-            "Government verified subsidies and grants."
         ]
     },
     {
@@ -636,12 +492,6 @@
         "application_steps": [
             "Apply via State Mahila portal.",
             "Complete physical verification."
-        ],
-        "is_verified": true,
-        "support_number": "1800-233-3333",
-        "benefits": [
-            "Direct financial assistance.",
-            "Government verified subsidies and grants."
         ]
     },
     {
@@ -652,7 +502,7 @@
         "description": "Verified financial assistance for rural housing construction in Bihar.",
         "eligibility_criteria": [
             "Resident of Bihar.",
-            "Income below poverty line (Annual income under \u20b946,080 for rural / \u20b956,460 for urban)."
+            "Income below poverty line."
         ],
         "required_documents": [
             "Aadhaar Card",
@@ -662,12 +512,6 @@
         "application_steps": [
             "Visit Bihar Gram Panchayat portal.",
             "Apply online with required documents."
-        ],
-        "is_verified": true,
-        "support_number": "1800-233-3333",
-        "benefits": [
-            "Direct financial assistance.",
-            "Government verified subsidies and grants."
         ]
     },
     {
@@ -687,12 +531,6 @@
         "application_steps": [
             "Apply via State Mahila portal.",
             "Complete physical verification."
-        ],
-        "is_verified": true,
-        "support_number": "1800-233-3333",
-        "benefits": [
-            "Direct financial assistance.",
-            "Government verified subsidies and grants."
         ]
     },
     {
@@ -703,7 +541,7 @@
         "description": "Verified financial assistance for rural housing construction in Haryana.",
         "eligibility_criteria": [
             "Resident of Haryana.",
-            "Income below poverty line (Annual income under \u20b946,080 for rural / \u20b956,460 for urban)."
+            "Income below poverty line."
         ],
         "required_documents": [
             "Aadhaar Card",
@@ -713,12 +551,6 @@
         "application_steps": [
             "Visit Haryana Gram Panchayat portal.",
             "Apply online with required documents."
-        ],
-        "is_verified": true,
-        "support_number": "1800-233-3333",
-        "benefits": [
-            "Direct financial assistance.",
-            "Government verified subsidies and grants."
         ]
     },
     {
@@ -738,12 +570,6 @@
         "application_steps": [
             "Apply via State Mahila portal.",
             "Complete physical verification."
-        ],
-        "is_verified": true,
-        "support_number": "1800-233-3333",
-        "benefits": [
-            "Direct financial assistance.",
-            "Government verified subsidies and grants."
         ]
     },
     {
@@ -754,7 +580,7 @@
         "description": "Verified financial assistance for rural housing construction in Madhya Pradesh.",
         "eligibility_criteria": [
             "Resident of Madhya Pradesh.",
-            "Income below poverty line (Annual income under \u20b946,080 for rural / \u20b956,460 for urban)."
+            "Income below poverty line."
         ],
         "required_documents": [
             "Aadhaar Card",
@@ -764,12 +590,6 @@
         "application_steps": [
             "Visit Madhya Pradesh Gram Panchayat portal.",
             "Apply online with required documents."
-        ],
-        "is_verified": true,
-        "support_number": "1800-233-3333",
-        "benefits": [
-            "Direct financial assistance.",
-            "Government verified subsidies and grants."
         ]
     },
     {
@@ -789,340 +609,6 @@
         "application_steps": [
             "Apply via State Mahila portal.",
             "Complete physical verification."
-        ],
-        "is_verified": true,
-        "support_number": "1800-233-3333",
-        "benefits": [
-            "Direct financial assistance.",
-            "Government verified subsidies and grants."
-        ]
-    },
-    {
-        "scheme_name": "Ayushman Bharat - Pradhan Mantri Jan Arogya Yojana (AB-PMJAY)",
-        "state": "Central",
-        "sector": "Medical",
-        "category": "Health Insurance",
-        "description": "Provides a health cover of \u20b95 Lakhs per family per year for secondary and tertiary care hospitalization.",
-        "eligibility_criteria": [
-            "SECC 2011 database enlisted families",
-            "Low-income households",
-            "No cap on family size or age"
-        ],
-        "required_documents": [
-            "Aadhaar Card",
-            "Ration Card",
-            "PMJAY Golden Card"
-        ],
-        "application_steps": [
-            "Check eligibility on PMJAY portal",
-            "Visit empaneled hospital or CSC",
-            "Verify identity and generate e-card"
-        ],
-        "apply_url": "https://pmjay.gov.in/",
-        "is_verified": true,
-        "support_number": "14555",
-        "benefits": [
-            "Up to \u20b95 Lakhs free health cover per family per year.",
-            "Cashless treatment at empaneled hospitals."
-        ]
-    },
-    {
-        "scheme_name": "Central Government Health Scheme (CGHS)",
-        "state": "Central",
-        "sector": "Medical",
-        "category": "Health Coverage",
-        "description": "Comprehensive medical care facilities for Central Government employees, pensioners, and their dependents.",
-        "eligibility_criteria": [
-            "Central Govt Employees",
-            "Pensioners",
-            "Sitting & Ex-MPs",
-            "Freedom Fighters"
-        ],
-        "required_documents": [
-            "CGHS Plastic Card",
-            "Aadhaar Card",
-            "Pay Slip / PPO"
-        ],
-        "application_steps": [
-            "Fill CGHS application form",
-            "Submit to parent department",
-            "Card issued after verification"
-        ],
-        "apply_url": "https://cghs.nic.in/",
-        "is_verified": true,
-        "support_number": "1800-180-5145",
-        "benefits": [
-            "Free medical treatment and consultation.",
-            "Financial assistance for medical emergencies."
-        ]
-    },
-    {
-        "scheme_name": "Rashtriya Arogya Nidhi (RAN)",
-        "state": "Central",
-        "sector": "Medical",
-        "category": "Financial Assistance",
-        "description": "Financial assistance to patients living below the poverty line (BPL) suffering from major life-threatening diseases to receive medical treatment at super specialty Government hospitals.",
-        "eligibility_criteria": [
-            "BPL Families",
-            "Suffering from major life-threatening diseases",
-            "Treatment at designated Govt Hospitals"
-        ],
-        "required_documents": [
-            "BPL Card",
-            "Income Certificate",
-            "Medical Estimate from Govt Hospital",
-            "Aadhaar Card"
-        ],
-        "application_steps": [
-            "Obtain cost estimate from Medical Superintendent",
-            "Submit application to Health Ministry",
-            "Funds released to Hospital"
-        ],
-        "apply_url": "https://main.mohfw.gov.in/",
-        "is_verified": true,
-        "support_number": "1800-180-5145",
-        "benefits": [
-            "Free medical treatment and consultation.",
-            "Financial assistance for medical emergencies."
-        ]
-    },
-    {
-        "scheme_name": "Pradhan Mantri Suraksha Bima Yojana (PMSBY)",
-        "state": "Central",
-        "sector": "Medical",
-        "category": "Accident Insurance",
-        "description": "An accident insurance scheme offering a one-year accidental death and disability cover of \u20b92 Lakhs, which can be renewed annually for a premium of just \u20b920.",
-        "eligibility_criteria": [
-            "Individuals between 18 and 70 years",
-            "Must have a bank account",
-            "Auto-debit consent given"
-        ],
-        "required_documents": [
-            "Aadhaar Card",
-            "Bank Account Details"
-        ],
-        "application_steps": [
-            "Visit your bank branch or net banking",
-            "Opt-in for PMSBY",
-            "Give consent for \u20b920 auto-debit"
-        ],
-        "apply_url": "https://jansuraksha.gov.in/",
-        "is_verified": true,
-        "support_number": "1800-180-5145",
-        "benefits": [
-            "\u20b92 Lakhs accidental death cover.",
-            "\u20b91 Lakh for partial disability."
-        ]
-    },
-    {
-        "scheme_name": "Health Minister's Discretionary Grant (HMDG)",
-        "state": "Central",
-        "sector": "Medical",
-        "category": "Financial Assistance",
-        "description": "Financial assistance up to \u20b91.25 Lakhs for poor patients to undergo treatment for life-threatening diseases in Government hospitals where RAN is not applicable.",
-        "eligibility_criteria": [
-            "Annual family income less than \u20b91.25 Lakhs",
-            "Treatment in Govt hospital"
-        ],
-        "required_documents": [
-            "Income Certificate",
-            "Medical Certificate / Estimate",
-            "Aadhaar Card"
-        ],
-        "application_steps": [
-            "Submit application with medical estimate",
-            "Verification by Ministry",
-            "Direct payment to hospital"
-        ],
-        "apply_url": "https://main.mohfw.gov.in/",
-        "is_verified": true,
-        "support_number": "1800-180-5145",
-        "benefits": [
-            "Up to \u20b95 Lakhs free health cover per family per year.",
-            "Cashless treatment at empaneled hospitals."
-        ]
-    },
-    {
-        "scheme_name": "Aam Aadmi Bima Yojana (AABY)",
-        "state": "Central",
-        "sector": "Medical",
-        "category": "Life & Disability Insurance",
-        "description": "Social security scheme providing life insurance protection and disability coverage to rural landless households.",
-        "eligibility_criteria": [
-            "Aged between 18 and 59 years",
-            "Head of the family or earning member",
-            "Rural landless household"
-        ],
-        "required_documents": [
-            "Ration Card",
-            "Birth Certificate / Aadhaar",
-            "Income Certificate"
-        ],
-        "application_steps": [
-            "Contact Nodal Agency (Panchayat/NGO)",
-            "Submit required documents",
-            "Premium shared by State/Central Govt"
-        ],
-        "apply_url": "https://licindia.in/",
-        "is_verified": true,
-        "support_number": "1800-180-5145",
-        "benefits": [
-            "Free medical treatment and consultation.",
-            "Financial assistance for medical emergencies."
-        ]
-    },
-    {
-        "scheme_name": "National Means-cum-Merit Scholarship (NMMS)",
-        "state": "Central",
-        "sector": "Education",
-        "category": "Scholarship",
-        "description": "Awards scholarships to meritorious students of economically weaker sections to arrest their drop out at class VIII and encourage them to continue study at secondary stage.",
-        "eligibility_criteria": [
-            "Students studying in Class VIII",
-            "Parental income below \u20b93.5 Lakhs",
-            "Minimum 55% marks in Class VII"
-        ],
-        "required_documents": [
-            "Aadhaar",
-            "Income Certificate",
-            "Mark Sheet",
-            "Bank Passbook"
-        ],
-        "application_steps": [
-            "Register on National Scholarship Portal (NSP)",
-            "Submit online application",
-            "Clear the NMMS selection test"
-        ],
-        "apply_url": "https://scholarships.gov.in/",
-        "is_verified": true,
-        "support_number": "1800-111-366",
-        "benefits": [
-            "Financial assistance for tuition fees.",
-            "Scholarship amount transferred directly to bank account via DBT."
-        ]
-    },
-    {
-        "scheme_name": "PM YASASVI Scholarship Scheme",
-        "state": "Central",
-        "sector": "Education",
-        "category": "Scholarship",
-        "description": "Pre-Matric and Post-Matric Scholarships for OBC, EBC, and DNT students studying in Top Class Schools and Colleges.",
-        "eligibility_criteria": [
-            "OBC, EBC, or DNT category",
-            "Parental income below \u20b92.5 Lakhs",
-            "Studying in Class 9 or 11"
-        ],
-        "required_documents": [
-            "Caste Certificate",
-            "Income Certificate",
-            "Aadhaar",
-            "School ID"
-        ],
-        "application_steps": [
-            "Apply via National Testing Agency (NTA)",
-            "Appear for YASASVI Entrance Test",
-            "Qualify and register on NSP"
-        ],
-        "apply_url": "https://yet.nta.ac.in/",
-        "is_verified": true,
-        "support_number": "1800-111-366",
-        "benefits": [
-            "Financial assistance for tuition fees.",
-            "Scholarship amount transferred directly to bank account via DBT."
-        ]
-    },
-    {
-        "scheme_name": "Pragati Scholarship for Girls",
-        "state": "Central",
-        "sector": "Education",
-        "category": "Higher Education",
-        "description": "Provides financial assistance to girl students for pursuing Technical Education (Degree or Diploma).",
-        "eligibility_criteria": [
-            "Girl student taking admission in 1st year of Degree/Diploma",
-            "Max two girls per family",
-            "Family income less than \u20b98 Lakhs/year"
-        ],
-        "required_documents": [
-            "Aadhaar",
-            "Admission Letter",
-            "Income Certificate",
-            "Class 10/12 Marksheet"
-        ],
-        "application_steps": [
-            "Register on AICTE Portal / NSP",
-            "Fill online application form",
-            "Institute verifies the details"
-        ],
-        "apply_url": "https://scholarships.gov.in/",
-        "is_verified": true,
-        "support_number": "1800-111-366",
-        "benefits": [
-            "Financial assistance for tuition fees.",
-            "Scholarship amount transferred directly to bank account via DBT."
-        ]
-    },
-    {
-        "scheme_name": "Right to Education (RTE) 25% Quota",
-        "state": "Central",
-        "sector": "Education",
-        "category": "School Admission",
-        "description": "Mandates 25% reservation for children from economically weaker sections and disadvantaged groups in private unaided schools for free and compulsory education.",
-        "eligibility_criteria": [
-            "EWS or BPL category",
-            "Age between 6 to 14 years",
-            "Resident of the state/district"
-        ],
-        "required_documents": [
-            "Birth Certificate",
-            "Income/BPL Certificate",
-            "Address Proof",
-            "Caste Certificate (if applicable)"
-        ],
-        "application_steps": [
-            "Visit state RTE portal",
-            "Register student details",
-            "Select nearby private schools",
-            "Wait for lottery results"
-        ],
-        "apply_url": "https://rte.updc.gov.in/",
-        "is_verified": true,
-        "support_number": "1800-111-366",
-        "benefits": [
-            "Financial assistance for tuition fees.",
-            "Scholarship amount transferred directly to bank account via DBT."
-        ]
-    },
-    {
-        "scheme_name": "Post-Matric Scholarship for SC/ST/OBC Students",
-        "state": "Uttar Pradesh",
-        "sector": "Education",
-        "category": "Scholarship",
-        "description": "Provides financial assistance to SC, ST, and OBC students of Uttar Pradesh studying at post-matriculation or post-secondary stage.",
-        "eligibility_criteria": [
-            "Resident of UP",
-            "SC/ST/OBC category",
-            "Family income limits apply",
-            "Studying in Class 11, 12, Degree or Diploma"
-        ],
-        "required_documents": [
-            "Domicile Certificate",
-            "Caste Certificate",
-            "Income Certificate",
-            "Fee Receipt",
-            "Aadhaar"
-        ],
-        "application_steps": [
-            "Visit UP Scholarship portal",
-            "Register as a new student",
-            "Fill out the detailed application form",
-            "Submit hardcopy to institution"
-        ],
-        "apply_url": "https://scholarship.up.gov.in/",
-        "is_verified": true,
-        "support_number": "1800-111-366",
-        "benefits": [
-            "Financial assistance for tuition fees.",
-            "Scholarship amount transferred directly to bank account via DBT."
         ]
     }
 ]
