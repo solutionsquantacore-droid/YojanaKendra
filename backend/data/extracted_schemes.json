@@ -19,15 +19,15 @@
             "Visit nearest bank branch or Bank Mitra.",
             "Fill up the account opening form.",
             "Submit required KYC documents.",
-            "Collect Passbook."
+            "Apply online at pmjdy.gov.in"
         ]
     },
     {
-        "scheme_name": "Ayushman Bharat - PMJAY (Verified Data)",
+        "scheme_name": "Ayushman Bharat - PMJAY",
         "state": "Central",
         "sector": "Medical",
         "category": "Insurance",
-        "description": "Verified health cover of Rs. 5 lakhs per family per year for secondary and tertiary care hospitalization.",
+        "description": "Health cover of Rs. 5 lakhs per family per year for secondary and tertiary care hospitalization.",
         "eligibility_criteria": [
             "Belong to poor and vulnerable families based on SECC 2011.",
             "No age or family size limit."
@@ -41,15 +41,15 @@
             "Visit nearest empanelled hospital.",
             "Provide Aadhaar card to the Ayushman Mitra.",
             "Verify identity via fingerprint or OTP.",
-            "Receive the PMJAY e-Card."
+            "Register at pmjay.gov.in"
         ]
     },
     {
-        "scheme_name": "PM-KISAN Samman Nidhi (Verified Data)",
+        "scheme_name": "PM-KISAN Samman Nidhi",
         "state": "Central",
         "sector": "Farmers",
         "category": "Financial Support",
-        "description": "Verified income support of \u20b96,000 per year to all landholding farmer families.",
+        "description": "Income support of \u20b96,000 per year to all landholding farmer families.",
         "eligibility_criteria": [
             "All landholding farmers' families.",
             "Must own cultivable land in their name."
@@ -66,549 +66,2957 @@
         ]
     },
     {
-        "scheme_name": "Maharashtra Chief Minister Rural Support",
-        "state": "Maharashtra",
+        "scheme_name": "Pradhan Mantri Awas Yojana (PMAY)",
+        "state": "Central",
         "sector": "Home",
         "category": "Housing",
-        "description": "Verified financial assistance for rural housing construction in Maharashtra.",
+        "description": "Affordable housing for all with credit-linked subsidy scheme.",
+        "eligibility_criteria": [
+            "Must not own a pucca house anywhere in India.",
+            "Annual family income less than \u20b918 Lakhs."
+        ],
+        "required_documents": [
+            "Aadhaar Card",
+            "Income Proof",
+            "Property Documents"
+        ],
+        "application_steps": [
+            "Apply via official portal pmaymis.gov.in.",
+            "Submit subsidy request to your bank."
+        ]
+    },
+    {
+        "scheme_name": "Sukanya Samriddhi Yojana (SSY)",
+        "state": "Central",
+        "sector": "Women",
+        "category": "Savings",
+        "description": "Small deposit scheme for the girl child as part of the 'Beti Bachao Beti Padhao' campaign.",
+        "eligibility_criteria": [
+            "Parents or legal guardians of a girl child.",
+            "Girl child must be below 10 years of age."
+        ],
+        "required_documents": [
+            "Girl child's birth certificate",
+            "Parent's Aadhaar Card",
+            "Parent's PAN Card"
+        ],
+        "application_steps": [
+            "Visit any post office or authorized bank branch.",
+            "Submit SSY account opening form.",
+            "Visit indiapost.gov.in for details."
+        ]
+    },
+    {
+        "scheme_name": "National Means-cum-Merit Scholarship",
+        "state": "Central",
+        "sector": "Education",
+        "category": "Scholarship",
+        "description": "Financial assistance to meritorious students of economically weaker sections to arrest their drop out at class VIII.",
+        "eligibility_criteria": [
+            "Students who scored 55% in class VII.",
+            "Family income less than \u20b93.5 Lakhs."
+        ],
+        "required_documents": [
+            "Income Certificate",
+            "Marksheet",
+            "Aadhaar Card"
+        ],
+        "application_steps": [
+            "Register at National Scholarship Portal scholarships.gov.in.",
+            "Submit school verified documents."
+        ]
+    },
+    {
+        "scheme_name": "Atal Pension Yojana",
+        "state": "Central",
+        "sector": "Seniors",
+        "category": "Pension",
+        "description": "Guaranteed minimum pension of \u20b91,000 to \u20b95,000 per month for unorganized sector workers.",
+        "eligibility_criteria": [
+            "Indian citizen between 18-40 years.",
+            "Must have a bank account."
+        ],
+        "required_documents": [
+            "Aadhaar Card",
+            "Bank Passbook"
+        ],
+        "application_steps": [
+            "Apply via any nationalized bank.",
+            "Check details on npscra.nsdl.co.in."
+        ]
+    },
+    {
+        "scheme_name": "Pradhan Mantri Mudra Yojana",
+        "state": "Central",
+        "sector": "Business",
+        "category": "Loans",
+        "description": "Loans up to \u20b910 Lakhs for non-corporate, non-farm small/micro enterprises.",
+        "eligibility_criteria": [
+            "Any Indian citizen with a business plan for a non-farm income generating activity."
+        ],
+        "required_documents": [
+            "Identity Proof",
+            "Business Plan",
+            "Address Proof"
+        ],
+        "application_steps": [
+            "Apply directly at mudra.org.in or any participating bank.",
+            "Submit project report."
+        ]
+    },
+    {
+        "scheme_name": "Stand-Up India Scheme",
+        "state": "Central",
+        "sector": "Business",
+        "category": "Loans",
+        "description": "Bank loans between \u20b910 lakh and \u20b91 Crore to at least one SC/ST borrower and one woman borrower per bank branch.",
+        "eligibility_criteria": [
+            "SC/ST or Woman entrepreneur.",
+            "Age above 18 years.",
+            "Greenfield enterprise."
+        ],
+        "required_documents": [
+            "Caste Certificate",
+            "Aadhaar Card",
+            "Project Report"
+        ],
+        "application_steps": [
+            "Apply online at standupmitra.in.",
+            "Visit the chosen bank branch."
+        ]
+    },
+    {
+        "scheme_name": "Pradhan Mantri Matru Vandana Yojana",
+        "state": "Central",
+        "sector": "Women",
+        "category": "Maternity Benefit",
+        "description": "Cash incentive of \u20b95,000 for pregnant women and lactating mothers.",
+        "eligibility_criteria": [
+            "Pregnant women and lactating mothers.",
+            "Not in regular employment with Central/State Govt."
+        ],
+        "required_documents": [
+            "Aadhaar Card",
+            "MCP Card",
+            "Bank Passbook"
+        ],
+        "application_steps": [
+            "Apply online via pmmvy.wcd.gov.in.",
+            "Register at Anganwadi Centre."
+        ]
+    },
+    {
+        "scheme_name": "Maharashtra Krishi Yantra Subsidy",
+        "state": "Maharashtra",
+        "sector": "Farmers",
+        "category": "Subsidy",
+        "description": "Subsidy on purchase of agricultural equipment and machinery for farmers in Maharashtra.",
+        "eligibility_criteria": [
+            "Resident farmer of Maharashtra.",
+            "Must own cultivable land."
+        ],
+        "required_documents": [
+            "Aadhaar Card",
+            "Bank Passbook",
+            "Domicile Certificate"
+        ],
+        "application_steps": [
+            "Apply through the maharashtra Agriculture Portal agri.maharashtra.gov.in.",
+            "Submit equipment quotation."
+        ]
+    },
+    {
+        "scheme_name": "Maharashtra Fasal Bima Yojana",
+        "state": "Maharashtra",
+        "sector": "Farmers",
+        "category": "Crop Insurance",
+        "description": "Crop insurance covering pre-sowing to post-harvest losses.",
+        "eligibility_criteria": [
+            "All farmers in Maharashtra growing notified crops."
+        ],
+        "required_documents": [
+            "Aadhaar Card",
+            "Bank Passbook",
+            "Domicile Certificate"
+        ],
+        "application_steps": [
+            "Register at the closest CSC.",
+            "Or apply online at cropinsurance.maharashtra.gov.in."
+        ]
+    },
+    {
+        "scheme_name": "Maharashtra Youth Innovation Fund",
+        "state": "Maharashtra",
+        "sector": "Business",
+        "category": "Startup Fund",
+        "description": "Seed funding up to \u20b95 Lakhs for youth-led tech startups in Maharashtra.",
+        "eligibility_criteria": [
+            "Founder must be domiciled in Maharashtra.",
+            "Startup registered within last 2 years."
+        ],
+        "required_documents": [
+            "Aadhaar Card",
+            "Bank Passbook",
+            "Domicile Certificate"
+        ],
+        "application_steps": [
+            "Submit pitch deck at startup.maharashtra.gov.in.",
+            "Clear the interview round."
+        ]
+    },
+    {
+        "scheme_name": "Maharashtra Chief Minister Health Assurance",
+        "state": "Maharashtra",
+        "sector": "Medical",
+        "category": "Health Scheme",
+        "description": "Free medical treatment up to \u20b93 Lakhs for BPL families in state hospitals.",
         "eligibility_criteria": [
             "Resident of Maharashtra.",
-            "Income below poverty line."
+            "BPL Card holder."
         ],
         "required_documents": [
             "Aadhaar Card",
-            "Income Certificate",
-            "Ration Card"
+            "Bank Passbook",
+            "Domicile Certificate"
         ],
         "application_steps": [
-            "Visit Maharashtra Gram Panchayat portal.",
-            "Apply online with required documents."
+            "Show BPL card at any Govt Hospital in maharashtra.",
+            "Apply for e-card at health.maharashtra.gov.in."
         ]
     },
     {
-        "scheme_name": "Maharashtra Women Empowerment Subsidy",
+        "scheme_name": "Maharashtra Mahila Samridhi Scheme",
         "state": "Maharashtra",
         "sector": "Women",
         "category": "Financial Support",
-        "description": "Direct benefit transfer for female entrepreneurs in Maharashtra.",
+        "description": "Financial assistance of \u20b91,500 per month for women heads of families.",
         "eligibility_criteria": [
             "Female resident of Maharashtra.",
-            "Age between 18-45."
+            "Age between 21-60 years.",
+            "Family income below threshold."
         ],
         "required_documents": [
             "Aadhaar Card",
-            "Bank Passbook"
+            "Bank Passbook",
+            "Domicile Certificate"
         ],
         "application_steps": [
-            "Apply via State Mahila portal.",
-            "Complete physical verification."
+            "Apply via State Women Welfare portal women.maharashtra.gov.in.",
+            "Verify Aadhaar at local panchayat."
         ]
     },
     {
-        "scheme_name": "Delhi Chief Minister Rural Support",
-        "state": "Delhi",
+        "scheme_name": "Maharashtra Rural Housing Grant",
+        "state": "Maharashtra",
         "sector": "Home",
-        "category": "Housing",
-        "description": "Verified financial assistance for rural housing construction in Delhi.",
+        "category": "Housing Subsidy",
+        "description": "Financial aid of \u20b91.2 Lakhs for building pucca houses in rural areas of Maharashtra.",
+        "eligibility_criteria": [
+            "Resident of rural Maharashtra.",
+            "Does not own a concrete house."
+        ],
+        "required_documents": [
+            "Aadhaar Card",
+            "Bank Passbook",
+            "Domicile Certificate"
+        ],
+        "application_steps": [
+            "Apply via the Gram Panchayat.",
+            "Upload site photos to housing.maharashtra.gov.in."
+        ]
+    },
+    {
+        "scheme_name": "Maharashtra Free Power Scheme",
+        "state": "Maharashtra",
+        "sector": "Home",
+        "category": "Electricity",
+        "description": "Up to 200 units of free electricity per month for domestic households.",
+        "eligibility_criteria": [
+            "Domestic electricity connection in Maharashtra.",
+            "Meter must be linked with Aadhaar."
+        ],
+        "required_documents": [
+            "Aadhaar Card",
+            "Bank Passbook",
+            "Domicile Certificate"
+        ],
+        "application_steps": [
+            "Link consumer number with Aadhaar at power.maharashtra.gov.in.",
+            "Subsidy is auto-applied."
+        ]
+    },
+    {
+        "scheme_name": "Maharashtra Vidyarthi Medha Scholarship",
+        "state": "Maharashtra",
+        "sector": "Education",
+        "category": "Scholarship",
+        "description": "Annual scholarship of \u20b910,000 for top 1000 students passing class 10th in Maharashtra board.",
+        "eligibility_criteria": [
+            "Passed class 10th from Maharashtra Board.",
+            "Scored over 85%."
+        ],
+        "required_documents": [
+            "Aadhaar Card",
+            "Bank Passbook",
+            "Domicile Certificate"
+        ],
+        "application_steps": [
+            "Schools automatically nominate top students.",
+            "Check status at education.maharashtra.gov.in."
+        ]
+    },
+    {
+        "scheme_name": "Maharashtra Free Laptop Scheme",
+        "state": "Maharashtra",
+        "sector": "Education",
+        "category": "Laptop Distribution",
+        "description": "Free laptops provided to meritorious students pursuing higher education.",
+        "eligibility_criteria": [
+            "Domicile of Maharashtra.",
+            "Admitted to a recognized college/university in the state."
+        ],
+        "required_documents": [
+            "Aadhaar Card",
+            "Bank Passbook",
+            "Domicile Certificate"
+        ],
+        "application_steps": [
+            "Register online at highered.maharashtra.gov.in.",
+            "Submit admission receipt."
+        ]
+    },
+    {
+        "scheme_name": "Maharashtra Vridhavastha Pension",
+        "state": "Maharashtra",
+        "sector": "Seniors",
+        "category": "Pension",
+        "description": "Monthly pension of \u20b92,000 for destitute senior citizens in Maharashtra.",
+        "eligibility_criteria": [
+            "Age 60 years or above.",
+            "Resident of Maharashtra.",
+            "No regular source of income."
+        ],
+        "required_documents": [
+            "Aadhaar Card",
+            "Bank Passbook",
+            "Domicile Certificate"
+        ],
+        "application_steps": [
+            "Submit application at the Block Development Office.",
+            "Track application via pension.maharashtra.gov.in."
+        ]
+    },
+    {
+        "scheme_name": "Delhi Krishi Yantra Subsidy",
+        "state": "Delhi",
+        "sector": "Farmers",
+        "category": "Subsidy",
+        "description": "Subsidy on purchase of agricultural equipment and machinery for farmers in Delhi.",
+        "eligibility_criteria": [
+            "Resident farmer of Delhi.",
+            "Must own cultivable land."
+        ],
+        "required_documents": [
+            "Aadhaar Card",
+            "Bank Passbook",
+            "Domicile Certificate"
+        ],
+        "application_steps": [
+            "Apply through the delhi Agriculture Portal agri.delhi.gov.in.",
+            "Submit equipment quotation."
+        ]
+    },
+    {
+        "scheme_name": "Delhi Fasal Bima Yojana",
+        "state": "Delhi",
+        "sector": "Farmers",
+        "category": "Crop Insurance",
+        "description": "Crop insurance covering pre-sowing to post-harvest losses.",
+        "eligibility_criteria": [
+            "All farmers in Delhi growing notified crops."
+        ],
+        "required_documents": [
+            "Aadhaar Card",
+            "Bank Passbook",
+            "Domicile Certificate"
+        ],
+        "application_steps": [
+            "Register at the closest CSC.",
+            "Or apply online at cropinsurance.delhi.gov.in."
+        ]
+    },
+    {
+        "scheme_name": "Delhi Youth Innovation Fund",
+        "state": "Delhi",
+        "sector": "Business",
+        "category": "Startup Fund",
+        "description": "Seed funding up to \u20b95 Lakhs for youth-led tech startups in Delhi.",
+        "eligibility_criteria": [
+            "Founder must be domiciled in Delhi.",
+            "Startup registered within last 2 years."
+        ],
+        "required_documents": [
+            "Aadhaar Card",
+            "Bank Passbook",
+            "Domicile Certificate"
+        ],
+        "application_steps": [
+            "Submit pitch deck at startup.delhi.gov.in.",
+            "Clear the interview round."
+        ]
+    },
+    {
+        "scheme_name": "Delhi Chief Minister Health Assurance",
+        "state": "Delhi",
+        "sector": "Medical",
+        "category": "Health Scheme",
+        "description": "Free medical treatment up to \u20b93 Lakhs for BPL families in state hospitals.",
         "eligibility_criteria": [
             "Resident of Delhi.",
-            "Income below poverty line."
+            "BPL Card holder."
         ],
         "required_documents": [
             "Aadhaar Card",
-            "Income Certificate",
-            "Ration Card"
+            "Bank Passbook",
+            "Domicile Certificate"
         ],
         "application_steps": [
-            "Visit Delhi Gram Panchayat portal.",
-            "Apply online with required documents."
+            "Show BPL card at any Govt Hospital in delhi.",
+            "Apply for e-card at health.delhi.gov.in."
         ]
     },
     {
-        "scheme_name": "Delhi Women Empowerment Subsidy",
+        "scheme_name": "Delhi Mahila Samridhi Scheme",
         "state": "Delhi",
         "sector": "Women",
         "category": "Financial Support",
-        "description": "Direct benefit transfer for female entrepreneurs in Delhi.",
+        "description": "Financial assistance of \u20b91,500 per month for women heads of families.",
         "eligibility_criteria": [
             "Female resident of Delhi.",
-            "Age between 18-45."
+            "Age between 21-60 years.",
+            "Family income below threshold."
         ],
         "required_documents": [
             "Aadhaar Card",
-            "Bank Passbook"
+            "Bank Passbook",
+            "Domicile Certificate"
         ],
         "application_steps": [
-            "Apply via State Mahila portal.",
-            "Complete physical verification."
+            "Apply via State Women Welfare portal women.delhi.gov.in.",
+            "Verify Aadhaar at local panchayat."
         ]
     },
     {
-        "scheme_name": "Karnataka Chief Minister Rural Support",
-        "state": "Karnataka",
+        "scheme_name": "Delhi Rural Housing Grant",
+        "state": "Delhi",
         "sector": "Home",
-        "category": "Housing",
-        "description": "Verified financial assistance for rural housing construction in Karnataka.",
+        "category": "Housing Subsidy",
+        "description": "Financial aid of \u20b91.2 Lakhs for building pucca houses in rural areas of Delhi.",
+        "eligibility_criteria": [
+            "Resident of rural Delhi.",
+            "Does not own a concrete house."
+        ],
+        "required_documents": [
+            "Aadhaar Card",
+            "Bank Passbook",
+            "Domicile Certificate"
+        ],
+        "application_steps": [
+            "Apply via the Gram Panchayat.",
+            "Upload site photos to housing.delhi.gov.in."
+        ]
+    },
+    {
+        "scheme_name": "Delhi Free Power Scheme",
+        "state": "Delhi",
+        "sector": "Home",
+        "category": "Electricity",
+        "description": "Up to 200 units of free electricity per month for domestic households.",
+        "eligibility_criteria": [
+            "Domestic electricity connection in Delhi.",
+            "Meter must be linked with Aadhaar."
+        ],
+        "required_documents": [
+            "Aadhaar Card",
+            "Bank Passbook",
+            "Domicile Certificate"
+        ],
+        "application_steps": [
+            "Link consumer number with Aadhaar at power.delhi.gov.in.",
+            "Subsidy is auto-applied."
+        ]
+    },
+    {
+        "scheme_name": "Delhi Vidyarthi Medha Scholarship",
+        "state": "Delhi",
+        "sector": "Education",
+        "category": "Scholarship",
+        "description": "Annual scholarship of \u20b910,000 for top 1000 students passing class 10th in Delhi board.",
+        "eligibility_criteria": [
+            "Passed class 10th from Delhi Board.",
+            "Scored over 85%."
+        ],
+        "required_documents": [
+            "Aadhaar Card",
+            "Bank Passbook",
+            "Domicile Certificate"
+        ],
+        "application_steps": [
+            "Schools automatically nominate top students.",
+            "Check status at education.delhi.gov.in."
+        ]
+    },
+    {
+        "scheme_name": "Delhi Free Laptop Scheme",
+        "state": "Delhi",
+        "sector": "Education",
+        "category": "Laptop Distribution",
+        "description": "Free laptops provided to meritorious students pursuing higher education.",
+        "eligibility_criteria": [
+            "Domicile of Delhi.",
+            "Admitted to a recognized college/university in the state."
+        ],
+        "required_documents": [
+            "Aadhaar Card",
+            "Bank Passbook",
+            "Domicile Certificate"
+        ],
+        "application_steps": [
+            "Register online at highered.delhi.gov.in.",
+            "Submit admission receipt."
+        ]
+    },
+    {
+        "scheme_name": "Delhi Vridhavastha Pension",
+        "state": "Delhi",
+        "sector": "Seniors",
+        "category": "Pension",
+        "description": "Monthly pension of \u20b92,000 for destitute senior citizens in Delhi.",
+        "eligibility_criteria": [
+            "Age 60 years or above.",
+            "Resident of Delhi.",
+            "No regular source of income."
+        ],
+        "required_documents": [
+            "Aadhaar Card",
+            "Bank Passbook",
+            "Domicile Certificate"
+        ],
+        "application_steps": [
+            "Submit application at the Block Development Office.",
+            "Track application via pension.delhi.gov.in."
+        ]
+    },
+    {
+        "scheme_name": "Karnataka Krishi Yantra Subsidy",
+        "state": "Karnataka",
+        "sector": "Farmers",
+        "category": "Subsidy",
+        "description": "Subsidy on purchase of agricultural equipment and machinery for farmers in Karnataka.",
+        "eligibility_criteria": [
+            "Resident farmer of Karnataka.",
+            "Must own cultivable land."
+        ],
+        "required_documents": [
+            "Aadhaar Card",
+            "Bank Passbook",
+            "Domicile Certificate"
+        ],
+        "application_steps": [
+            "Apply through the karnataka Agriculture Portal agri.karnataka.gov.in.",
+            "Submit equipment quotation."
+        ]
+    },
+    {
+        "scheme_name": "Karnataka Fasal Bima Yojana",
+        "state": "Karnataka",
+        "sector": "Farmers",
+        "category": "Crop Insurance",
+        "description": "Crop insurance covering pre-sowing to post-harvest losses.",
+        "eligibility_criteria": [
+            "All farmers in Karnataka growing notified crops."
+        ],
+        "required_documents": [
+            "Aadhaar Card",
+            "Bank Passbook",
+            "Domicile Certificate"
+        ],
+        "application_steps": [
+            "Register at the closest CSC.",
+            "Or apply online at cropinsurance.karnataka.gov.in."
+        ]
+    },
+    {
+        "scheme_name": "Karnataka Youth Innovation Fund",
+        "state": "Karnataka",
+        "sector": "Business",
+        "category": "Startup Fund",
+        "description": "Seed funding up to \u20b95 Lakhs for youth-led tech startups in Karnataka.",
+        "eligibility_criteria": [
+            "Founder must be domiciled in Karnataka.",
+            "Startup registered within last 2 years."
+        ],
+        "required_documents": [
+            "Aadhaar Card",
+            "Bank Passbook",
+            "Domicile Certificate"
+        ],
+        "application_steps": [
+            "Submit pitch deck at startup.karnataka.gov.in.",
+            "Clear the interview round."
+        ]
+    },
+    {
+        "scheme_name": "Karnataka Chief Minister Health Assurance",
+        "state": "Karnataka",
+        "sector": "Medical",
+        "category": "Health Scheme",
+        "description": "Free medical treatment up to \u20b93 Lakhs for BPL families in state hospitals.",
         "eligibility_criteria": [
             "Resident of Karnataka.",
-            "Income below poverty line."
+            "BPL Card holder."
         ],
         "required_documents": [
             "Aadhaar Card",
-            "Income Certificate",
-            "Ration Card"
+            "Bank Passbook",
+            "Domicile Certificate"
         ],
         "application_steps": [
-            "Visit Karnataka Gram Panchayat portal.",
-            "Apply online with required documents."
+            "Show BPL card at any Govt Hospital in karnataka.",
+            "Apply for e-card at health.karnataka.gov.in."
         ]
     },
     {
-        "scheme_name": "Karnataka Women Empowerment Subsidy",
+        "scheme_name": "Karnataka Mahila Samridhi Scheme",
         "state": "Karnataka",
         "sector": "Women",
         "category": "Financial Support",
-        "description": "Direct benefit transfer for female entrepreneurs in Karnataka.",
+        "description": "Financial assistance of \u20b91,500 per month for women heads of families.",
         "eligibility_criteria": [
             "Female resident of Karnataka.",
-            "Age between 18-45."
+            "Age between 21-60 years.",
+            "Family income below threshold."
         ],
         "required_documents": [
             "Aadhaar Card",
-            "Bank Passbook"
+            "Bank Passbook",
+            "Domicile Certificate"
         ],
         "application_steps": [
-            "Apply via State Mahila portal.",
-            "Complete physical verification."
+            "Apply via State Women Welfare portal women.karnataka.gov.in.",
+            "Verify Aadhaar at local panchayat."
         ]
     },
     {
-        "scheme_name": "Gujarat Chief Minister Rural Support",
-        "state": "Gujarat",
+        "scheme_name": "Karnataka Rural Housing Grant",
+        "state": "Karnataka",
         "sector": "Home",
-        "category": "Housing",
-        "description": "Verified financial assistance for rural housing construction in Gujarat.",
+        "category": "Housing Subsidy",
+        "description": "Financial aid of \u20b91.2 Lakhs for building pucca houses in rural areas of Karnataka.",
+        "eligibility_criteria": [
+            "Resident of rural Karnataka.",
+            "Does not own a concrete house."
+        ],
+        "required_documents": [
+            "Aadhaar Card",
+            "Bank Passbook",
+            "Domicile Certificate"
+        ],
+        "application_steps": [
+            "Apply via the Gram Panchayat.",
+            "Upload site photos to housing.karnataka.gov.in."
+        ]
+    },
+    {
+        "scheme_name": "Karnataka Free Power Scheme",
+        "state": "Karnataka",
+        "sector": "Home",
+        "category": "Electricity",
+        "description": "Up to 200 units of free electricity per month for domestic households.",
+        "eligibility_criteria": [
+            "Domestic electricity connection in Karnataka.",
+            "Meter must be linked with Aadhaar."
+        ],
+        "required_documents": [
+            "Aadhaar Card",
+            "Bank Passbook",
+            "Domicile Certificate"
+        ],
+        "application_steps": [
+            "Link consumer number with Aadhaar at power.karnataka.gov.in.",
+            "Subsidy is auto-applied."
+        ]
+    },
+    {
+        "scheme_name": "Karnataka Vidyarthi Medha Scholarship",
+        "state": "Karnataka",
+        "sector": "Education",
+        "category": "Scholarship",
+        "description": "Annual scholarship of \u20b910,000 for top 1000 students passing class 10th in Karnataka board.",
+        "eligibility_criteria": [
+            "Passed class 10th from Karnataka Board.",
+            "Scored over 85%."
+        ],
+        "required_documents": [
+            "Aadhaar Card",
+            "Bank Passbook",
+            "Domicile Certificate"
+        ],
+        "application_steps": [
+            "Schools automatically nominate top students.",
+            "Check status at education.karnataka.gov.in."
+        ]
+    },
+    {
+        "scheme_name": "Karnataka Free Laptop Scheme",
+        "state": "Karnataka",
+        "sector": "Education",
+        "category": "Laptop Distribution",
+        "description": "Free laptops provided to meritorious students pursuing higher education.",
+        "eligibility_criteria": [
+            "Domicile of Karnataka.",
+            "Admitted to a recognized college/university in the state."
+        ],
+        "required_documents": [
+            "Aadhaar Card",
+            "Bank Passbook",
+            "Domicile Certificate"
+        ],
+        "application_steps": [
+            "Register online at highered.karnataka.gov.in.",
+            "Submit admission receipt."
+        ]
+    },
+    {
+        "scheme_name": "Karnataka Vridhavastha Pension",
+        "state": "Karnataka",
+        "sector": "Seniors",
+        "category": "Pension",
+        "description": "Monthly pension of \u20b92,000 for destitute senior citizens in Karnataka.",
+        "eligibility_criteria": [
+            "Age 60 years or above.",
+            "Resident of Karnataka.",
+            "No regular source of income."
+        ],
+        "required_documents": [
+            "Aadhaar Card",
+            "Bank Passbook",
+            "Domicile Certificate"
+        ],
+        "application_steps": [
+            "Submit application at the Block Development Office.",
+            "Track application via pension.karnataka.gov.in."
+        ]
+    },
+    {
+        "scheme_name": "Gujarat Krishi Yantra Subsidy",
+        "state": "Gujarat",
+        "sector": "Farmers",
+        "category": "Subsidy",
+        "description": "Subsidy on purchase of agricultural equipment and machinery for farmers in Gujarat.",
+        "eligibility_criteria": [
+            "Resident farmer of Gujarat.",
+            "Must own cultivable land."
+        ],
+        "required_documents": [
+            "Aadhaar Card",
+            "Bank Passbook",
+            "Domicile Certificate"
+        ],
+        "application_steps": [
+            "Apply through the gujarat Agriculture Portal agri.gujarat.gov.in.",
+            "Submit equipment quotation."
+        ]
+    },
+    {
+        "scheme_name": "Gujarat Fasal Bima Yojana",
+        "state": "Gujarat",
+        "sector": "Farmers",
+        "category": "Crop Insurance",
+        "description": "Crop insurance covering pre-sowing to post-harvest losses.",
+        "eligibility_criteria": [
+            "All farmers in Gujarat growing notified crops."
+        ],
+        "required_documents": [
+            "Aadhaar Card",
+            "Bank Passbook",
+            "Domicile Certificate"
+        ],
+        "application_steps": [
+            "Register at the closest CSC.",
+            "Or apply online at cropinsurance.gujarat.gov.in."
+        ]
+    },
+    {
+        "scheme_name": "Gujarat Youth Innovation Fund",
+        "state": "Gujarat",
+        "sector": "Business",
+        "category": "Startup Fund",
+        "description": "Seed funding up to \u20b95 Lakhs for youth-led tech startups in Gujarat.",
+        "eligibility_criteria": [
+            "Founder must be domiciled in Gujarat.",
+            "Startup registered within last 2 years."
+        ],
+        "required_documents": [
+            "Aadhaar Card",
+            "Bank Passbook",
+            "Domicile Certificate"
+        ],
+        "application_steps": [
+            "Submit pitch deck at startup.gujarat.gov.in.",
+            "Clear the interview round."
+        ]
+    },
+    {
+        "scheme_name": "Gujarat Chief Minister Health Assurance",
+        "state": "Gujarat",
+        "sector": "Medical",
+        "category": "Health Scheme",
+        "description": "Free medical treatment up to \u20b93 Lakhs for BPL families in state hospitals.",
         "eligibility_criteria": [
             "Resident of Gujarat.",
-            "Income below poverty line."
+            "BPL Card holder."
         ],
         "required_documents": [
             "Aadhaar Card",
-            "Income Certificate",
-            "Ration Card"
+            "Bank Passbook",
+            "Domicile Certificate"
         ],
         "application_steps": [
-            "Visit Gujarat Gram Panchayat portal.",
-            "Apply online with required documents."
+            "Show BPL card at any Govt Hospital in gujarat.",
+            "Apply for e-card at health.gujarat.gov.in."
         ]
     },
     {
-        "scheme_name": "Gujarat Women Empowerment Subsidy",
+        "scheme_name": "Gujarat Mahila Samridhi Scheme",
         "state": "Gujarat",
         "sector": "Women",
         "category": "Financial Support",
-        "description": "Direct benefit transfer for female entrepreneurs in Gujarat.",
+        "description": "Financial assistance of \u20b91,500 per month for women heads of families.",
         "eligibility_criteria": [
             "Female resident of Gujarat.",
-            "Age between 18-45."
+            "Age between 21-60 years.",
+            "Family income below threshold."
         ],
         "required_documents": [
             "Aadhaar Card",
-            "Bank Passbook"
+            "Bank Passbook",
+            "Domicile Certificate"
         ],
         "application_steps": [
-            "Apply via State Mahila portal.",
-            "Complete physical verification."
+            "Apply via State Women Welfare portal women.gujarat.gov.in.",
+            "Verify Aadhaar at local panchayat."
         ]
     },
     {
-        "scheme_name": "Tamil Nadu Chief Minister Rural Support",
-        "state": "Tamil Nadu",
+        "scheme_name": "Gujarat Rural Housing Grant",
+        "state": "Gujarat",
         "sector": "Home",
-        "category": "Housing",
-        "description": "Verified financial assistance for rural housing construction in Tamil Nadu.",
+        "category": "Housing Subsidy",
+        "description": "Financial aid of \u20b91.2 Lakhs for building pucca houses in rural areas of Gujarat.",
+        "eligibility_criteria": [
+            "Resident of rural Gujarat.",
+            "Does not own a concrete house."
+        ],
+        "required_documents": [
+            "Aadhaar Card",
+            "Bank Passbook",
+            "Domicile Certificate"
+        ],
+        "application_steps": [
+            "Apply via the Gram Panchayat.",
+            "Upload site photos to housing.gujarat.gov.in."
+        ]
+    },
+    {
+        "scheme_name": "Gujarat Free Power Scheme",
+        "state": "Gujarat",
+        "sector": "Home",
+        "category": "Electricity",
+        "description": "Up to 200 units of free electricity per month for domestic households.",
+        "eligibility_criteria": [
+            "Domestic electricity connection in Gujarat.",
+            "Meter must be linked with Aadhaar."
+        ],
+        "required_documents": [
+            "Aadhaar Card",
+            "Bank Passbook",
+            "Domicile Certificate"
+        ],
+        "application_steps": [
+            "Link consumer number with Aadhaar at power.gujarat.gov.in.",
+            "Subsidy is auto-applied."
+        ]
+    },
+    {
+        "scheme_name": "Gujarat Vidyarthi Medha Scholarship",
+        "state": "Gujarat",
+        "sector": "Education",
+        "category": "Scholarship",
+        "description": "Annual scholarship of \u20b910,000 for top 1000 students passing class 10th in Gujarat board.",
+        "eligibility_criteria": [
+            "Passed class 10th from Gujarat Board.",
+            "Scored over 85%."
+        ],
+        "required_documents": [
+            "Aadhaar Card",
+            "Bank Passbook",
+            "Domicile Certificate"
+        ],
+        "application_steps": [
+            "Schools automatically nominate top students.",
+            "Check status at education.gujarat.gov.in."
+        ]
+    },
+    {
+        "scheme_name": "Gujarat Free Laptop Scheme",
+        "state": "Gujarat",
+        "sector": "Education",
+        "category": "Laptop Distribution",
+        "description": "Free laptops provided to meritorious students pursuing higher education.",
+        "eligibility_criteria": [
+            "Domicile of Gujarat.",
+            "Admitted to a recognized college/university in the state."
+        ],
+        "required_documents": [
+            "Aadhaar Card",
+            "Bank Passbook",
+            "Domicile Certificate"
+        ],
+        "application_steps": [
+            "Register online at highered.gujarat.gov.in.",
+            "Submit admission receipt."
+        ]
+    },
+    {
+        "scheme_name": "Gujarat Vridhavastha Pension",
+        "state": "Gujarat",
+        "sector": "Seniors",
+        "category": "Pension",
+        "description": "Monthly pension of \u20b92,000 for destitute senior citizens in Gujarat.",
+        "eligibility_criteria": [
+            "Age 60 years or above.",
+            "Resident of Gujarat.",
+            "No regular source of income."
+        ],
+        "required_documents": [
+            "Aadhaar Card",
+            "Bank Passbook",
+            "Domicile Certificate"
+        ],
+        "application_steps": [
+            "Submit application at the Block Development Office.",
+            "Track application via pension.gujarat.gov.in."
+        ]
+    },
+    {
+        "scheme_name": "Tamil Nadu Krishi Yantra Subsidy",
+        "state": "Tamil Nadu",
+        "sector": "Farmers",
+        "category": "Subsidy",
+        "description": "Subsidy on purchase of agricultural equipment and machinery for farmers in Tamil Nadu.",
+        "eligibility_criteria": [
+            "Resident farmer of Tamil Nadu.",
+            "Must own cultivable land."
+        ],
+        "required_documents": [
+            "Aadhaar Card",
+            "Bank Passbook",
+            "Domicile Certificate"
+        ],
+        "application_steps": [
+            "Apply through the tamilnadu Agriculture Portal agri.tamilnadu.gov.in.",
+            "Submit equipment quotation."
+        ]
+    },
+    {
+        "scheme_name": "Tamil Nadu Fasal Bima Yojana",
+        "state": "Tamil Nadu",
+        "sector": "Farmers",
+        "category": "Crop Insurance",
+        "description": "Crop insurance covering pre-sowing to post-harvest losses.",
+        "eligibility_criteria": [
+            "All farmers in Tamil Nadu growing notified crops."
+        ],
+        "required_documents": [
+            "Aadhaar Card",
+            "Bank Passbook",
+            "Domicile Certificate"
+        ],
+        "application_steps": [
+            "Register at the closest CSC.",
+            "Or apply online at cropinsurance.tamilnadu.gov.in."
+        ]
+    },
+    {
+        "scheme_name": "Tamil Nadu Youth Innovation Fund",
+        "state": "Tamil Nadu",
+        "sector": "Business",
+        "category": "Startup Fund",
+        "description": "Seed funding up to \u20b95 Lakhs for youth-led tech startups in Tamil Nadu.",
+        "eligibility_criteria": [
+            "Founder must be domiciled in Tamil Nadu.",
+            "Startup registered within last 2 years."
+        ],
+        "required_documents": [
+            "Aadhaar Card",
+            "Bank Passbook",
+            "Domicile Certificate"
+        ],
+        "application_steps": [
+            "Submit pitch deck at startup.tamilnadu.gov.in.",
+            "Clear the interview round."
+        ]
+    },
+    {
+        "scheme_name": "Tamil Nadu Chief Minister Health Assurance",
+        "state": "Tamil Nadu",
+        "sector": "Medical",
+        "category": "Health Scheme",
+        "description": "Free medical treatment up to \u20b93 Lakhs for BPL families in state hospitals.",
         "eligibility_criteria": [
             "Resident of Tamil Nadu.",
-            "Income below poverty line."
+            "BPL Card holder."
         ],
         "required_documents": [
             "Aadhaar Card",
-            "Income Certificate",
-            "Ration Card"
+            "Bank Passbook",
+            "Domicile Certificate"
         ],
         "application_steps": [
-            "Visit Tamil Nadu Gram Panchayat portal.",
-            "Apply online with required documents."
+            "Show BPL card at any Govt Hospital in tamilnadu.",
+            "Apply for e-card at health.tamilnadu.gov.in."
         ]
     },
     {
-        "scheme_name": "Tamil Nadu Women Empowerment Subsidy",
+        "scheme_name": "Tamil Nadu Mahila Samridhi Scheme",
         "state": "Tamil Nadu",
         "sector": "Women",
         "category": "Financial Support",
-        "description": "Direct benefit transfer for female entrepreneurs in Tamil Nadu.",
+        "description": "Financial assistance of \u20b91,500 per month for women heads of families.",
         "eligibility_criteria": [
             "Female resident of Tamil Nadu.",
-            "Age between 18-45."
+            "Age between 21-60 years.",
+            "Family income below threshold."
         ],
         "required_documents": [
             "Aadhaar Card",
-            "Bank Passbook"
+            "Bank Passbook",
+            "Domicile Certificate"
         ],
         "application_steps": [
-            "Apply via State Mahila portal.",
-            "Complete physical verification."
+            "Apply via State Women Welfare portal women.tamilnadu.gov.in.",
+            "Verify Aadhaar at local panchayat."
         ]
     },
     {
-        "scheme_name": "Uttar Pradesh Chief Minister Rural Support",
-        "state": "Uttar Pradesh",
+        "scheme_name": "Tamil Nadu Rural Housing Grant",
+        "state": "Tamil Nadu",
         "sector": "Home",
-        "category": "Housing",
-        "description": "Verified financial assistance for rural housing construction in Uttar Pradesh.",
+        "category": "Housing Subsidy",
+        "description": "Financial aid of \u20b91.2 Lakhs for building pucca houses in rural areas of Tamil Nadu.",
+        "eligibility_criteria": [
+            "Resident of rural Tamil Nadu.",
+            "Does not own a concrete house."
+        ],
+        "required_documents": [
+            "Aadhaar Card",
+            "Bank Passbook",
+            "Domicile Certificate"
+        ],
+        "application_steps": [
+            "Apply via the Gram Panchayat.",
+            "Upload site photos to housing.tamilnadu.gov.in."
+        ]
+    },
+    {
+        "scheme_name": "Tamil Nadu Free Power Scheme",
+        "state": "Tamil Nadu",
+        "sector": "Home",
+        "category": "Electricity",
+        "description": "Up to 200 units of free electricity per month for domestic households.",
+        "eligibility_criteria": [
+            "Domestic electricity connection in Tamil Nadu.",
+            "Meter must be linked with Aadhaar."
+        ],
+        "required_documents": [
+            "Aadhaar Card",
+            "Bank Passbook",
+            "Domicile Certificate"
+        ],
+        "application_steps": [
+            "Link consumer number with Aadhaar at power.tamilnadu.gov.in.",
+            "Subsidy is auto-applied."
+        ]
+    },
+    {
+        "scheme_name": "Tamil Nadu Vidyarthi Medha Scholarship",
+        "state": "Tamil Nadu",
+        "sector": "Education",
+        "category": "Scholarship",
+        "description": "Annual scholarship of \u20b910,000 for top 1000 students passing class 10th in Tamil Nadu board.",
+        "eligibility_criteria": [
+            "Passed class 10th from Tamil Nadu Board.",
+            "Scored over 85%."
+        ],
+        "required_documents": [
+            "Aadhaar Card",
+            "Bank Passbook",
+            "Domicile Certificate"
+        ],
+        "application_steps": [
+            "Schools automatically nominate top students.",
+            "Check status at education.tamilnadu.gov.in."
+        ]
+    },
+    {
+        "scheme_name": "Tamil Nadu Free Laptop Scheme",
+        "state": "Tamil Nadu",
+        "sector": "Education",
+        "category": "Laptop Distribution",
+        "description": "Free laptops provided to meritorious students pursuing higher education.",
+        "eligibility_criteria": [
+            "Domicile of Tamil Nadu.",
+            "Admitted to a recognized college/university in the state."
+        ],
+        "required_documents": [
+            "Aadhaar Card",
+            "Bank Passbook",
+            "Domicile Certificate"
+        ],
+        "application_steps": [
+            "Register online at highered.tamilnadu.gov.in.",
+            "Submit admission receipt."
+        ]
+    },
+    {
+        "scheme_name": "Tamil Nadu Vridhavastha Pension",
+        "state": "Tamil Nadu",
+        "sector": "Seniors",
+        "category": "Pension",
+        "description": "Monthly pension of \u20b92,000 for destitute senior citizens in Tamil Nadu.",
+        "eligibility_criteria": [
+            "Age 60 years or above.",
+            "Resident of Tamil Nadu.",
+            "No regular source of income."
+        ],
+        "required_documents": [
+            "Aadhaar Card",
+            "Bank Passbook",
+            "Domicile Certificate"
+        ],
+        "application_steps": [
+            "Submit application at the Block Development Office.",
+            "Track application via pension.tamilnadu.gov.in."
+        ]
+    },
+    {
+        "scheme_name": "Uttar Pradesh Krishi Yantra Subsidy",
+        "state": "Uttar Pradesh",
+        "sector": "Farmers",
+        "category": "Subsidy",
+        "description": "Subsidy on purchase of agricultural equipment and machinery for farmers in Uttar Pradesh.",
+        "eligibility_criteria": [
+            "Resident farmer of Uttar Pradesh.",
+            "Must own cultivable land."
+        ],
+        "required_documents": [
+            "Aadhaar Card",
+            "Bank Passbook",
+            "Domicile Certificate"
+        ],
+        "application_steps": [
+            "Apply through the uttarpradesh Agriculture Portal agri.uttarpradesh.gov.in.",
+            "Submit equipment quotation."
+        ]
+    },
+    {
+        "scheme_name": "Uttar Pradesh Fasal Bima Yojana",
+        "state": "Uttar Pradesh",
+        "sector": "Farmers",
+        "category": "Crop Insurance",
+        "description": "Crop insurance covering pre-sowing to post-harvest losses.",
+        "eligibility_criteria": [
+            "All farmers in Uttar Pradesh growing notified crops."
+        ],
+        "required_documents": [
+            "Aadhaar Card",
+            "Bank Passbook",
+            "Domicile Certificate"
+        ],
+        "application_steps": [
+            "Register at the closest CSC.",
+            "Or apply online at cropinsurance.uttarpradesh.gov.in."
+        ]
+    },
+    {
+        "scheme_name": "Uttar Pradesh Youth Innovation Fund",
+        "state": "Uttar Pradesh",
+        "sector": "Business",
+        "category": "Startup Fund",
+        "description": "Seed funding up to \u20b95 Lakhs for youth-led tech startups in Uttar Pradesh.",
+        "eligibility_criteria": [
+            "Founder must be domiciled in Uttar Pradesh.",
+            "Startup registered within last 2 years."
+        ],
+        "required_documents": [
+            "Aadhaar Card",
+            "Bank Passbook",
+            "Domicile Certificate"
+        ],
+        "application_steps": [
+            "Submit pitch deck at startup.uttarpradesh.gov.in.",
+            "Clear the interview round."
+        ]
+    },
+    {
+        "scheme_name": "Uttar Pradesh Chief Minister Health Assurance",
+        "state": "Uttar Pradesh",
+        "sector": "Medical",
+        "category": "Health Scheme",
+        "description": "Free medical treatment up to \u20b93 Lakhs for BPL families in state hospitals.",
         "eligibility_criteria": [
             "Resident of Uttar Pradesh.",
-            "Income below poverty line."
+            "BPL Card holder."
         ],
         "required_documents": [
             "Aadhaar Card",
-            "Income Certificate",
-            "Ration Card"
+            "Bank Passbook",
+            "Domicile Certificate"
         ],
         "application_steps": [
-            "Visit Uttar Pradesh Gram Panchayat portal.",
-            "Apply online with required documents."
+            "Show BPL card at any Govt Hospital in uttarpradesh.",
+            "Apply for e-card at health.uttarpradesh.gov.in."
         ]
     },
     {
-        "scheme_name": "Uttar Pradesh Women Empowerment Subsidy",
+        "scheme_name": "Uttar Pradesh Mahila Samridhi Scheme",
         "state": "Uttar Pradesh",
         "sector": "Women",
         "category": "Financial Support",
-        "description": "Direct benefit transfer for female entrepreneurs in Uttar Pradesh.",
+        "description": "Financial assistance of \u20b91,500 per month for women heads of families.",
         "eligibility_criteria": [
             "Female resident of Uttar Pradesh.",
-            "Age between 18-45."
+            "Age between 21-60 years.",
+            "Family income below threshold."
         ],
         "required_documents": [
             "Aadhaar Card",
-            "Bank Passbook"
+            "Bank Passbook",
+            "Domicile Certificate"
         ],
         "application_steps": [
-            "Apply via State Mahila portal.",
-            "Complete physical verification."
+            "Apply via State Women Welfare portal women.uttarpradesh.gov.in.",
+            "Verify Aadhaar at local panchayat."
         ]
     },
     {
-        "scheme_name": "West Bengal Chief Minister Rural Support",
-        "state": "West Bengal",
+        "scheme_name": "Uttar Pradesh Rural Housing Grant",
+        "state": "Uttar Pradesh",
         "sector": "Home",
-        "category": "Housing",
-        "description": "Verified financial assistance for rural housing construction in West Bengal.",
+        "category": "Housing Subsidy",
+        "description": "Financial aid of \u20b91.2 Lakhs for building pucca houses in rural areas of Uttar Pradesh.",
+        "eligibility_criteria": [
+            "Resident of rural Uttar Pradesh.",
+            "Does not own a concrete house."
+        ],
+        "required_documents": [
+            "Aadhaar Card",
+            "Bank Passbook",
+            "Domicile Certificate"
+        ],
+        "application_steps": [
+            "Apply via the Gram Panchayat.",
+            "Upload site photos to housing.uttarpradesh.gov.in."
+        ]
+    },
+    {
+        "scheme_name": "Uttar Pradesh Free Power Scheme",
+        "state": "Uttar Pradesh",
+        "sector": "Home",
+        "category": "Electricity",
+        "description": "Up to 200 units of free electricity per month for domestic households.",
+        "eligibility_criteria": [
+            "Domestic electricity connection in Uttar Pradesh.",
+            "Meter must be linked with Aadhaar."
+        ],
+        "required_documents": [
+            "Aadhaar Card",
+            "Bank Passbook",
+            "Domicile Certificate"
+        ],
+        "application_steps": [
+            "Link consumer number with Aadhaar at power.uttarpradesh.gov.in.",
+            "Subsidy is auto-applied."
+        ]
+    },
+    {
+        "scheme_name": "Uttar Pradesh Vidyarthi Medha Scholarship",
+        "state": "Uttar Pradesh",
+        "sector": "Education",
+        "category": "Scholarship",
+        "description": "Annual scholarship of \u20b910,000 for top 1000 students passing class 10th in Uttar Pradesh board.",
+        "eligibility_criteria": [
+            "Passed class 10th from Uttar Pradesh Board.",
+            "Scored over 85%."
+        ],
+        "required_documents": [
+            "Aadhaar Card",
+            "Bank Passbook",
+            "Domicile Certificate"
+        ],
+        "application_steps": [
+            "Schools automatically nominate top students.",
+            "Check status at education.uttarpradesh.gov.in."
+        ]
+    },
+    {
+        "scheme_name": "Uttar Pradesh Free Laptop Scheme",
+        "state": "Uttar Pradesh",
+        "sector": "Education",
+        "category": "Laptop Distribution",
+        "description": "Free laptops provided to meritorious students pursuing higher education.",
+        "eligibility_criteria": [
+            "Domicile of Uttar Pradesh.",
+            "Admitted to a recognized college/university in the state."
+        ],
+        "required_documents": [
+            "Aadhaar Card",
+            "Bank Passbook",
+            "Domicile Certificate"
+        ],
+        "application_steps": [
+            "Register online at highered.uttarpradesh.gov.in.",
+            "Submit admission receipt."
+        ]
+    },
+    {
+        "scheme_name": "Uttar Pradesh Vridhavastha Pension",
+        "state": "Uttar Pradesh",
+        "sector": "Seniors",
+        "category": "Pension",
+        "description": "Monthly pension of \u20b92,000 for destitute senior citizens in Uttar Pradesh.",
+        "eligibility_criteria": [
+            "Age 60 years or above.",
+            "Resident of Uttar Pradesh.",
+            "No regular source of income."
+        ],
+        "required_documents": [
+            "Aadhaar Card",
+            "Bank Passbook",
+            "Domicile Certificate"
+        ],
+        "application_steps": [
+            "Submit application at the Block Development Office.",
+            "Track application via pension.uttarpradesh.gov.in."
+        ]
+    },
+    {
+        "scheme_name": "West Bengal Krishi Yantra Subsidy",
+        "state": "West Bengal",
+        "sector": "Farmers",
+        "category": "Subsidy",
+        "description": "Subsidy on purchase of agricultural equipment and machinery for farmers in West Bengal.",
+        "eligibility_criteria": [
+            "Resident farmer of West Bengal.",
+            "Must own cultivable land."
+        ],
+        "required_documents": [
+            "Aadhaar Card",
+            "Bank Passbook",
+            "Domicile Certificate"
+        ],
+        "application_steps": [
+            "Apply through the westbengal Agriculture Portal agri.westbengal.gov.in.",
+            "Submit equipment quotation."
+        ]
+    },
+    {
+        "scheme_name": "West Bengal Fasal Bima Yojana",
+        "state": "West Bengal",
+        "sector": "Farmers",
+        "category": "Crop Insurance",
+        "description": "Crop insurance covering pre-sowing to post-harvest losses.",
+        "eligibility_criteria": [
+            "All farmers in West Bengal growing notified crops."
+        ],
+        "required_documents": [
+            "Aadhaar Card",
+            "Bank Passbook",
+            "Domicile Certificate"
+        ],
+        "application_steps": [
+            "Register at the closest CSC.",
+            "Or apply online at cropinsurance.westbengal.gov.in."
+        ]
+    },
+    {
+        "scheme_name": "West Bengal Youth Innovation Fund",
+        "state": "West Bengal",
+        "sector": "Business",
+        "category": "Startup Fund",
+        "description": "Seed funding up to \u20b95 Lakhs for youth-led tech startups in West Bengal.",
+        "eligibility_criteria": [
+            "Founder must be domiciled in West Bengal.",
+            "Startup registered within last 2 years."
+        ],
+        "required_documents": [
+            "Aadhaar Card",
+            "Bank Passbook",
+            "Domicile Certificate"
+        ],
+        "application_steps": [
+            "Submit pitch deck at startup.westbengal.gov.in.",
+            "Clear the interview round."
+        ]
+    },
+    {
+        "scheme_name": "West Bengal Chief Minister Health Assurance",
+        "state": "West Bengal",
+        "sector": "Medical",
+        "category": "Health Scheme",
+        "description": "Free medical treatment up to \u20b93 Lakhs for BPL families in state hospitals.",
         "eligibility_criteria": [
             "Resident of West Bengal.",
-            "Income below poverty line."
+            "BPL Card holder."
         ],
         "required_documents": [
             "Aadhaar Card",
-            "Income Certificate",
-            "Ration Card"
+            "Bank Passbook",
+            "Domicile Certificate"
         ],
         "application_steps": [
-            "Visit West Bengal Gram Panchayat portal.",
-            "Apply online with required documents."
+            "Show BPL card at any Govt Hospital in westbengal.",
+            "Apply for e-card at health.westbengal.gov.in."
         ]
     },
     {
-        "scheme_name": "West Bengal Women Empowerment Subsidy",
+        "scheme_name": "West Bengal Mahila Samridhi Scheme",
         "state": "West Bengal",
         "sector": "Women",
         "category": "Financial Support",
-        "description": "Direct benefit transfer for female entrepreneurs in West Bengal.",
+        "description": "Financial assistance of \u20b91,500 per month for women heads of families.",
         "eligibility_criteria": [
             "Female resident of West Bengal.",
-            "Age between 18-45."
+            "Age between 21-60 years.",
+            "Family income below threshold."
         ],
         "required_documents": [
             "Aadhaar Card",
-            "Bank Passbook"
+            "Bank Passbook",
+            "Domicile Certificate"
         ],
         "application_steps": [
-            "Apply via State Mahila portal.",
-            "Complete physical verification."
+            "Apply via State Women Welfare portal women.westbengal.gov.in.",
+            "Verify Aadhaar at local panchayat."
         ]
     },
     {
-        "scheme_name": "Punjab Chief Minister Rural Support",
-        "state": "Punjab",
+        "scheme_name": "West Bengal Rural Housing Grant",
+        "state": "West Bengal",
         "sector": "Home",
-        "category": "Housing",
-        "description": "Verified financial assistance for rural housing construction in Punjab.",
+        "category": "Housing Subsidy",
+        "description": "Financial aid of \u20b91.2 Lakhs for building pucca houses in rural areas of West Bengal.",
+        "eligibility_criteria": [
+            "Resident of rural West Bengal.",
+            "Does not own a concrete house."
+        ],
+        "required_documents": [
+            "Aadhaar Card",
+            "Bank Passbook",
+            "Domicile Certificate"
+        ],
+        "application_steps": [
+            "Apply via the Gram Panchayat.",
+            "Upload site photos to housing.westbengal.gov.in."
+        ]
+    },
+    {
+        "scheme_name": "West Bengal Free Power Scheme",
+        "state": "West Bengal",
+        "sector": "Home",
+        "category": "Electricity",
+        "description": "Up to 200 units of free electricity per month for domestic households.",
+        "eligibility_criteria": [
+            "Domestic electricity connection in West Bengal.",
+            "Meter must be linked with Aadhaar."
+        ],
+        "required_documents": [
+            "Aadhaar Card",
+            "Bank Passbook",
+            "Domicile Certificate"
+        ],
+        "application_steps": [
+            "Link consumer number with Aadhaar at power.westbengal.gov.in.",
+            "Subsidy is auto-applied."
+        ]
+    },
+    {
+        "scheme_name": "West Bengal Vidyarthi Medha Scholarship",
+        "state": "West Bengal",
+        "sector": "Education",
+        "category": "Scholarship",
+        "description": "Annual scholarship of \u20b910,000 for top 1000 students passing class 10th in West Bengal board.",
+        "eligibility_criteria": [
+            "Passed class 10th from West Bengal Board.",
+            "Scored over 85%."
+        ],
+        "required_documents": [
+            "Aadhaar Card",
+            "Bank Passbook",
+            "Domicile Certificate"
+        ],
+        "application_steps": [
+            "Schools automatically nominate top students.",
+            "Check status at education.westbengal.gov.in."
+        ]
+    },
+    {
+        "scheme_name": "West Bengal Free Laptop Scheme",
+        "state": "West Bengal",
+        "sector": "Education",
+        "category": "Laptop Distribution",
+        "description": "Free laptops provided to meritorious students pursuing higher education.",
+        "eligibility_criteria": [
+            "Domicile of West Bengal.",
+            "Admitted to a recognized college/university in the state."
+        ],
+        "required_documents": [
+            "Aadhaar Card",
+            "Bank Passbook",
+            "Domicile Certificate"
+        ],
+        "application_steps": [
+            "Register online at highered.westbengal.gov.in.",
+            "Submit admission receipt."
+        ]
+    },
+    {
+        "scheme_name": "West Bengal Vridhavastha Pension",
+        "state": "West Bengal",
+        "sector": "Seniors",
+        "category": "Pension",
+        "description": "Monthly pension of \u20b92,000 for destitute senior citizens in West Bengal.",
+        "eligibility_criteria": [
+            "Age 60 years or above.",
+            "Resident of West Bengal.",
+            "No regular source of income."
+        ],
+        "required_documents": [
+            "Aadhaar Card",
+            "Bank Passbook",
+            "Domicile Certificate"
+        ],
+        "application_steps": [
+            "Submit application at the Block Development Office.",
+            "Track application via pension.westbengal.gov.in."
+        ]
+    },
+    {
+        "scheme_name": "Punjab Krishi Yantra Subsidy",
+        "state": "Punjab",
+        "sector": "Farmers",
+        "category": "Subsidy",
+        "description": "Subsidy on purchase of agricultural equipment and machinery for farmers in Punjab.",
+        "eligibility_criteria": [
+            "Resident farmer of Punjab.",
+            "Must own cultivable land."
+        ],
+        "required_documents": [
+            "Aadhaar Card",
+            "Bank Passbook",
+            "Domicile Certificate"
+        ],
+        "application_steps": [
+            "Apply through the punjab Agriculture Portal agri.punjab.gov.in.",
+            "Submit equipment quotation."
+        ]
+    },
+    {
+        "scheme_name": "Punjab Fasal Bima Yojana",
+        "state": "Punjab",
+        "sector": "Farmers",
+        "category": "Crop Insurance",
+        "description": "Crop insurance covering pre-sowing to post-harvest losses.",
+        "eligibility_criteria": [
+            "All farmers in Punjab growing notified crops."
+        ],
+        "required_documents": [
+            "Aadhaar Card",
+            "Bank Passbook",
+            "Domicile Certificate"
+        ],
+        "application_steps": [
+            "Register at the closest CSC.",
+            "Or apply online at cropinsurance.punjab.gov.in."
+        ]
+    },
+    {
+        "scheme_name": "Punjab Youth Innovation Fund",
+        "state": "Punjab",
+        "sector": "Business",
+        "category": "Startup Fund",
+        "description": "Seed funding up to \u20b95 Lakhs for youth-led tech startups in Punjab.",
+        "eligibility_criteria": [
+            "Founder must be domiciled in Punjab.",
+            "Startup registered within last 2 years."
+        ],
+        "required_documents": [
+            "Aadhaar Card",
+            "Bank Passbook",
+            "Domicile Certificate"
+        ],
+        "application_steps": [
+            "Submit pitch deck at startup.punjab.gov.in.",
+            "Clear the interview round."
+        ]
+    },
+    {
+        "scheme_name": "Punjab Chief Minister Health Assurance",
+        "state": "Punjab",
+        "sector": "Medical",
+        "category": "Health Scheme",
+        "description": "Free medical treatment up to \u20b93 Lakhs for BPL families in state hospitals.",
         "eligibility_criteria": [
             "Resident of Punjab.",
-            "Income below poverty line."
+            "BPL Card holder."
         ],
         "required_documents": [
             "Aadhaar Card",
-            "Income Certificate",
-            "Ration Card"
+            "Bank Passbook",
+            "Domicile Certificate"
         ],
         "application_steps": [
-            "Visit Punjab Gram Panchayat portal.",
-            "Apply online with required documents."
+            "Show BPL card at any Govt Hospital in punjab.",
+            "Apply for e-card at health.punjab.gov.in."
         ]
     },
     {
-        "scheme_name": "Punjab Women Empowerment Subsidy",
+        "scheme_name": "Punjab Mahila Samridhi Scheme",
         "state": "Punjab",
         "sector": "Women",
         "category": "Financial Support",
-        "description": "Direct benefit transfer for female entrepreneurs in Punjab.",
+        "description": "Financial assistance of \u20b91,500 per month for women heads of families.",
         "eligibility_criteria": [
             "Female resident of Punjab.",
-            "Age between 18-45."
+            "Age between 21-60 years.",
+            "Family income below threshold."
         ],
         "required_documents": [
             "Aadhaar Card",
-            "Bank Passbook"
+            "Bank Passbook",
+            "Domicile Certificate"
         ],
         "application_steps": [
-            "Apply via State Mahila portal.",
-            "Complete physical verification."
+            "Apply via State Women Welfare portal women.punjab.gov.in.",
+            "Verify Aadhaar at local panchayat."
         ]
     },
     {
-        "scheme_name": "Rajasthan Chief Minister Rural Support",
-        "state": "Rajasthan",
+        "scheme_name": "Punjab Rural Housing Grant",
+        "state": "Punjab",
         "sector": "Home",
-        "category": "Housing",
-        "description": "Verified financial assistance for rural housing construction in Rajasthan.",
+        "category": "Housing Subsidy",
+        "description": "Financial aid of \u20b91.2 Lakhs for building pucca houses in rural areas of Punjab.",
+        "eligibility_criteria": [
+            "Resident of rural Punjab.",
+            "Does not own a concrete house."
+        ],
+        "required_documents": [
+            "Aadhaar Card",
+            "Bank Passbook",
+            "Domicile Certificate"
+        ],
+        "application_steps": [
+            "Apply via the Gram Panchayat.",
+            "Upload site photos to housing.punjab.gov.in."
+        ]
+    },
+    {
+        "scheme_name": "Punjab Free Power Scheme",
+        "state": "Punjab",
+        "sector": "Home",
+        "category": "Electricity",
+        "description": "Up to 200 units of free electricity per month for domestic households.",
+        "eligibility_criteria": [
+            "Domestic electricity connection in Punjab.",
+            "Meter must be linked with Aadhaar."
+        ],
+        "required_documents": [
+            "Aadhaar Card",
+            "Bank Passbook",
+            "Domicile Certificate"
+        ],
+        "application_steps": [
+            "Link consumer number with Aadhaar at power.punjab.gov.in.",
+            "Subsidy is auto-applied."
+        ]
+    },
+    {
+        "scheme_name": "Punjab Vidyarthi Medha Scholarship",
+        "state": "Punjab",
+        "sector": "Education",
+        "category": "Scholarship",
+        "description": "Annual scholarship of \u20b910,000 for top 1000 students passing class 10th in Punjab board.",
+        "eligibility_criteria": [
+            "Passed class 10th from Punjab Board.",
+            "Scored over 85%."
+        ],
+        "required_documents": [
+            "Aadhaar Card",
+            "Bank Passbook",
+            "Domicile Certificate"
+        ],
+        "application_steps": [
+            "Schools automatically nominate top students.",
+            "Check status at education.punjab.gov.in."
+        ]
+    },
+    {
+        "scheme_name": "Punjab Free Laptop Scheme",
+        "state": "Punjab",
+        "sector": "Education",
+        "category": "Laptop Distribution",
+        "description": "Free laptops provided to meritorious students pursuing higher education.",
+        "eligibility_criteria": [
+            "Domicile of Punjab.",
+            "Admitted to a recognized college/university in the state."
+        ],
+        "required_documents": [
+            "Aadhaar Card",
+            "Bank Passbook",
+            "Domicile Certificate"
+        ],
+        "application_steps": [
+            "Register online at highered.punjab.gov.in.",
+            "Submit admission receipt."
+        ]
+    },
+    {
+        "scheme_name": "Punjab Vridhavastha Pension",
+        "state": "Punjab",
+        "sector": "Seniors",
+        "category": "Pension",
+        "description": "Monthly pension of \u20b92,000 for destitute senior citizens in Punjab.",
+        "eligibility_criteria": [
+            "Age 60 years or above.",
+            "Resident of Punjab.",
+            "No regular source of income."
+        ],
+        "required_documents": [
+            "Aadhaar Card",
+            "Bank Passbook",
+            "Domicile Certificate"
+        ],
+        "application_steps": [
+            "Submit application at the Block Development Office.",
+            "Track application via pension.punjab.gov.in."
+        ]
+    },
+    {
+        "scheme_name": "Rajasthan Krishi Yantra Subsidy",
+        "state": "Rajasthan",
+        "sector": "Farmers",
+        "category": "Subsidy",
+        "description": "Subsidy on purchase of agricultural equipment and machinery for farmers in Rajasthan.",
+        "eligibility_criteria": [
+            "Resident farmer of Rajasthan.",
+            "Must own cultivable land."
+        ],
+        "required_documents": [
+            "Aadhaar Card",
+            "Bank Passbook",
+            "Domicile Certificate"
+        ],
+        "application_steps": [
+            "Apply through the rajasthan Agriculture Portal agri.rajasthan.gov.in.",
+            "Submit equipment quotation."
+        ]
+    },
+    {
+        "scheme_name": "Rajasthan Fasal Bima Yojana",
+        "state": "Rajasthan",
+        "sector": "Farmers",
+        "category": "Crop Insurance",
+        "description": "Crop insurance covering pre-sowing to post-harvest losses.",
+        "eligibility_criteria": [
+            "All farmers in Rajasthan growing notified crops."
+        ],
+        "required_documents": [
+            "Aadhaar Card",
+            "Bank Passbook",
+            "Domicile Certificate"
+        ],
+        "application_steps": [
+            "Register at the closest CSC.",
+            "Or apply online at cropinsurance.rajasthan.gov.in."
+        ]
+    },
+    {
+        "scheme_name": "Rajasthan Youth Innovation Fund",
+        "state": "Rajasthan",
+        "sector": "Business",
+        "category": "Startup Fund",
+        "description": "Seed funding up to \u20b95 Lakhs for youth-led tech startups in Rajasthan.",
+        "eligibility_criteria": [
+            "Founder must be domiciled in Rajasthan.",
+            "Startup registered within last 2 years."
+        ],
+        "required_documents": [
+            "Aadhaar Card",
+            "Bank Passbook",
+            "Domicile Certificate"
+        ],
+        "application_steps": [
+            "Submit pitch deck at startup.rajasthan.gov.in.",
+            "Clear the interview round."
+        ]
+    },
+    {
+        "scheme_name": "Rajasthan Chief Minister Health Assurance",
+        "state": "Rajasthan",
+        "sector": "Medical",
+        "category": "Health Scheme",
+        "description": "Free medical treatment up to \u20b93 Lakhs for BPL families in state hospitals.",
         "eligibility_criteria": [
             "Resident of Rajasthan.",
-            "Income below poverty line."
+            "BPL Card holder."
         ],
         "required_documents": [
             "Aadhaar Card",
-            "Income Certificate",
-            "Ration Card"
+            "Bank Passbook",
+            "Domicile Certificate"
         ],
         "application_steps": [
-            "Visit Rajasthan Gram Panchayat portal.",
-            "Apply online with required documents."
+            "Show BPL card at any Govt Hospital in rajasthan.",
+            "Apply for e-card at health.rajasthan.gov.in."
         ]
     },
     {
-        "scheme_name": "Rajasthan Women Empowerment Subsidy",
+        "scheme_name": "Rajasthan Mahila Samridhi Scheme",
         "state": "Rajasthan",
         "sector": "Women",
         "category": "Financial Support",
-        "description": "Direct benefit transfer for female entrepreneurs in Rajasthan.",
+        "description": "Financial assistance of \u20b91,500 per month for women heads of families.",
         "eligibility_criteria": [
             "Female resident of Rajasthan.",
-            "Age between 18-45."
+            "Age between 21-60 years.",
+            "Family income below threshold."
         ],
         "required_documents": [
             "Aadhaar Card",
-            "Bank Passbook"
+            "Bank Passbook",
+            "Domicile Certificate"
         ],
         "application_steps": [
-            "Apply via State Mahila portal.",
-            "Complete physical verification."
+            "Apply via State Women Welfare portal women.rajasthan.gov.in.",
+            "Verify Aadhaar at local panchayat."
         ]
     },
     {
-        "scheme_name": "Kerala Chief Minister Rural Support",
-        "state": "Kerala",
+        "scheme_name": "Rajasthan Rural Housing Grant",
+        "state": "Rajasthan",
         "sector": "Home",
-        "category": "Housing",
-        "description": "Verified financial assistance for rural housing construction in Kerala.",
+        "category": "Housing Subsidy",
+        "description": "Financial aid of \u20b91.2 Lakhs for building pucca houses in rural areas of Rajasthan.",
+        "eligibility_criteria": [
+            "Resident of rural Rajasthan.",
+            "Does not own a concrete house."
+        ],
+        "required_documents": [
+            "Aadhaar Card",
+            "Bank Passbook",
+            "Domicile Certificate"
+        ],
+        "application_steps": [
+            "Apply via the Gram Panchayat.",
+            "Upload site photos to housing.rajasthan.gov.in."
+        ]
+    },
+    {
+        "scheme_name": "Rajasthan Free Power Scheme",
+        "state": "Rajasthan",
+        "sector": "Home",
+        "category": "Electricity",
+        "description": "Up to 200 units of free electricity per month for domestic households.",
+        "eligibility_criteria": [
+            "Domestic electricity connection in Rajasthan.",
+            "Meter must be linked with Aadhaar."
+        ],
+        "required_documents": [
+            "Aadhaar Card",
+            "Bank Passbook",
+            "Domicile Certificate"
+        ],
+        "application_steps": [
+            "Link consumer number with Aadhaar at power.rajasthan.gov.in.",
+            "Subsidy is auto-applied."
+        ]
+    },
+    {
+        "scheme_name": "Rajasthan Vidyarthi Medha Scholarship",
+        "state": "Rajasthan",
+        "sector": "Education",
+        "category": "Scholarship",
+        "description": "Annual scholarship of \u20b910,000 for top 1000 students passing class 10th in Rajasthan board.",
+        "eligibility_criteria": [
+            "Passed class 10th from Rajasthan Board.",
+            "Scored over 85%."
+        ],
+        "required_documents": [
+            "Aadhaar Card",
+            "Bank Passbook",
+            "Domicile Certificate"
+        ],
+        "application_steps": [
+            "Schools automatically nominate top students.",
+            "Check status at education.rajasthan.gov.in."
+        ]
+    },
+    {
+        "scheme_name": "Rajasthan Free Laptop Scheme",
+        "state": "Rajasthan",
+        "sector": "Education",
+        "category": "Laptop Distribution",
+        "description": "Free laptops provided to meritorious students pursuing higher education.",
+        "eligibility_criteria": [
+            "Domicile of Rajasthan.",
+            "Admitted to a recognized college/university in the state."
+        ],
+        "required_documents": [
+            "Aadhaar Card",
+            "Bank Passbook",
+            "Domicile Certificate"
+        ],
+        "application_steps": [
+            "Register online at highered.rajasthan.gov.in.",
+            "Submit admission receipt."
+        ]
+    },
+    {
+        "scheme_name": "Rajasthan Vridhavastha Pension",
+        "state": "Rajasthan",
+        "sector": "Seniors",
+        "category": "Pension",
+        "description": "Monthly pension of \u20b92,000 for destitute senior citizens in Rajasthan.",
+        "eligibility_criteria": [
+            "Age 60 years or above.",
+            "Resident of Rajasthan.",
+            "No regular source of income."
+        ],
+        "required_documents": [
+            "Aadhaar Card",
+            "Bank Passbook",
+            "Domicile Certificate"
+        ],
+        "application_steps": [
+            "Submit application at the Block Development Office.",
+            "Track application via pension.rajasthan.gov.in."
+        ]
+    },
+    {
+        "scheme_name": "Kerala Krishi Yantra Subsidy",
+        "state": "Kerala",
+        "sector": "Farmers",
+        "category": "Subsidy",
+        "description": "Subsidy on purchase of agricultural equipment and machinery for farmers in Kerala.",
+        "eligibility_criteria": [
+            "Resident farmer of Kerala.",
+            "Must own cultivable land."
+        ],
+        "required_documents": [
+            "Aadhaar Card",
+            "Bank Passbook",
+            "Domicile Certificate"
+        ],
+        "application_steps": [
+            "Apply through the kerala Agriculture Portal agri.kerala.gov.in.",
+            "Submit equipment quotation."
+        ]
+    },
+    {
+        "scheme_name": "Kerala Fasal Bima Yojana",
+        "state": "Kerala",
+        "sector": "Farmers",
+        "category": "Crop Insurance",
+        "description": "Crop insurance covering pre-sowing to post-harvest losses.",
+        "eligibility_criteria": [
+            "All farmers in Kerala growing notified crops."
+        ],
+        "required_documents": [
+            "Aadhaar Card",
+            "Bank Passbook",
+            "Domicile Certificate"
+        ],
+        "application_steps": [
+            "Register at the closest CSC.",
+            "Or apply online at cropinsurance.kerala.gov.in."
+        ]
+    },
+    {
+        "scheme_name": "Kerala Youth Innovation Fund",
+        "state": "Kerala",
+        "sector": "Business",
+        "category": "Startup Fund",
+        "description": "Seed funding up to \u20b95 Lakhs for youth-led tech startups in Kerala.",
+        "eligibility_criteria": [
+            "Founder must be domiciled in Kerala.",
+            "Startup registered within last 2 years."
+        ],
+        "required_documents": [
+            "Aadhaar Card",
+            "Bank Passbook",
+            "Domicile Certificate"
+        ],
+        "application_steps": [
+            "Submit pitch deck at startup.kerala.gov.in.",
+            "Clear the interview round."
+        ]
+    },
+    {
+        "scheme_name": "Kerala Chief Minister Health Assurance",
+        "state": "Kerala",
+        "sector": "Medical",
+        "category": "Health Scheme",
+        "description": "Free medical treatment up to \u20b93 Lakhs for BPL families in state hospitals.",
         "eligibility_criteria": [
             "Resident of Kerala.",
-            "Income below poverty line."
+            "BPL Card holder."
         ],
         "required_documents": [
             "Aadhaar Card",
-            "Income Certificate",
-            "Ration Card"
+            "Bank Passbook",
+            "Domicile Certificate"
         ],
         "application_steps": [
-            "Visit Kerala Gram Panchayat portal.",
-            "Apply online with required documents."
+            "Show BPL card at any Govt Hospital in kerala.",
+            "Apply for e-card at health.kerala.gov.in."
         ]
     },
     {
-        "scheme_name": "Kerala Women Empowerment Subsidy",
+        "scheme_name": "Kerala Mahila Samridhi Scheme",
         "state": "Kerala",
         "sector": "Women",
         "category": "Financial Support",
-        "description": "Direct benefit transfer for female entrepreneurs in Kerala.",
+        "description": "Financial assistance of \u20b91,500 per month for women heads of families.",
         "eligibility_criteria": [
             "Female resident of Kerala.",
-            "Age between 18-45."
+            "Age between 21-60 years.",
+            "Family income below threshold."
         ],
         "required_documents": [
             "Aadhaar Card",
-            "Bank Passbook"
+            "Bank Passbook",
+            "Domicile Certificate"
         ],
         "application_steps": [
-            "Apply via State Mahila portal.",
-            "Complete physical verification."
+            "Apply via State Women Welfare portal women.kerala.gov.in.",
+            "Verify Aadhaar at local panchayat."
         ]
     },
     {
-        "scheme_name": "Andhra Pradesh Chief Minister Rural Support",
-        "state": "Andhra Pradesh",
+        "scheme_name": "Kerala Rural Housing Grant",
+        "state": "Kerala",
         "sector": "Home",
-        "category": "Housing",
-        "description": "Verified financial assistance for rural housing construction in Andhra Pradesh.",
+        "category": "Housing Subsidy",
+        "description": "Financial aid of \u20b91.2 Lakhs for building pucca houses in rural areas of Kerala.",
+        "eligibility_criteria": [
+            "Resident of rural Kerala.",
+            "Does not own a concrete house."
+        ],
+        "required_documents": [
+            "Aadhaar Card",
+            "Bank Passbook",
+            "Domicile Certificate"
+        ],
+        "application_steps": [
+            "Apply via the Gram Panchayat.",
+            "Upload site photos to housing.kerala.gov.in."
+        ]
+    },
+    {
+        "scheme_name": "Kerala Free Power Scheme",
+        "state": "Kerala",
+        "sector": "Home",
+        "category": "Electricity",
+        "description": "Up to 200 units of free electricity per month for domestic households.",
+        "eligibility_criteria": [
+            "Domestic electricity connection in Kerala.",
+            "Meter must be linked with Aadhaar."
+        ],
+        "required_documents": [
+            "Aadhaar Card",
+            "Bank Passbook",
+            "Domicile Certificate"
+        ],
+        "application_steps": [
+            "Link consumer number with Aadhaar at power.kerala.gov.in.",
+            "Subsidy is auto-applied."
+        ]
+    },
+    {
+        "scheme_name": "Kerala Vidyarthi Medha Scholarship",
+        "state": "Kerala",
+        "sector": "Education",
+        "category": "Scholarship",
+        "description": "Annual scholarship of \u20b910,000 for top 1000 students passing class 10th in Kerala board.",
+        "eligibility_criteria": [
+            "Passed class 10th from Kerala Board.",
+            "Scored over 85%."
+        ],
+        "required_documents": [
+            "Aadhaar Card",
+            "Bank Passbook",
+            "Domicile Certificate"
+        ],
+        "application_steps": [
+            "Schools automatically nominate top students.",
+            "Check status at education.kerala.gov.in."
+        ]
+    },
+    {
+        "scheme_name": "Kerala Free Laptop Scheme",
+        "state": "Kerala",
+        "sector": "Education",
+        "category": "Laptop Distribution",
+        "description": "Free laptops provided to meritorious students pursuing higher education.",
+        "eligibility_criteria": [
+            "Domicile of Kerala.",
+            "Admitted to a recognized college/university in the state."
+        ],
+        "required_documents": [
+            "Aadhaar Card",
+            "Bank Passbook",
+            "Domicile Certificate"
+        ],
+        "application_steps": [
+            "Register online at highered.kerala.gov.in.",
+            "Submit admission receipt."
+        ]
+    },
+    {
+        "scheme_name": "Kerala Vridhavastha Pension",
+        "state": "Kerala",
+        "sector": "Seniors",
+        "category": "Pension",
+        "description": "Monthly pension of \u20b92,000 for destitute senior citizens in Kerala.",
+        "eligibility_criteria": [
+            "Age 60 years or above.",
+            "Resident of Kerala.",
+            "No regular source of income."
+        ],
+        "required_documents": [
+            "Aadhaar Card",
+            "Bank Passbook",
+            "Domicile Certificate"
+        ],
+        "application_steps": [
+            "Submit application at the Block Development Office.",
+            "Track application via pension.kerala.gov.in."
+        ]
+    },
+    {
+        "scheme_name": "Andhra Pradesh Krishi Yantra Subsidy",
+        "state": "Andhra Pradesh",
+        "sector": "Farmers",
+        "category": "Subsidy",
+        "description": "Subsidy on purchase of agricultural equipment and machinery for farmers in Andhra Pradesh.",
+        "eligibility_criteria": [
+            "Resident farmer of Andhra Pradesh.",
+            "Must own cultivable land."
+        ],
+        "required_documents": [
+            "Aadhaar Card",
+            "Bank Passbook",
+            "Domicile Certificate"
+        ],
+        "application_steps": [
+            "Apply through the andhrapradesh Agriculture Portal agri.andhrapradesh.gov.in.",
+            "Submit equipment quotation."
+        ]
+    },
+    {
+        "scheme_name": "Andhra Pradesh Fasal Bima Yojana",
+        "state": "Andhra Pradesh",
+        "sector": "Farmers",
+        "category": "Crop Insurance",
+        "description": "Crop insurance covering pre-sowing to post-harvest losses.",
+        "eligibility_criteria": [
+            "All farmers in Andhra Pradesh growing notified crops."
+        ],
+        "required_documents": [
+            "Aadhaar Card",
+            "Bank Passbook",
+            "Domicile Certificate"
+        ],
+        "application_steps": [
+            "Register at the closest CSC.",
+            "Or apply online at cropinsurance.andhrapradesh.gov.in."
+        ]
+    },
+    {
+        "scheme_name": "Andhra Pradesh Youth Innovation Fund",
+        "state": "Andhra Pradesh",
+        "sector": "Business",
+        "category": "Startup Fund",
+        "description": "Seed funding up to \u20b95 Lakhs for youth-led tech startups in Andhra Pradesh.",
+        "eligibility_criteria": [
+            "Founder must be domiciled in Andhra Pradesh.",
+            "Startup registered within last 2 years."
+        ],
+        "required_documents": [
+            "Aadhaar Card",
+            "Bank Passbook",
+            "Domicile Certificate"
+        ],
+        "application_steps": [
+            "Submit pitch deck at startup.andhrapradesh.gov.in.",
+            "Clear the interview round."
+        ]
+    },
+    {
+        "scheme_name": "Andhra Pradesh Chief Minister Health Assurance",
+        "state": "Andhra Pradesh",
+        "sector": "Medical",
+        "category": "Health Scheme",
+        "description": "Free medical treatment up to \u20b93 Lakhs for BPL families in state hospitals.",
         "eligibility_criteria": [
             "Resident of Andhra Pradesh.",
-            "Income below poverty line."
+            "BPL Card holder."
         ],
         "required_documents": [
             "Aadhaar Card",
-            "Income Certificate",
-            "Ration Card"
+            "Bank Passbook",
+            "Domicile Certificate"
         ],
         "application_steps": [
-            "Visit Andhra Pradesh Gram Panchayat portal.",
-            "Apply online with required documents."
+            "Show BPL card at any Govt Hospital in andhrapradesh.",
+            "Apply for e-card at health.andhrapradesh.gov.in."
         ]
     },
     {
-        "scheme_name": "Andhra Pradesh Women Empowerment Subsidy",
+        "scheme_name": "Andhra Pradesh Mahila Samridhi Scheme",
         "state": "Andhra Pradesh",
         "sector": "Women",
         "category": "Financial Support",
-        "description": "Direct benefit transfer for female entrepreneurs in Andhra Pradesh.",
+        "description": "Financial assistance of \u20b91,500 per month for women heads of families.",
         "eligibility_criteria": [
             "Female resident of Andhra Pradesh.",
-            "Age between 18-45."
+            "Age between 21-60 years.",
+            "Family income below threshold."
         ],
         "required_documents": [
             "Aadhaar Card",
-            "Bank Passbook"
+            "Bank Passbook",
+            "Domicile Certificate"
         ],
         "application_steps": [
-            "Apply via State Mahila portal.",
-            "Complete physical verification."
+            "Apply via State Women Welfare portal women.andhrapradesh.gov.in.",
+            "Verify Aadhaar at local panchayat."
         ]
     },
     {
-        "scheme_name": "Bihar Chief Minister Rural Support",
-        "state": "Bihar",
+        "scheme_name": "Andhra Pradesh Rural Housing Grant",
+        "state": "Andhra Pradesh",
         "sector": "Home",
-        "category": "Housing",
-        "description": "Verified financial assistance for rural housing construction in Bihar.",
+        "category": "Housing Subsidy",
+        "description": "Financial aid of \u20b91.2 Lakhs for building pucca houses in rural areas of Andhra Pradesh.",
+        "eligibility_criteria": [
+            "Resident of rural Andhra Pradesh.",
+            "Does not own a concrete house."
+        ],
+        "required_documents": [
+            "Aadhaar Card",
+            "Bank Passbook",
+            "Domicile Certificate"
+        ],
+        "application_steps": [
+            "Apply via the Gram Panchayat.",
+            "Upload site photos to housing.andhrapradesh.gov.in."
+        ]
+    },
+    {
+        "scheme_name": "Andhra Pradesh Free Power Scheme",
+        "state": "Andhra Pradesh",
+        "sector": "Home",
+        "category": "Electricity",
+        "description": "Up to 200 units of free electricity per month for domestic households.",
+        "eligibility_criteria": [
+            "Domestic electricity connection in Andhra Pradesh.",
+            "Meter must be linked with Aadhaar."
+        ],
+        "required_documents": [
+            "Aadhaar Card",
+            "Bank Passbook",
+            "Domicile Certificate"
+        ],
+        "application_steps": [
+            "Link consumer number with Aadhaar at power.andhrapradesh.gov.in.",
+            "Subsidy is auto-applied."
+        ]
+    },
+    {
+        "scheme_name": "Andhra Pradesh Vidyarthi Medha Scholarship",
+        "state": "Andhra Pradesh",
+        "sector": "Education",
+        "category": "Scholarship",
+        "description": "Annual scholarship of \u20b910,000 for top 1000 students passing class 10th in Andhra Pradesh board.",
+        "eligibility_criteria": [
+            "Passed class 10th from Andhra Pradesh Board.",
+            "Scored over 85%."
+        ],
+        "required_documents": [
+            "Aadhaar Card",
+            "Bank Passbook",
+            "Domicile Certificate"
+        ],
+        "application_steps": [
+            "Schools automatically nominate top students.",
+            "Check status at education.andhrapradesh.gov.in."
+        ]
+    },
+    {
+        "scheme_name": "Andhra Pradesh Free Laptop Scheme",
+        "state": "Andhra Pradesh",
+        "sector": "Education",
+        "category": "Laptop Distribution",
+        "description": "Free laptops provided to meritorious students pursuing higher education.",
+        "eligibility_criteria": [
+            "Domicile of Andhra Pradesh.",
+            "Admitted to a recognized college/university in the state."
+        ],
+        "required_documents": [
+            "Aadhaar Card",
+            "Bank Passbook",
+            "Domicile Certificate"
+        ],
+        "application_steps": [
+            "Register online at highered.andhrapradesh.gov.in.",
+            "Submit admission receipt."
+        ]
+    },
+    {
+        "scheme_name": "Andhra Pradesh Vridhavastha Pension",
+        "state": "Andhra Pradesh",
+        "sector": "Seniors",
+        "category": "Pension",
+        "description": "Monthly pension of \u20b92,000 for destitute senior citizens in Andhra Pradesh.",
+        "eligibility_criteria": [
+            "Age 60 years or above.",
+            "Resident of Andhra Pradesh.",
+            "No regular source of income."
+        ],
+        "required_documents": [
+            "Aadhaar Card",
+            "Bank Passbook",
+            "Domicile Certificate"
+        ],
+        "application_steps": [
+            "Submit application at the Block Development Office.",
+            "Track application via pension.andhrapradesh.gov.in."
+        ]
+    },
+    {
+        "scheme_name": "Bihar Krishi Yantra Subsidy",
+        "state": "Bihar",
+        "sector": "Farmers",
+        "category": "Subsidy",
+        "description": "Subsidy on purchase of agricultural equipment and machinery for farmers in Bihar.",
+        "eligibility_criteria": [
+            "Resident farmer of Bihar.",
+            "Must own cultivable land."
+        ],
+        "required_documents": [
+            "Aadhaar Card",
+            "Bank Passbook",
+            "Domicile Certificate"
+        ],
+        "application_steps": [
+            "Apply through the bihar Agriculture Portal agri.bihar.gov.in.",
+            "Submit equipment quotation."
+        ]
+    },
+    {
+        "scheme_name": "Bihar Fasal Bima Yojana",
+        "state": "Bihar",
+        "sector": "Farmers",
+        "category": "Crop Insurance",
+        "description": "Crop insurance covering pre-sowing to post-harvest losses.",
+        "eligibility_criteria": [
+            "All farmers in Bihar growing notified crops."
+        ],
+        "required_documents": [
+            "Aadhaar Card",
+            "Bank Passbook",
+            "Domicile Certificate"
+        ],
+        "application_steps": [
+            "Register at the closest CSC.",
+            "Or apply online at cropinsurance.bihar.gov.in."
+        ]
+    },
+    {
+        "scheme_name": "Bihar Youth Innovation Fund",
+        "state": "Bihar",
+        "sector": "Business",
+        "category": "Startup Fund",
+        "description": "Seed funding up to \u20b95 Lakhs for youth-led tech startups in Bihar.",
+        "eligibility_criteria": [
+            "Founder must be domiciled in Bihar.",
+            "Startup registered within last 2 years."
+        ],
+        "required_documents": [
+            "Aadhaar Card",
+            "Bank Passbook",
+            "Domicile Certificate"
+        ],
+        "application_steps": [
+            "Submit pitch deck at startup.bihar.gov.in.",
+            "Clear the interview round."
+        ]
+    },
+    {
+        "scheme_name": "Bihar Chief Minister Health Assurance",
+        "state": "Bihar",
+        "sector": "Medical",
+        "category": "Health Scheme",
+        "description": "Free medical treatment up to \u20b93 Lakhs for BPL families in state hospitals.",
         "eligibility_criteria": [
             "Resident of Bihar.",
-            "Income below poverty line."
+            "BPL Card holder."
         ],
         "required_documents": [
             "Aadhaar Card",
-            "Income Certificate",
-            "Ration Card"
+            "Bank Passbook",
+            "Domicile Certificate"
         ],
         "application_steps": [
-            "Visit Bihar Gram Panchayat portal.",
-            "Apply online with required documents."
+            "Show BPL card at any Govt Hospital in bihar.",
+            "Apply for e-card at health.bihar.gov.in."
         ]
     },
     {
-        "scheme_name": "Bihar Women Empowerment Subsidy",
+        "scheme_name": "Bihar Mahila Samridhi Scheme",
         "state": "Bihar",
         "sector": "Women",
         "category": "Financial Support",
-        "description": "Direct benefit transfer for female entrepreneurs in Bihar.",
+        "description": "Financial assistance of \u20b91,500 per month for women heads of families.",
         "eligibility_criteria": [
             "Female resident of Bihar.",
-            "Age between 18-45."
+            "Age between 21-60 years.",
+            "Family income below threshold."
         ],
         "required_documents": [
             "Aadhaar Card",
-            "Bank Passbook"
+            "Bank Passbook",
+            "Domicile Certificate"
         ],
         "application_steps": [
-            "Apply via State Mahila portal.",
-            "Complete physical verification."
+            "Apply via State Women Welfare portal women.bihar.gov.in.",
+            "Verify Aadhaar at local panchayat."
         ]
     },
     {
-        "scheme_name": "Haryana Chief Minister Rural Support",
-        "state": "Haryana",
+        "scheme_name": "Bihar Rural Housing Grant",
+        "state": "Bihar",
         "sector": "Home",
-        "category": "Housing",
-        "description": "Verified financial assistance for rural housing construction in Haryana.",
+        "category": "Housing Subsidy",
+        "description": "Financial aid of \u20b91.2 Lakhs for building pucca houses in rural areas of Bihar.",
+        "eligibility_criteria": [
+            "Resident of rural Bihar.",
+            "Does not own a concrete house."
+        ],
+        "required_documents": [
+            "Aadhaar Card",
+            "Bank Passbook",
+            "Domicile Certificate"
+        ],
+        "application_steps": [
+            "Apply via the Gram Panchayat.",
+            "Upload site photos to housing.bihar.gov.in."
+        ]
+    },
+    {
+        "scheme_name": "Bihar Free Power Scheme",
+        "state": "Bihar",
+        "sector": "Home",
+        "category": "Electricity",
+        "description": "Up to 200 units of free electricity per month for domestic households.",
+        "eligibility_criteria": [
+            "Domestic electricity connection in Bihar.",
+            "Meter must be linked with Aadhaar."
+        ],
+        "required_documents": [
+            "Aadhaar Card",
+            "Bank Passbook",
+            "Domicile Certificate"
+        ],
+        "application_steps": [
+            "Link consumer number with Aadhaar at power.bihar.gov.in.",
+            "Subsidy is auto-applied."
+        ]
+    },
+    {
+        "scheme_name": "Bihar Vidyarthi Medha Scholarship",
+        "state": "Bihar",
+        "sector": "Education",
+        "category": "Scholarship",
+        "description": "Annual scholarship of \u20b910,000 for top 1000 students passing class 10th in Bihar board.",
+        "eligibility_criteria": [
+            "Passed class 10th from Bihar Board.",
+            "Scored over 85%."
+        ],
+        "required_documents": [
+            "Aadhaar Card",
+            "Bank Passbook",
+            "Domicile Certificate"
+        ],
+        "application_steps": [
+            "Schools automatically nominate top students.",
+            "Check status at education.bihar.gov.in."
+        ]
+    },
+    {
+        "scheme_name": "Bihar Free Laptop Scheme",
+        "state": "Bihar",
+        "sector": "Education",
+        "category": "Laptop Distribution",
+        "description": "Free laptops provided to meritorious students pursuing higher education.",
+        "eligibility_criteria": [
+            "Domicile of Bihar.",
+            "Admitted to a recognized college/university in the state."
+        ],
+        "required_documents": [
+            "Aadhaar Card",
+            "Bank Passbook",
+            "Domicile Certificate"
+        ],
+        "application_steps": [
+            "Register online at highered.bihar.gov.in.",
+            "Submit admission receipt."
+        ]
+    },
+    {
+        "scheme_name": "Bihar Vridhavastha Pension",
+        "state": "Bihar",
+        "sector": "Seniors",
+        "category": "Pension",
+        "description": "Monthly pension of \u20b92,000 for destitute senior citizens in Bihar.",
+        "eligibility_criteria": [
+            "Age 60 years or above.",
+            "Resident of Bihar.",
+            "No regular source of income."
+        ],
+        "required_documents": [
+            "Aadhaar Card",
+            "Bank Passbook",
+            "Domicile Certificate"
+        ],
+        "application_steps": [
+            "Submit application at the Block Development Office.",
+            "Track application via pension.bihar.gov.in."
+        ]
+    },
+    {
+        "scheme_name": "Haryana Krishi Yantra Subsidy",
+        "state": "Haryana",
+        "sector": "Farmers",
+        "category": "Subsidy",
+        "description": "Subsidy on purchase of agricultural equipment and machinery for farmers in Haryana.",
+        "eligibility_criteria": [
+            "Resident farmer of Haryana.",
+            "Must own cultivable land."
+        ],
+        "required_documents": [
+            "Aadhaar Card",
+            "Bank Passbook",
+            "Domicile Certificate"
+        ],
+        "application_steps": [
+            "Apply through the haryana Agriculture Portal agri.haryana.gov.in.",
+            "Submit equipment quotation."
+        ]
+    },
+    {
+        "scheme_name": "Haryana Fasal Bima Yojana",
+        "state": "Haryana",
+        "sector": "Farmers",
+        "category": "Crop Insurance",
+        "description": "Crop insurance covering pre-sowing to post-harvest losses.",
+        "eligibility_criteria": [
+            "All farmers in Haryana growing notified crops."
+        ],
+        "required_documents": [
+            "Aadhaar Card",
+            "Bank Passbook",
+            "Domicile Certificate"
+        ],
+        "application_steps": [
+            "Register at the closest CSC.",
+            "Or apply online at cropinsurance.haryana.gov.in."
+        ]
+    },
+    {
+        "scheme_name": "Haryana Youth Innovation Fund",
+        "state": "Haryana",
+        "sector": "Business",
+        "category": "Startup Fund",
+        "description": "Seed funding up to \u20b95 Lakhs for youth-led tech startups in Haryana.",
+        "eligibility_criteria": [
+            "Founder must be domiciled in Haryana.",
+            "Startup registered within last 2 years."
+        ],
+        "required_documents": [
+            "Aadhaar Card",
+            "Bank Passbook",
+            "Domicile Certificate"
+        ],
+        "application_steps": [
+            "Submit pitch deck at startup.haryana.gov.in.",
+            "Clear the interview round."
+        ]
+    },
+    {
+        "scheme_name": "Haryana Chief Minister Health Assurance",
+        "state": "Haryana",
+        "sector": "Medical",
+        "category": "Health Scheme",
+        "description": "Free medical treatment up to \u20b93 Lakhs for BPL families in state hospitals.",
         "eligibility_criteria": [
             "Resident of Haryana.",
-            "Income below poverty line."
+            "BPL Card holder."
         ],
         "required_documents": [
             "Aadhaar Card",
-            "Income Certificate",
-            "Ration Card"
+            "Bank Passbook",
+            "Domicile Certificate"
         ],
         "application_steps": [
-            "Visit Haryana Gram Panchayat portal.",
-            "Apply online with required documents."
+            "Show BPL card at any Govt Hospital in haryana.",
+            "Apply for e-card at health.haryana.gov.in."
         ]
     },
     {
-        "scheme_name": "Haryana Women Empowerment Subsidy",
+        "scheme_name": "Haryana Mahila Samridhi Scheme",
         "state": "Haryana",
         "sector": "Women",
         "category": "Financial Support",
-        "description": "Direct benefit transfer for female entrepreneurs in Haryana.",
+        "description": "Financial assistance of \u20b91,500 per month for women heads of families.",
         "eligibility_criteria": [
             "Female resident of Haryana.",
-            "Age between 18-45."
+            "Age between 21-60 years.",
+            "Family income below threshold."
         ],
         "required_documents": [
             "Aadhaar Card",
-            "Bank Passbook"
+            "Bank Passbook",
+            "Domicile Certificate"
         ],
         "application_steps": [
-            "Apply via State Mahila portal.",
-            "Complete physical verification."
+            "Apply via State Women Welfare portal women.haryana.gov.in.",
+            "Verify Aadhaar at local panchayat."
         ]
     },
     {
-        "scheme_name": "Madhya Pradesh Chief Minister Rural Support",
-        "state": "Madhya Pradesh",
+        "scheme_name": "Haryana Rural Housing Grant",
+        "state": "Haryana",
         "sector": "Home",
-        "category": "Housing",
-        "description": "Verified financial assistance for rural housing construction in Madhya Pradesh.",
+        "category": "Housing Subsidy",
+        "description": "Financial aid of \u20b91.2 Lakhs for building pucca houses in rural areas of Haryana.",
+        "eligibility_criteria": [
+            "Resident of rural Haryana.",
+            "Does not own a concrete house."
+        ],
+        "required_documents": [
+            "Aadhaar Card",
+            "Bank Passbook",
+            "Domicile Certificate"
+        ],
+        "application_steps": [
+            "Apply via the Gram Panchayat.",
+            "Upload site photos to housing.haryana.gov.in."
+        ]
+    },
+    {
+        "scheme_name": "Haryana Free Power Scheme",
+        "state": "Haryana",
+        "sector": "Home",
+        "category": "Electricity",
+        "description": "Up to 200 units of free electricity per month for domestic households.",
+        "eligibility_criteria": [
+            "Domestic electricity connection in Haryana.",
+            "Meter must be linked with Aadhaar."
+        ],
+        "required_documents": [
+            "Aadhaar Card",
+            "Bank Passbook",
+            "Domicile Certificate"
+        ],
+        "application_steps": [
+            "Link consumer number with Aadhaar at power.haryana.gov.in.",
+            "Subsidy is auto-applied."
+        ]
+    },
+    {
+        "scheme_name": "Haryana Vidyarthi Medha Scholarship",
+        "state": "Haryana",
+        "sector": "Education",
+        "category": "Scholarship",
+        "description": "Annual scholarship of \u20b910,000 for top 1000 students passing class 10th in Haryana board.",
+        "eligibility_criteria": [
+            "Passed class 10th from Haryana Board.",
+            "Scored over 85%."
+        ],
+        "required_documents": [
+            "Aadhaar Card",
+            "Bank Passbook",
+            "Domicile Certificate"
+        ],
+        "application_steps": [
+            "Schools automatically nominate top students.",
+            "Check status at education.haryana.gov.in."
+        ]
+    },
+    {
+        "scheme_name": "Haryana Free Laptop Scheme",
+        "state": "Haryana",
+        "sector": "Education",
+        "category": "Laptop Distribution",
+        "description": "Free laptops provided to meritorious students pursuing higher education.",
+        "eligibility_criteria": [
+            "Domicile of Haryana.",
+            "Admitted to a recognized college/university in the state."
+        ],
+        "required_documents": [
+            "Aadhaar Card",
+            "Bank Passbook",
+            "Domicile Certificate"
+        ],
+        "application_steps": [
+            "Register online at highered.haryana.gov.in.",
+            "Submit admission receipt."
+        ]
+    },
+    {
+        "scheme_name": "Haryana Vridhavastha Pension",
+        "state": "Haryana",
+        "sector": "Seniors",
+        "category": "Pension",
+        "description": "Monthly pension of \u20b92,000 for destitute senior citizens in Haryana.",
+        "eligibility_criteria": [
+            "Age 60 years or above.",
+            "Resident of Haryana.",
+            "No regular source of income."
+        ],
+        "required_documents": [
+            "Aadhaar Card",
+            "Bank Passbook",
+            "Domicile Certificate"
+        ],
+        "application_steps": [
+            "Submit application at the Block Development Office.",
+            "Track application via pension.haryana.gov.in."
+        ]
+    },
+    {
+        "scheme_name": "Madhya Pradesh Krishi Yantra Subsidy",
+        "state": "Madhya Pradesh",
+        "sector": "Farmers",
+        "category": "Subsidy",
+        "description": "Subsidy on purchase of agricultural equipment and machinery for farmers in Madhya Pradesh.",
+        "eligibility_criteria": [
+            "Resident farmer of Madhya Pradesh.",
+            "Must own cultivable land."
+        ],
+        "required_documents": [
+            "Aadhaar Card",
+            "Bank Passbook",
+            "Domicile Certificate"
+        ],
+        "application_steps": [
+            "Apply through the madhyapradesh Agriculture Portal agri.madhyapradesh.gov.in.",
+            "Submit equipment quotation."
+        ]
+    },
+    {
+        "scheme_name": "Madhya Pradesh Fasal Bima Yojana",
+        "state": "Madhya Pradesh",
+        "sector": "Farmers",
+        "category": "Crop Insurance",
+        "description": "Crop insurance covering pre-sowing to post-harvest losses.",
+        "eligibility_criteria": [
+            "All farmers in Madhya Pradesh growing notified crops."
+        ],
+        "required_documents": [
+            "Aadhaar Card",
+            "Bank Passbook",
+            "Domicile Certificate"
+        ],
+        "application_steps": [
+            "Register at the closest CSC.",
+            "Or apply online at cropinsurance.madhyapradesh.gov.in."
+        ]
+    },
+    {
+        "scheme_name": "Madhya Pradesh Youth Innovation Fund",
+        "state": "Madhya Pradesh",
+        "sector": "Business",
+        "category": "Startup Fund",
+        "description": "Seed funding up to \u20b95 Lakhs for youth-led tech startups in Madhya Pradesh.",
+        "eligibility_criteria": [
+            "Founder must be domiciled in Madhya Pradesh.",
+            "Startup registered within last 2 years."
+        ],
+        "required_documents": [
+            "Aadhaar Card",
+            "Bank Passbook",
+            "Domicile Certificate"
+        ],
+        "application_steps": [
+            "Submit pitch deck at startup.madhyapradesh.gov.in.",
+            "Clear the interview round."
+        ]
+    },
+    {
+        "scheme_name": "Madhya Pradesh Chief Minister Health Assurance",
+        "state": "Madhya Pradesh",
+        "sector": "Medical",
+        "category": "Health Scheme",
+        "description": "Free medical treatment up to \u20b93 Lakhs for BPL families in state hospitals.",
         "eligibility_criteria": [
             "Resident of Madhya Pradesh.",
-            "Income below poverty line."
+            "BPL Card holder."
         ],
         "required_documents": [
             "Aadhaar Card",
-            "Income Certificate",
-            "Ration Card"
+            "Bank Passbook",
+            "Domicile Certificate"
         ],
         "application_steps": [
-            "Visit Madhya Pradesh Gram Panchayat portal.",
-            "Apply online with required documents."
+            "Show BPL card at any Govt Hospital in madhyapradesh.",
+            "Apply for e-card at health.madhyapradesh.gov.in."
         ]
     },
     {
-        "scheme_name": "Madhya Pradesh Women Empowerment Subsidy",
+        "scheme_name": "Madhya Pradesh Mahila Samridhi Scheme",
         "state": "Madhya Pradesh",
         "sector": "Women",
         "category": "Financial Support",
-        "description": "Direct benefit transfer for female entrepreneurs in Madhya Pradesh.",
+        "description": "Financial assistance of \u20b91,500 per month for women heads of families.",
         "eligibility_criteria": [
             "Female resident of Madhya Pradesh.",
-            "Age between 18-45."
+            "Age between 21-60 years.",
+            "Family income below threshold."
         ],
         "required_documents": [
             "Aadhaar Card",
-            "Bank Passbook"
+            "Bank Passbook",
+            "Domicile Certificate"
         ],
         "application_steps": [
-            "Apply via State Mahila portal.",
-            "Complete physical verification."
+            "Apply via State Women Welfare portal women.madhyapradesh.gov.in.",
+            "Verify Aadhaar at local panchayat."
+        ]
+    },
+    {
+        "scheme_name": "Madhya Pradesh Rural Housing Grant",
+        "state": "Madhya Pradesh",
+        "sector": "Home",
+        "category": "Housing Subsidy",
+        "description": "Financial aid of \u20b91.2 Lakhs for building pucca houses in rural areas of Madhya Pradesh.",
+        "eligibility_criteria": [
+            "Resident of rural Madhya Pradesh.",
+            "Does not own a concrete house."
+        ],
+        "required_documents": [
+            "Aadhaar Card",
+            "Bank Passbook",
+            "Domicile Certificate"
+        ],
+        "application_steps": [
+            "Apply via the Gram Panchayat.",
+            "Upload site photos to housing.madhyapradesh.gov.in."
+        ]
+    },
+    {
+        "scheme_name": "Madhya Pradesh Free Power Scheme",
+        "state": "Madhya Pradesh",
+        "sector": "Home",
+        "category": "Electricity",
+        "description": "Up to 200 units of free electricity per month for domestic households.",
+        "eligibility_criteria": [
+            "Domestic electricity connection in Madhya Pradesh.",
+            "Meter must be linked with Aadhaar."
+        ],
+        "required_documents": [
+            "Aadhaar Card",
+            "Bank Passbook",
+            "Domicile Certificate"
+        ],
+        "application_steps": [
+            "Link consumer number with Aadhaar at power.madhyapradesh.gov.in.",
+            "Subsidy is auto-applied."
+        ]
+    },
+    {
+        "scheme_name": "Madhya Pradesh Vidyarthi Medha Scholarship",
+        "state": "Madhya Pradesh",
+        "sector": "Education",
+        "category": "Scholarship",
+        "description": "Annual scholarship of \u20b910,000 for top 1000 students passing class 10th in Madhya Pradesh board.",
+        "eligibility_criteria": [
+            "Passed class 10th from Madhya Pradesh Board.",
+            "Scored over 85%."
+        ],
+        "required_documents": [
+            "Aadhaar Card",
+            "Bank Passbook",
+            "Domicile Certificate"
+        ],
+        "application_steps": [
+            "Schools automatically nominate top students.",
+            "Check status at education.madhyapradesh.gov.in."
+        ]
+    },
+    {
+        "scheme_name": "Madhya Pradesh Free Laptop Scheme",
+        "state": "Madhya Pradesh",
+        "sector": "Education",
+        "category": "Laptop Distribution",
+        "description": "Free laptops provided to meritorious students pursuing higher education.",
+        "eligibility_criteria": [
+            "Domicile of Madhya Pradesh.",
+            "Admitted to a recognized college/university in the state."
+        ],
+        "required_documents": [
+            "Aadhaar Card",
+            "Bank Passbook",
+            "Domicile Certificate"
+        ],
+        "application_steps": [
+            "Register online at highered.madhyapradesh.gov.in.",
+            "Submit admission receipt."
+        ]
+    },
+    {
+        "scheme_name": "Madhya Pradesh Vridhavastha Pension",
+        "state": "Madhya Pradesh",
+        "sector": "Seniors",
+        "category": "Pension",
+        "description": "Monthly pension of \u20b92,000 for destitute senior citizens in Madhya Pradesh.",
+        "eligibility_criteria": [
+            "Age 60 years or above.",
+            "Resident of Madhya Pradesh.",
+            "No regular source of income."
+        ],
+        "required_documents": [
+            "Aadhaar Card",
+            "Bank Passbook",
+            "Domicile Certificate"
+        ],
+        "application_steps": [
+            "Submit application at the Block Development Office.",
+            "Track application via pension.madhyapradesh.gov.in."
         ]
     }
 ]
