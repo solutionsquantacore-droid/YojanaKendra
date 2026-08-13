@@ -29,6 +29,8 @@ jobs:
 
       - name: Run Scraper
         run: |
+          pwd
+          ls -la
           cd backend
           python scraper.py
 

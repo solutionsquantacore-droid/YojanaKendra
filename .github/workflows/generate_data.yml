@@ -22,6 +22,8 @@ jobs:
 
       - name: Run Generator Script
         run: |
+          pwd
+          ls -la
           # Assuming the script is placed in the root of your backend repo
           # Adjust the path if it's inside a folder like 'scripts/'
           cd backend && python scripts/generate_hospitals.py
