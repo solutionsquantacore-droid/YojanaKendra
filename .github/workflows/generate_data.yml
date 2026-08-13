@@ -29,7 +29,7 @@ jobs:
           cd backend && python scripts/generate_hospitals.py
           
           # If the script generates the file elsewhere, move it to your data folder
-          # mv hospitals.json data/hospitals.json
+          mv hospitals.json data/hospitals.json
           
       - name: Commit and Push Changes
         run: |
@@ -37,7 +37,7 @@ jobs:
           git config --local user.email "action@github.com"
           
           # Add the generated json file
-          git add hospitals.json
+          git add backend/data/hospitals.json
           
           # Only commit if there are changes
           git diff --quiet && git diff --staged --quiet || (git commit -m "Auto-update hospitals data" && git push)
