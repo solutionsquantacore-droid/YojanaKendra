@@ -221,7 +221,7 @@
             "[हिन्दी] Domicile Certificate"
         ],
         "application_steps": [
-            "[हिन्दी] Apply through the maharashtra Agriculture Portal agri.maharashtra.gov.in.",
+            "[हिन्दी] Visit the local Agriculture Office for offline submission.",
             "[हिन्दी] Submit equipment quotation."
         ]
     },
@@ -240,8 +240,8 @@
             "[हिन्दी] Domicile Certificate"
         ],
         "application_steps": [
-            "[हिन्दी] Register at the closest CSC.",
-            "[हिन्दी] Or apply online at cropinsurance.maharashtra.gov.in."
+            "[हिन्दी] Visit nearest bank branch with land details.",
+            "[हिन्दी] Pay the premium amount before the cutoff date."
         ]
     },
     {
@@ -260,8 +260,9 @@
             "[हिन्दी] Domicile Certificate"
         ],
         "application_steps": [
-            "[हिन्दी] Submit pitch deck at startup.maharashtra.gov.in.",
-            "[हिन्दी] Clear the interview round."
+            "[हिन्दी] Submit physical business plan to the District Industries Centre (DIC).",
+            "[हिन्दी] Attend the screening interview.",
+            "[हिन्दी] Apply online at startup.maharashtra.gov.in"
         ]
     },
     {
@@ -280,8 +281,9 @@
             "[हिन्दी] Domicile Certificate"
         ],
         "application_steps": [
-            "[हिन्दी] Show BPL card at any Govt Hospital in maharashtra.",
-            "[हिन्दी] Apply for e-card at health.maharashtra.gov.in."
+            "[हिन्दी] Show BPL card at any Govt Hospital in maharashtra to get registered.",
+            "[हिन्दी] Collect the health card from the hospital desk.",
+            "[हिन्दी] Apply online at health.maharashtra.gov.in"
         ]
     },
     {
@@ -301,8 +303,9 @@
             "[हिन्दी] Domicile Certificate"
         ],
         "application_steps": [
-            "[हिन्दी] Apply via State Women Welfare portal women.maharashtra.gov.in.",
-            "[हिन्दी] Verify Aadhaar at local panchayat."
+            "[हिन्दी] Collect application form from the Gram Panchayat.",
+            "[हिन्दी] Submit filled form along with Aadhaar and bank details.",
+            "[हिन्दी] Apply online at women.maharashtra.gov.in"
         ]
     },
     {
@@ -321,8 +324,9 @@
             "[हिन्दी] Domicile Certificate"
         ],
         "application_steps": [
-            "[हिन्दी] Apply via the Gram Panchayat.",
-            "[हिन्दी] Upload site photos to housing.maharashtra.gov.in."
+            "[हिन्दी] Apply in person at the Block Development Office (BDO).",
+            "[हिन्दी] Wait for the physical site inspection.",
+            "[हिन्दी] Apply online at housing.maharashtra.gov.in"
         ]
     },
     {
@@ -341,8 +345,9 @@
             "[हिन्दी] Domicile Certificate"
         ],
         "application_steps": [
-            "[हिन्दी] Link consumer number with Aadhaar at power.maharashtra.gov.in.",
-            "[हिन्दी] Subsidy is auto-applied."
+            "[हिन्दी] Visit the local electricity board office.",
+            "[हिन्दी] Submit Aadhaar and consumer number for linking.",
+            "[हिन्दी] Link online at power.maharashtra.gov.in"
         ]
     },
     {
@@ -362,7 +367,8 @@
         ],
         "application_steps": [
             "[हिन्दी] Schools automatically nominate top students.",
-            "[हिन्दी] Check status at education.maharashtra.gov.in."
+            "[हिन्दी] Submit bank details to the school principal.",
+            "[हिन्दी] Check status online at education.maharashtra.gov.in"
         ]
     },
     {
@@ -381,8 +387,9 @@
             "[हिन्दी] Domicile Certificate"
         ],
         "application_steps": [
-            "[हिन्दी] Register online at highered.maharashtra.gov.in.",
-            "[हिन्दी] Submit admission receipt."
+            "[हिन्दी] Collect application form from the college administration.",
+            "[हिन्दी] Submit form with admission receipt.",
+            "[हिन्दी] Register online at highered.maharashtra.gov.in"
         ]
     },
     {
@@ -402,8 +409,8 @@
             "[हिन्दी] Domicile Certificate"
         ],
         "application_steps": [
-            "[हिन्दी] Submit application at the Block Development Office.",
-            "[हिन्दी] Track application via pension.maharashtra.gov.in."
+            "[हिन्दी] Submit application physically at the District Social Welfare Office.",
+            "[हिन्दी] Track application online at pension.maharashtra.gov.in"
         ]
     },
     {
@@ -422,7 +429,7 @@
             "[हिन्दी] Domicile Certificate"
         ],
         "application_steps": [
-            "[हिन्दी] Apply through the delhi Agriculture Portal agri.delhi.gov.in.",
+            "[हिन्दी] Visit the local Agriculture Office for offline submission.",
             "[हिन्दी] Submit equipment quotation."
         ]
     },
@@ -441,8 +448,8 @@
             "[हिन्दी] Domicile Certificate"
         ],
         "application_steps": [
-            "[हिन्दी] Register at the closest CSC.",
-            "[हिन्दी] Or apply online at cropinsurance.delhi.gov.in."
+            "[हिन्दी] Visit nearest bank branch with land details.",
+            "[हिन्दी] Pay the premium amount before the cutoff date."
         ]
     },
     {
@@ -461,8 +468,9 @@
             "[हिन्दी] Domicile Certificate"
         ],
         "application_steps": [
-            "[हिन्दी] Submit pitch deck at startup.delhi.gov.in.",
-            "[हिन्दी] Clear the interview round."
+            "[हिन्दी] Submit physical business plan to the District Industries Centre (DIC).",
+            "[हिन्दी] Attend the screening interview.",
+            "[हिन्दी] Apply online at startup.delhi.gov.in"
         ]
     },
     {
@@ -481,8 +489,9 @@
             "[हिन्दी] Domicile Certificate"
         ],
         "application_steps": [
-            "[हिन्दी] Show BPL card at any Govt Hospital in delhi.",
-            "[हिन्दी] Apply for e-card at health.delhi.gov.in."
+            "[हिन्दी] Show BPL card at any Govt Hospital in delhi to get registered.",
+            "[हिन्दी] Collect the health card from the hospital desk.",
+            "[हिन्दी] Apply online at health.delhi.gov.in"
         ]
     },
     {
@@ -502,8 +511,9 @@
             "[हिन्दी] Domicile Certificate"
         ],
         "application_steps": [
-            "[हिन्दी] Apply via State Women Welfare portal women.delhi.gov.in.",
-            "[हिन्दी] Verify Aadhaar at local panchayat."
+            "[हिन्दी] Collect application form from the Gram Panchayat.",
+            "[हिन्दी] Submit filled form along with Aadhaar and bank details.",
+            "[हिन्दी] Apply online at women.delhi.gov.in"
         ]
     },
     {
@@ -522,8 +532,9 @@
             "[हिन्दी] Domicile Certificate"
         ],
         "application_steps": [
-            "[हिन्दी] Apply via the Gram Panchayat.",
-            "[हिन्दी] Upload site photos to housing.delhi.gov.in."
+            "[हिन्दी] Apply in person at the Block Development Office (BDO).",
+            "[हिन्दी] Wait for the physical site inspection.",
+            "[हिन्दी] Apply online at housing.delhi.gov.in"
         ]
     },
     {
@@ -542,8 +553,9 @@
             "[हिन्दी] Domicile Certificate"
         ],
         "application_steps": [
-            "[हिन्दी] Link consumer number with Aadhaar at power.delhi.gov.in.",
-            "[हिन्दी] Subsidy is auto-applied."
+            "[हिन्दी] Visit the local electricity board office.",
+            "[हिन्दी] Submit Aadhaar and consumer number for linking.",
+            "[हिन्दी] Link online at power.delhi.gov.in"
         ]
     },
     {
@@ -563,7 +575,8 @@
         ],
         "application_steps": [
             "[हिन्दी] Schools automatically nominate top students.",
-            "[हिन्दी] Check status at education.delhi.gov.in."
+            "[हिन्दी] Submit bank details to the school principal.",
+            "[हिन्दी] Check status online at education.delhi.gov.in"
         ]
     },
     {
@@ -582,8 +595,9 @@
             "[हिन्दी] Domicile Certificate"
         ],
         "application_steps": [
-            "[हिन्दी] Register online at highered.delhi.gov.in.",
-            "[हिन्दी] Submit admission receipt."
+            "[हिन्दी] Collect application form from the college administration.",
+            "[हिन्दी] Submit form with admission receipt.",
+            "[हिन्दी] Register online at highered.delhi.gov.in"
         ]
     },
     {
@@ -603,8 +617,8 @@
             "[हिन्दी] Domicile Certificate"
         ],
         "application_steps": [
-            "[हिन्दी] Submit application at the Block Development Office.",
-            "[हिन्दी] Track application via pension.delhi.gov.in."
+            "[हिन्दी] Submit application physically at the District Social Welfare Office.",
+            "[हिन्दी] Track application online at pension.delhi.gov.in"
         ]
     },
     {
@@ -623,7 +637,7 @@
             "[हिन्दी] Domicile Certificate"
         ],
         "application_steps": [
-            "[हिन्दी] Apply through the karnataka Agriculture Portal agri.karnataka.gov.in.",
+            "[हिन्दी] Visit the local Agriculture Office for offline submission.",
             "[हिन्दी] Submit equipment quotation."
         ]
     },
@@ -642,8 +656,8 @@
             "[हिन्दी] Domicile Certificate"
         ],
         "application_steps": [
-            "[हिन्दी] Register at the closest CSC.",
-            "[हिन्दी] Or apply online at cropinsurance.karnataka.gov.in."
+            "[हिन्दी] Visit nearest bank branch with land details.",
+            "[हिन्दी] Pay the premium amount before the cutoff date."
         ]
     },
     {
@@ -662,8 +676,9 @@
             "[हिन्दी] Domicile Certificate"
         ],
         "application_steps": [
-            "[हिन्दी] Submit pitch deck at startup.karnataka.gov.in.",
-            "[हिन्दी] Clear the interview round."
+            "[हिन्दी] Submit physical business plan to the District Industries Centre (DIC).",
+            "[हिन्दी] Attend the screening interview.",
+            "[हिन्दी] Apply online at startup.karnataka.gov.in"
         ]
     },
     {
@@ -682,8 +697,9 @@
             "[हिन्दी] Domicile Certificate"
         ],
         "application_steps": [
-            "[हिन्दी] Show BPL card at any Govt Hospital in karnataka.",
-            "[हिन्दी] Apply for e-card at health.karnataka.gov.in."
+            "[हिन्दी] Show BPL card at any Govt Hospital in karnataka to get registered.",
+            "[हिन्दी] Collect the health card from the hospital desk.",
+            "[हिन्दी] Apply online at health.karnataka.gov.in"
         ]
     },
     {
@@ -703,8 +719,9 @@
             "[हिन्दी] Domicile Certificate"
         ],
         "application_steps": [
-            "[हिन्दी] Apply via State Women Welfare portal women.karnataka.gov.in.",
-            "[हिन्दी] Verify Aadhaar at local panchayat."
+            "[हिन्दी] Collect application form from the Gram Panchayat.",
+            "[हिन्दी] Submit filled form along with Aadhaar and bank details.",
+            "[हिन्दी] Apply online at women.karnataka.gov.in"
         ]
     },
     {
@@ -723,8 +740,9 @@
             "[हिन्दी] Domicile Certificate"
         ],
         "application_steps": [
-            "[हिन्दी] Apply via the Gram Panchayat.",
-            "[हिन्दी] Upload site photos to housing.karnataka.gov.in."
+            "[हिन्दी] Apply in person at the Block Development Office (BDO).",
+            "[हिन्दी] Wait for the physical site inspection.",
+            "[हिन्दी] Apply online at housing.karnataka.gov.in"
         ]
     },
     {
@@ -743,8 +761,9 @@
             "[हिन्दी] Domicile Certificate"
         ],
         "application_steps": [
-            "[हिन्दी] Link consumer number with Aadhaar at power.karnataka.gov.in.",
-            "[हिन्दी] Subsidy is auto-applied."
+            "[हिन्दी] Visit the local electricity board office.",
+            "[हिन्दी] Submit Aadhaar and consumer number for linking.",
+            "[हिन्दी] Link online at power.karnataka.gov.in"
         ]
     },
     {
@@ -764,7 +783,8 @@
         ],
         "application_steps": [
             "[हिन्दी] Schools automatically nominate top students.",
-            "[हिन्दी] Check status at education.karnataka.gov.in."
+            "[हिन्दी] Submit bank details to the school principal.",
+            "[हिन्दी] Check status online at education.karnataka.gov.in"
         ]
     },
     {
@@ -783,8 +803,9 @@
             "[हिन्दी] Domicile Certificate"
         ],
         "application_steps": [
-            "[हिन्दी] Register online at highered.karnataka.gov.in.",
-            "[हिन्दी] Submit admission receipt."
+            "[हिन्दी] Collect application form from the college administration.",
+            "[हिन्दी] Submit form with admission receipt.",
+            "[हिन्दी] Register online at highered.karnataka.gov.in"
         ]
     },
     {
@@ -804,8 +825,8 @@
             "[हिन्दी] Domicile Certificate"
         ],
         "application_steps": [
-            "[हिन्दी] Submit application at the Block Development Office.",
-            "[हिन्दी] Track application via pension.karnataka.gov.in."
+            "[हिन्दी] Submit application physically at the District Social Welfare Office.",
+            "[हिन्दी] Track application online at pension.karnataka.gov.in"
         ]
     },
     {
@@ -824,7 +845,7 @@
             "[हिन्दी] Domicile Certificate"
         ],
         "application_steps": [
-            "[हिन्दी] Apply through the gujarat Agriculture Portal agri.gujarat.gov.in.",
+            "[हिन्दी] Visit the local Agriculture Office for offline submission.",
             "[हिन्दी] Submit equipment quotation."
         ]
     },
@@ -843,8 +864,8 @@
             "[हिन्दी] Domicile Certificate"
         ],
         "application_steps": [
-            "[हिन्दी] Register at the closest CSC.",
-            "[हिन्दी] Or apply online at cropinsurance.gujarat.gov.in."
+            "[हिन्दी] Visit nearest bank branch with land details.",
+            "[हिन्दी] Pay the premium amount before the cutoff date."
         ]
     },
     {
@@ -863,8 +884,9 @@
             "[हिन्दी] Domicile Certificate"
         ],
         "application_steps": [
-            "[हिन्दी] Submit pitch deck at startup.gujarat.gov.in.",
-            "[हिन्दी] Clear the interview round."
+            "[हिन्दी] Submit physical business plan to the District Industries Centre (DIC).",
+            "[हिन्दी] Attend the screening interview.",
+            "[हिन्दी] Apply online at startup.gujarat.gov.in"
         ]
     },
     {
@@ -883,8 +905,9 @@
             "[हिन्दी] Domicile Certificate"
         ],
         "application_steps": [
-            "[हिन्दी] Show BPL card at any Govt Hospital in gujarat.",
-            "[हिन्दी] Apply for e-card at health.gujarat.gov.in."
+            "[हिन्दी] Show BPL card at any Govt Hospital in gujarat to get registered.",
+            "[हिन्दी] Collect the health card from the hospital desk.",
+            "[हिन्दी] Apply online at health.gujarat.gov.in"
         ]
     },
     {
@@ -904,8 +927,9 @@
             "[हिन्दी] Domicile Certificate"
         ],
         "application_steps": [
-            "[हिन्दी] Apply via State Women Welfare portal women.gujarat.gov.in.",
-            "[हिन्दी] Verify Aadhaar at local panchayat."
+            "[हिन्दी] Collect application form from the Gram Panchayat.",
+            "[हिन्दी] Submit filled form along with Aadhaar and bank details.",
+            "[हिन्दी] Apply online at women.gujarat.gov.in"
         ]
     },
     {
@@ -924,8 +948,9 @@
             "[हिन्दी] Domicile Certificate"
         ],
         "application_steps": [
-            "[हिन्दी] Apply via the Gram Panchayat.",
-            "[हिन्दी] Upload site photos to housing.gujarat.gov.in."
+            "[हिन्दी] Apply in person at the Block Development Office (BDO).",
+            "[हिन्दी] Wait for the physical site inspection.",
+            "[हिन्दी] Apply online at housing.gujarat.gov.in"
         ]
     },
     {
@@ -944,8 +969,9 @@
             "[हिन्दी] Domicile Certificate"
         ],
         "application_steps": [
-            "[हिन्दी] Link consumer number with Aadhaar at power.gujarat.gov.in.",
-            "[हिन्दी] Subsidy is auto-applied."
+            "[हिन्दी] Visit the local electricity board office.",
+            "[हिन्दी] Submit Aadhaar and consumer number for linking.",
+            "[हिन्दी] Link online at power.gujarat.gov.in"
         ]
     },
     {
@@ -965,7 +991,8 @@
         ],
         "application_steps": [
             "[हिन्दी] Schools automatically nominate top students.",
-            "[हिन्दी] Check status at education.gujarat.gov.in."
+            "[हिन्दी] Submit bank details to the school principal.",
+            "[हिन्दी] Check status online at education.gujarat.gov.in"
         ]
     },
     {
@@ -984,8 +1011,9 @@
             "[हिन्दी] Domicile Certificate"
         ],
         "application_steps": [
-            "[हिन्दी] Register online at highered.gujarat.gov.in.",
-            "[हिन्दी] Submit admission receipt."
+            "[हिन्दी] Collect application form from the college administration.",
+            "[हिन्दी] Submit form with admission receipt.",
+            "[हिन्दी] Register online at highered.gujarat.gov.in"
         ]
     },
     {
@@ -1005,8 +1033,8 @@
             "[हिन्दी] Domicile Certificate"
         ],
         "application_steps": [
-            "[हिन्दी] Submit application at the Block Development Office.",
-            "[हिन्दी] Track application via pension.gujarat.gov.in."
+            "[हिन्दी] Submit application physically at the District Social Welfare Office.",
+            "[हिन्दी] Track application online at pension.gujarat.gov.in"
         ]
     },
     {
@@ -1025,7 +1053,7 @@
             "[हिन्दी] Domicile Certificate"
         ],
         "application_steps": [
-            "[हिन्दी] Apply through the tamilnadu Agriculture Portal agri.tamilnadu.gov.in.",
+            "[हिन्दी] Visit the local Agriculture Office for offline submission.",
             "[हिन्दी] Submit equipment quotation."
         ]
     },
@@ -1044,8 +1072,8 @@
             "[हिन्दी] Domicile Certificate"
         ],
         "application_steps": [
-            "[हिन्दी] Register at the closest CSC.",
-            "[हिन्दी] Or apply online at cropinsurance.tamilnadu.gov.in."
+            "[हिन्दी] Visit nearest bank branch with land details.",
+            "[हिन्दी] Pay the premium amount before the cutoff date."
         ]
     },
     {
@@ -1064,8 +1092,9 @@
             "[हिन्दी] Domicile Certificate"
         ],
         "application_steps": [
-            "[हिन्दी] Submit pitch deck at startup.tamilnadu.gov.in.",
-            "[हिन्दी] Clear the interview round."
+            "[हिन्दी] Submit physical business plan to the District Industries Centre (DIC).",
+            "[हिन्दी] Attend the screening interview.",
+            "[हिन्दी] Apply online at startup.tamilnadu.gov.in"
         ]
     },
     {
@@ -1084,8 +1113,9 @@
             "[हिन्दी] Domicile Certificate"
         ],
         "application_steps": [
-            "[हिन्दी] Show BPL card at any Govt Hospital in tamilnadu.",
-            "[हिन्दी] Apply for e-card at health.tamilnadu.gov.in."
+            "[हिन्दी] Show BPL card at any Govt Hospital in tamilnadu to get registered.",
+            "[हिन्दी] Collect the health card from the hospital desk.",
+            "[हिन्दी] Apply online at health.tamilnadu.gov.in"
         ]
     },
     {
@@ -1105,8 +1135,9 @@
             "[हिन्दी] Domicile Certificate"
         ],
         "application_steps": [
-            "[हिन्दी] Apply via State Women Welfare portal women.tamilnadu.gov.in.",
-            "[हिन्दी] Verify Aadhaar at local panchayat."
+            "[हिन्दी] Collect application form from the Gram Panchayat.",
+            "[हिन्दी] Submit filled form along with Aadhaar and bank details.",
+            "[हिन्दी] Apply online at women.tamilnadu.gov.in"
         ]
     },
     {
@@ -1125,8 +1156,9 @@
             "[हिन्दी] Domicile Certificate"
         ],
         "application_steps": [
-            "[हिन्दी] Apply via the Gram Panchayat.",
-            "[हिन्दी] Upload site photos to housing.tamilnadu.gov.in."
+            "[हिन्दी] Apply in person at the Block Development Office (BDO).",
+            "[हिन्दी] Wait for the physical site inspection.",
+            "[हिन्दी] Apply online at housing.tamilnadu.gov.in"
         ]
     },
     {
@@ -1145,8 +1177,9 @@
             "[हिन्दी] Domicile Certificate"
         ],
         "application_steps": [
-            "[हिन्दी] Link consumer number with Aadhaar at power.tamilnadu.gov.in.",
-            "[हिन्दी] Subsidy is auto-applied."
+            "[हिन्दी] Visit the local electricity board office.",
+            "[हिन्दी] Submit Aadhaar and consumer number for linking.",
+            "[हिन्दी] Link online at power.tamilnadu.gov.in"
         ]
     },
     {
@@ -1166,7 +1199,8 @@
         ],
         "application_steps": [
             "[हिन्दी] Schools automatically nominate top students.",
-            "[हिन्दी] Check status at education.tamilnadu.gov.in."
+            "[हिन्दी] Submit bank details to the school principal.",
+            "[हिन्दी] Check status online at education.tamilnadu.gov.in"
         ]
     },
     {
@@ -1185,8 +1219,9 @@
             "[हिन्दी] Domicile Certificate"
         ],
         "application_steps": [
-            "[हिन्दी] Register online at highered.tamilnadu.gov.in.",
-            "[हिन्दी] Submit admission receipt."
+            "[हिन्दी] Collect application form from the college administration.",
+            "[हिन्दी] Submit form with admission receipt.",
+            "[हिन्दी] Register online at highered.tamilnadu.gov.in"
         ]
     },
     {
@@ -1206,8 +1241,8 @@
             "[हिन्दी] Domicile Certificate"
         ],
         "application_steps": [
-            "[हिन्दी] Submit application at the Block Development Office.",
-            "[हिन्दी] Track application via pension.tamilnadu.gov.in."
+            "[हिन्दी] Submit application physically at the District Social Welfare Office.",
+            "[हिन्दी] Track application online at pension.tamilnadu.gov.in"
         ]
     },
     {
@@ -1226,7 +1261,7 @@
             "[हिन्दी] Domicile Certificate"
         ],
         "application_steps": [
-            "[हिन्दी] Apply through the uttarpradesh Agriculture Portal agri.uttarpradesh.gov.in.",
+            "[हिन्दी] Visit the local Agriculture Office for offline submission.",
             "[हिन्दी] Submit equipment quotation."
         ]
     },
@@ -1245,8 +1280,8 @@
             "[हिन्दी] Domicile Certificate"
         ],
         "application_steps": [
-            "[हिन्दी] Register at the closest CSC.",
-            "[हिन्दी] Or apply online at cropinsurance.uttarpradesh.gov.in."
+            "[हिन्दी] Visit nearest bank branch with land details.",
+            "[हिन्दी] Pay the premium amount before the cutoff date."
         ]
     },
     {
@@ -1265,8 +1300,9 @@
             "[हिन्दी] Domicile Certificate"
         ],
         "application_steps": [
-            "[हिन्दी] Submit pitch deck at startup.uttarpradesh.gov.in.",
-            "[हिन्दी] Clear the interview round."
+            "[हिन्दी] Submit physical business plan to the District Industries Centre (DIC).",
+            "[हिन्दी] Attend the screening interview.",
+            "[हिन्दी] Apply online at startup.uttarpradesh.gov.in"
         ]
     },
     {
@@ -1285,8 +1321,9 @@
             "[हिन्दी] Domicile Certificate"
         ],
         "application_steps": [
-            "[हिन्दी] Show BPL card at any Govt Hospital in uttarpradesh.",
-            "[हिन्दी] Apply for e-card at health.uttarpradesh.gov.in."
+            "[हिन्दी] Show BPL card at any Govt Hospital in uttarpradesh to get registered.",
+            "[हिन्दी] Collect the health card from the hospital desk.",
+            "[हिन्दी] Apply online at health.uttarpradesh.gov.in"
         ]
     },
     {
@@ -1306,8 +1343,9 @@
             "[हिन्दी] Domicile Certificate"
         ],
         "application_steps": [
-            "[हिन्दी] Apply via State Women Welfare portal women.uttarpradesh.gov.in.",
-            "[हिन्दी] Verify Aadhaar at local panchayat."
+            "[हिन्दी] Collect application form from the Gram Panchayat.",
+            "[हिन्दी] Submit filled form along with Aadhaar and bank details.",
+            "[हिन्दी] Apply online at women.uttarpradesh.gov.in"
         ]
     },
     {
@@ -1326,8 +1364,9 @@
             "[हिन्दी] Domicile Certificate"
         ],
         "application_steps": [
-            "[हिन्दी] Apply via the Gram Panchayat.",
-            "[हिन्दी] Upload site photos to housing.uttarpradesh.gov.in."
+            "[हिन्दी] Apply in person at the Block Development Office (BDO).",
+            "[हिन्दी] Wait for the physical site inspection.",
+            "[हिन्दी] Apply online at housing.uttarpradesh.gov.in"
         ]
     },
     {
@@ -1346,8 +1385,9 @@
             "[हिन्दी] Domicile Certificate"
         ],
         "application_steps": [
-            "[हिन्दी] Link consumer number with Aadhaar at power.uttarpradesh.gov.in.",
-            "[हिन्दी] Subsidy is auto-applied."
+            "[हिन्दी] Visit the local electricity board office.",
+            "[हिन्दी] Submit Aadhaar and consumer number for linking.",
+            "[हिन्दी] Link online at power.uttarpradesh.gov.in"
         ]
     },
     {
@@ -1367,7 +1407,8 @@
         ],
         "application_steps": [
             "[हिन्दी] Schools automatically nominate top students.",
-            "[हिन्दी] Check status at education.uttarpradesh.gov.in."
+            "[हिन्दी] Submit bank details to the school principal.",
+            "[हिन्दी] Check status online at education.uttarpradesh.gov.in"
         ]
     },
     {
@@ -1386,8 +1427,9 @@
             "[हिन्दी] Domicile Certificate"
         ],
         "application_steps": [
-            "[हिन्दी] Register online at highered.uttarpradesh.gov.in.",
-            "[हिन्दी] Submit admission receipt."
+            "[हिन्दी] Collect application form from the college administration.",
+            "[हिन्दी] Submit form with admission receipt.",
+            "[हिन्दी] Register online at highered.uttarpradesh.gov.in"
         ]
     },
     {
@@ -1407,8 +1449,8 @@
             "[हिन्दी] Domicile Certificate"
         ],
         "application_steps": [
-            "[हिन्दी] Submit application at the Block Development Office.",
-            "[हिन्दी] Track application via pension.uttarpradesh.gov.in."
+            "[हिन्दी] Submit application physically at the District Social Welfare Office.",
+            "[हिन्दी] Track application online at pension.uttarpradesh.gov.in"
         ]
     },
     {
@@ -1427,7 +1469,7 @@
             "[हिन्दी] Domicile Certificate"
         ],
         "application_steps": [
-            "[हिन्दी] Apply through the westbengal Agriculture Portal agri.westbengal.gov.in.",
+            "[हिन्दी] Visit the local Agriculture Office for offline submission.",
             "[हिन्दी] Submit equipment quotation."
         ]
     },
@@ -1446,8 +1488,8 @@
             "[हिन्दी] Domicile Certificate"
         ],
         "application_steps": [
-            "[हिन्दी] Register at the closest CSC.",
-            "[हिन्दी] Or apply online at cropinsurance.westbengal.gov.in."
+            "[हिन्दी] Visit nearest bank branch with land details.",
+            "[हिन्दी] Pay the premium amount before the cutoff date."
         ]
     },
     {
@@ -1466,8 +1508,9 @@
             "[हिन्दी] Domicile Certificate"
         ],
         "application_steps": [
-            "[हिन्दी] Submit pitch deck at startup.westbengal.gov.in.",
-            "[हिन्दी] Clear the interview round."
+            "[हिन्दी] Submit physical business plan to the District Industries Centre (DIC).",
+            "[हिन्दी] Attend the screening interview.",
+            "[हिन्दी] Apply online at startup.westbengal.gov.in"
         ]
     },
     {
@@ -1486,8 +1529,9 @@
             "[हिन्दी] Domicile Certificate"
         ],
         "application_steps": [
-            "[हिन्दी] Show BPL card at any Govt Hospital in westbengal.",
-            "[हिन्दी] Apply for e-card at health.westbengal.gov.in."
+            "[हिन्दी] Show BPL card at any Govt Hospital in westbengal to get registered.",
+            "[हिन्दी] Collect the health card from the hospital desk.",
+            "[हिन्दी] Apply online at health.westbengal.gov.in"
         ]
     },
     {
@@ -1507,8 +1551,9 @@
             "[हिन्दी] Domicile Certificate"
         ],
         "application_steps": [
-            "[हिन्दी] Apply via State Women Welfare portal women.westbengal.gov.in.",
-            "[हिन्दी] Verify Aadhaar at local panchayat."
+            "[हिन्दी] Collect application form from the Gram Panchayat.",
+            "[हिन्दी] Submit filled form along with Aadhaar and bank details.",
+            "[हिन्दी] Apply online at women.westbengal.gov.in"
         ]
     },
     {
@@ -1527,8 +1572,9 @@
             "[हिन्दी] Domicile Certificate"
         ],
         "application_steps": [
-            "[हिन्दी] Apply via the Gram Panchayat.",
-            "[हिन्दी] Upload site photos to housing.westbengal.gov.in."
+            "[हिन्दी] Apply in person at the Block Development Office (BDO).",
+            "[हिन्दी] Wait for the physical site inspection.",
+            "[हिन्दी] Apply online at housing.westbengal.gov.in"
         ]
     },
     {
@@ -1547,8 +1593,9 @@
             "[हिन्दी] Domicile Certificate"
         ],
         "application_steps": [
-            "[हिन्दी] Link consumer number with Aadhaar at power.westbengal.gov.in.",
-            "[हिन्दी] Subsidy is auto-applied."
+            "[हिन्दी] Visit the local electricity board office.",
+            "[हिन्दी] Submit Aadhaar and consumer number for linking.",
+            "[हिन्दी] Link online at power.westbengal.gov.in"
         ]
     },
     {
@@ -1568,7 +1615,8 @@
         ],
         "application_steps": [
             "[हिन्दी] Schools automatically nominate top students.",
-            "[हिन्दी] Check status at education.westbengal.gov.in."
+            "[हिन्दी] Submit bank details to the school principal.",
+            "[हिन्दी] Check status online at education.westbengal.gov.in"
         ]
     },
     {
@@ -1587,8 +1635,9 @@
             "[हिन्दी] Domicile Certificate"
         ],
         "application_steps": [
-            "[हिन्दी] Register online at highered.westbengal.gov.in.",
-            "[हिन्दी] Submit admission receipt."
+            "[हिन्दी] Collect application form from the college administration.",
+            "[हिन्दी] Submit form with admission receipt.",
+            "[हिन्दी] Register online at highered.westbengal.gov.in"
         ]
     },
     {
@@ -1608,8 +1657,8 @@
             "[हिन्दी] Domicile Certificate"
         ],
         "application_steps": [
-            "[हिन्दी] Submit application at the Block Development Office.",
-            "[हिन्दी] Track application via pension.westbengal.gov.in."
+            "[हिन्दी] Submit application physically at the District Social Welfare Office.",
+            "[हिन्दी] Track application online at pension.westbengal.gov.in"
         ]
     },
     {
@@ -1628,7 +1677,7 @@
             "[हिन्दी] Domicile Certificate"
         ],
         "application_steps": [
-            "[हिन्दी] Apply through the punjab Agriculture Portal agri.punjab.gov.in.",
+            "[हिन्दी] Visit the local Agriculture Office for offline submission.",
             "[हिन्दी] Submit equipment quotation."
         ]
     },
@@ -1647,8 +1696,8 @@
             "[हिन्दी] Domicile Certificate"
         ],
         "application_steps": [
-            "[हिन्दी] Register at the closest CSC.",
-            "[हिन्दी] Or apply online at cropinsurance.punjab.gov.in."
+            "[हिन्दी] Visit nearest bank branch with land details.",
+            "[हिन्दी] Pay the premium amount before the cutoff date."
         ]
     },
     {
@@ -1667,8 +1716,9 @@
             "[हिन्दी] Domicile Certificate"
         ],
         "application_steps": [
-            "[हिन्दी] Submit pitch deck at startup.punjab.gov.in.",
-            "[हिन्दी] Clear the interview round."
+            "[हिन्दी] Submit physical business plan to the District Industries Centre (DIC).",
+            "[हिन्दी] Attend the screening interview.",
+            "[हिन्दी] Apply online at startup.punjab.gov.in"
         ]
     },
     {
@@ -1687,8 +1737,9 @@
             "[हिन्दी] Domicile Certificate"
         ],
         "application_steps": [
-            "[हिन्दी] Show BPL card at any Govt Hospital in punjab.",
-            "[हिन्दी] Apply for e-card at health.punjab.gov.in."
+            "[हिन्दी] Show BPL card at any Govt Hospital in punjab to get registered.",
+            "[हिन्दी] Collect the health card from the hospital desk.",
+            "[हिन्दी] Apply online at health.punjab.gov.in"
         ]
     },
     {
@@ -1708,8 +1759,9 @@
             "[हिन्दी] Domicile Certificate"
         ],
         "application_steps": [
-            "[हिन्दी] Apply via State Women Welfare portal women.punjab.gov.in.",
-            "[हिन्दी] Verify Aadhaar at local panchayat."
+            "[हिन्दी] Collect application form from the Gram Panchayat.",
+            "[हिन्दी] Submit filled form along with Aadhaar and bank details.",
+            "[हिन्दी] Apply online at women.punjab.gov.in"
         ]
     },
     {
@@ -1728,8 +1780,9 @@
             "[हिन्दी] Domicile Certificate"
         ],
         "application_steps": [
-            "[हिन्दी] Apply via the Gram Panchayat.",
-            "[हिन्दी] Upload site photos to housing.punjab.gov.in."
+            "[हिन्दी] Apply in person at the Block Development Office (BDO).",
+            "[हिन्दी] Wait for the physical site inspection.",
+            "[हिन्दी] Apply online at housing.punjab.gov.in"
         ]
     },
     {
@@ -1748,8 +1801,9 @@
             "[हिन्दी] Domicile Certificate"
         ],
         "application_steps": [
-            "[हिन्दी] Link consumer number with Aadhaar at power.punjab.gov.in.",
-            "[हिन्दी] Subsidy is auto-applied."
+            "[हिन्दी] Visit the local electricity board office.",
+            "[हिन्दी] Submit Aadhaar and consumer number for linking.",
+            "[हिन्दी] Link online at power.punjab.gov.in"
         ]
     },
     {
@@ -1769,7 +1823,8 @@
         ],
         "application_steps": [
             "[हिन्दी] Schools automatically nominate top students.",
-            "[हिन्दी] Check status at education.punjab.gov.in."
+            "[हिन्दी] Submit bank details to the school principal.",
+            "[हिन्दी] Check status online at education.punjab.gov.in"
         ]
     },
     {
@@ -1788,8 +1843,9 @@
             "[हिन्दी] Domicile Certificate"
         ],
         "application_steps": [
-            "[हिन्दी] Register online at highered.punjab.gov.in.",
-            "[हिन्दी] Submit admission receipt."
+            "[हिन्दी] Collect application form from the college administration.",
+            "[हिन्दी] Submit form with admission receipt.",
+            "[हिन्दी] Register online at highered.punjab.gov.in"
         ]
     },
     {
@@ -1809,8 +1865,8 @@
             "[हिन्दी] Domicile Certificate"
         ],
         "application_steps": [
-            "[हिन्दी] Submit application at the Block Development Office.",
-            "[हिन्दी] Track application via pension.punjab.gov.in."
+            "[हिन्दी] Submit application physically at the District Social Welfare Office.",
+            "[हिन्दी] Track application online at pension.punjab.gov.in"
         ]
     },
     {
@@ -1829,7 +1885,7 @@
             "[हिन्दी] Domicile Certificate"
         ],
         "application_steps": [
-            "[हिन्दी] Apply through the rajasthan Agriculture Portal agri.rajasthan.gov.in.",
+            "[हिन्दी] Visit the local Agriculture Office for offline submission.",
             "[हिन्दी] Submit equipment quotation."
         ]
     },
@@ -1848,8 +1904,8 @@
             "[हिन्दी] Domicile Certificate"
         ],
         "application_steps": [
-            "[हिन्दी] Register at the closest CSC.",
-            "[हिन्दी] Or apply online at cropinsurance.rajasthan.gov.in."
+            "[हिन्दी] Visit nearest bank branch with land details.",
+            "[हिन्दी] Pay the premium amount before the cutoff date."
         ]
     },
     {
@@ -1868,8 +1924,9 @@
             "[हिन्दी] Domicile Certificate"
         ],
         "application_steps": [
-            "[हिन्दी] Submit pitch deck at startup.rajasthan.gov.in.",
-            "[हिन्दी] Clear the interview round."
+            "[हिन्दी] Submit physical business plan to the District Industries Centre (DIC).",
+            "[हिन्दी] Attend the screening interview.",
+            "[हिन्दी] Apply online at startup.rajasthan.gov.in"
         ]
     },
     {
@@ -1888,8 +1945,9 @@
             "[हिन्दी] Domicile Certificate"
         ],
         "application_steps": [
-            "[हिन्दी] Show BPL card at any Govt Hospital in rajasthan.",
-            "[हिन्दी] Apply for e-card at health.rajasthan.gov.in."
+            "[हिन्दी] Show BPL card at any Govt Hospital in rajasthan to get registered.",
+            "[हिन्दी] Collect the health card from the hospital desk.",
+            "[हिन्दी] Apply online at health.rajasthan.gov.in"
         ]
     },
     {
@@ -1909,8 +1967,9 @@
             "[हिन्दी] Domicile Certificate"
         ],
         "application_steps": [
-            "[हिन्दी] Apply via State Women Welfare portal women.rajasthan.gov.in.",
-            "[हिन्दी] Verify Aadhaar at local panchayat."
+            "[हिन्दी] Collect application form from the Gram Panchayat.",
+            "[हिन्दी] Submit filled form along with Aadhaar and bank details.",
+            "[हिन्दी] Apply online at women.rajasthan.gov.in"
         ]
     },
     {
@@ -1929,8 +1988,9 @@
             "[हिन्दी] Domicile Certificate"
         ],
         "application_steps": [
-            "[हिन्दी] Apply via the Gram Panchayat.",
-            "[हिन्दी] Upload site photos to housing.rajasthan.gov.in."
+            "[हिन्दी] Apply in person at the Block Development Office (BDO).",
+            "[हिन्दी] Wait for the physical site inspection.",
+            "[हिन्दी] Apply online at housing.rajasthan.gov.in"
         ]
     },
     {
@@ -1949,8 +2009,9 @@
             "[हिन्दी] Domicile Certificate"
         ],
         "application_steps": [
-            "[हिन्दी] Link consumer number with Aadhaar at power.rajasthan.gov.in.",
-            "[हिन्दी] Subsidy is auto-applied."
+            "[हिन्दी] Visit the local electricity board office.",
+            "[हिन्दी] Submit Aadhaar and consumer number for linking.",
+            "[हिन्दी] Link online at power.rajasthan.gov.in"
         ]
     },
     {
@@ -1970,7 +2031,8 @@
         ],
         "application_steps": [
             "[हिन्दी] Schools automatically nominate top students.",
-            "[हिन्दी] Check status at education.rajasthan.gov.in."
+            "[हिन्दी] Submit bank details to the school principal.",
+            "[हिन्दी] Check status online at education.rajasthan.gov.in"
         ]
     },
     {
@@ -1989,8 +2051,9 @@
             "[हिन्दी] Domicile Certificate"
         ],
         "application_steps": [
-            "[हिन्दी] Register online at highered.rajasthan.gov.in.",
-            "[हिन्दी] Submit admission receipt."
+            "[हिन्दी] Collect application form from the college administration.",
+            "[हिन्दी] Submit form with admission receipt.",
+            "[हिन्दी] Register online at highered.rajasthan.gov.in"
         ]
     },
     {
@@ -2010,8 +2073,8 @@
             "[हिन्दी] Domicile Certificate"
         ],
         "application_steps": [
-            "[हिन्दी] Submit application at the Block Development Office.",
-            "[हिन्दी] Track application via pension.rajasthan.gov.in."
+            "[हिन्दी] Submit application physically at the District Social Welfare Office.",
+            "[हिन्दी] Track application online at pension.rajasthan.gov.in"
         ]
     },
     {
@@ -2030,7 +2093,7 @@
             "[हिन्दी] Domicile Certificate"
         ],
         "application_steps": [
-            "[हिन्दी] Apply through the kerala Agriculture Portal agri.kerala.gov.in.",
+            "[हिन्दी] Visit the local Agriculture Office for offline submission.",
             "[हिन्दी] Submit equipment quotation."
         ]
     },
@@ -2049,8 +2112,8 @@
             "[हिन्दी] Domicile Certificate"
         ],
         "application_steps": [
-            "[हिन्दी] Register at the closest CSC.",
-            "[हिन्दी] Or apply online at cropinsurance.kerala.gov.in."
+            "[हिन्दी] Visit nearest bank branch with land details.",
+            "[हिन्दी] Pay the premium amount before the cutoff date."
         ]
     },
     {
@@ -2069,8 +2132,9 @@
             "[हिन्दी] Domicile Certificate"
         ],
         "application_steps": [
-            "[हिन्दी] Submit pitch deck at startup.kerala.gov.in.",
-            "[हिन्दी] Clear the interview round."
+            "[हिन्दी] Submit physical business plan to the District Industries Centre (DIC).",
+            "[हिन्दी] Attend the screening interview.",
+            "[हिन्दी] Apply online at startup.kerala.gov.in"
         ]
     },
     {
@@ -2089,8 +2153,9 @@
             "[हिन्दी] Domicile Certificate"
         ],
         "application_steps": [
-            "[हिन्दी] Show BPL card at any Govt Hospital in kerala.",
-            "[हिन्दी] Apply for e-card at health.kerala.gov.in."
+            "[हिन्दी] Show BPL card at any Govt Hospital in kerala to get registered.",
+            "[हिन्दी] Collect the health card from the hospital desk.",
+            "[हिन्दी] Apply online at health.kerala.gov.in"
         ]
     },
     {
@@ -2110,8 +2175,9 @@
             "[हिन्दी] Domicile Certificate"
         ],
         "application_steps": [
-            "[हिन्दी] Apply via State Women Welfare portal women.kerala.gov.in.",
-            "[हिन्दी] Verify Aadhaar at local panchayat."
+            "[हिन्दी] Collect application form from the Gram Panchayat.",
+            "[हिन्दी] Submit filled form along with Aadhaar and bank details.",
+            "[हिन्दी] Apply online at women.kerala.gov.in"
         ]
     },
     {
@@ -2130,8 +2196,9 @@
             "[हिन्दी] Domicile Certificate"
         ],
         "application_steps": [
-            "[हिन्दी] Apply via the Gram Panchayat.",
-            "[हिन्दी] Upload site photos to housing.kerala.gov.in."
+            "[हिन्दी] Apply in person at the Block Development Office (BDO).",
+            "[हिन्दी] Wait for the physical site inspection.",
+            "[हिन्दी] Apply online at housing.kerala.gov.in"
         ]
     },
     {
@@ -2150,8 +2217,9 @@
             "[हिन्दी] Domicile Certificate"
         ],
         "application_steps": [
-            "[हिन्दी] Link consumer number with Aadhaar at power.kerala.gov.in.",
-            "[हिन्दी] Subsidy is auto-applied."
+            "[हिन्दी] Visit the local electricity board office.",
+            "[हिन्दी] Submit Aadhaar and consumer number for linking.",
+            "[हिन्दी] Link online at power.kerala.gov.in"
         ]
     },
     {
@@ -2171,7 +2239,8 @@
         ],
         "application_steps": [
             "[हिन्दी] Schools automatically nominate top students.",
-            "[हिन्दी] Check status at education.kerala.gov.in."
+            "[हिन्दी] Submit bank details to the school principal.",
+            "[हिन्दी] Check status online at education.kerala.gov.in"
         ]
     },
     {
@@ -2190,8 +2259,9 @@
             "[हिन्दी] Domicile Certificate"
         ],
         "application_steps": [
-            "[हिन्दी] Register online at highered.kerala.gov.in.",
-            "[हिन्दी] Submit admission receipt."
+            "[हिन्दी] Collect application form from the college administration.",
+            "[हिन्दी] Submit form with admission receipt.",
+            "[हिन्दी] Register online at highered.kerala.gov.in"
         ]
     },
     {
@@ -2211,8 +2281,8 @@
             "[हिन्दी] Domicile Certificate"
         ],
         "application_steps": [
-            "[हिन्दी] Submit application at the Block Development Office.",
-            "[हिन्दी] Track application via pension.kerala.gov.in."
+            "[हिन्दी] Submit application physically at the District Social Welfare Office.",
+            "[हिन्दी] Track application online at pension.kerala.gov.in"
         ]
     },
     {
@@ -2231,7 +2301,7 @@
             "[हिन्दी] Domicile Certificate"
         ],
         "application_steps": [
-            "[हिन्दी] Apply through the andhrapradesh Agriculture Portal agri.andhrapradesh.gov.in.",
+            "[हिन्दी] Visit the local Agriculture Office for offline submission.",
             "[हिन्दी] Submit equipment quotation."
         ]
     },
@@ -2250,8 +2320,8 @@
             "[हिन्दी] Domicile Certificate"
         ],
         "application_steps": [
-            "[हिन्दी] Register at the closest CSC.",
-            "[हिन्दी] Or apply online at cropinsurance.andhrapradesh.gov.in."
+            "[हिन्दी] Visit nearest bank branch with land details.",
+            "[हिन्दी] Pay the premium amount before the cutoff date."
         ]
     },
     {
@@ -2270,8 +2340,9 @@
             "[हिन्दी] Domicile Certificate"
         ],
         "application_steps": [
-            "[हिन्दी] Submit pitch deck at startup.andhrapradesh.gov.in.",
-            "[हिन्दी] Clear the interview round."
+            "[हिन्दी] Submit physical business plan to the District Industries Centre (DIC).",
+            "[हिन्दी] Attend the screening interview.",
+            "[हिन्दी] Apply online at startup.andhrapradesh.gov.in"
         ]
     },
     {
@@ -2290,8 +2361,9 @@
             "[हिन्दी] Domicile Certificate"
         ],
         "application_steps": [
-            "[हिन्दी] Show BPL card at any Govt Hospital in andhrapradesh.",
-            "[हिन्दी] Apply for e-card at health.andhrapradesh.gov.in."
+            "[हिन्दी] Show BPL card at any Govt Hospital in andhrapradesh to get registered.",
+            "[हिन्दी] Collect the health card from the hospital desk.",
+            "[हिन्दी] Apply online at health.andhrapradesh.gov.in"
         ]
     },
     {
@@ -2311,8 +2383,9 @@
             "[हिन्दी] Domicile Certificate"
         ],
         "application_steps": [
-            "[हिन्दी] Apply via State Women Welfare portal women.andhrapradesh.gov.in.",
-            "[हिन्दी] Verify Aadhaar at local panchayat."
+            "[हिन्दी] Collect application form from the Gram Panchayat.",
+            "[हिन्दी] Submit filled form along with Aadhaar and bank details.",
+            "[हिन्दी] Apply online at women.andhrapradesh.gov.in"
         ]
     },
     {
@@ -2331,8 +2404,9 @@
             "[हिन्दी] Domicile Certificate"
         ],
         "application_steps": [
-            "[हिन्दी] Apply via the Gram Panchayat.",
-            "[हिन्दी] Upload site photos to housing.andhrapradesh.gov.in."
+            "[हिन्दी] Apply in person at the Block Development Office (BDO).",
+            "[हिन्दी] Wait for the physical site inspection.",
+            "[हिन्दी] Apply online at housing.andhrapradesh.gov.in"
         ]
     },
     {
@@ -2351,8 +2425,9 @@
             "[हिन्दी] Domicile Certificate"
         ],
         "application_steps": [
-            "[हिन्दी] Link consumer number with Aadhaar at power.andhrapradesh.gov.in.",
-            "[हिन्दी] Subsidy is auto-applied."
+            "[हिन्दी] Visit the local electricity board office.",
+            "[हिन्दी] Submit Aadhaar and consumer number for linking.",
+            "[हिन्दी] Link online at power.andhrapradesh.gov.in"
         ]
     },
     {
@@ -2372,7 +2447,8 @@
         ],
         "application_steps": [
             "[हिन्दी] Schools automatically nominate top students.",
-            "[हिन्दी] Check status at education.andhrapradesh.gov.in."
+            "[हिन्दी] Submit bank details to the school principal.",
+            "[हिन्दी] Check status online at education.andhrapradesh.gov.in"
         ]
     },
     {
@@ -2391,8 +2467,9 @@
             "[हिन्दी] Domicile Certificate"
         ],
         "application_steps": [
-            "[हिन्दी] Register online at highered.andhrapradesh.gov.in.",
-            "[हिन्दी] Submit admission receipt."
+            "[हिन्दी] Collect application form from the college administration.",
+            "[हिन्दी] Submit form with admission receipt.",
+            "[हिन्दी] Register online at highered.andhrapradesh.gov.in"
         ]
     },
     {
@@ -2412,8 +2489,8 @@
             "[हिन्दी] Domicile Certificate"
         ],
         "application_steps": [
-            "[हिन्दी] Submit application at the Block Development Office.",
-            "[हिन्दी] Track application via pension.andhrapradesh.gov.in."
+            "[हिन्दी] Submit application physically at the District Social Welfare Office.",
+            "[हिन्दी] Track application online at pension.andhrapradesh.gov.in"
         ]
     },
     {
@@ -2432,7 +2509,7 @@
             "[हिन्दी] Domicile Certificate"
         ],
         "application_steps": [
-            "[हिन्दी] Apply through the bihar Agriculture Portal agri.bihar.gov.in.",
+            "[हिन्दी] Visit the local Agriculture Office for offline submission.",
             "[हिन्दी] Submit equipment quotation."
         ]
     },
@@ -2451,8 +2528,8 @@
             "[हिन्दी] Domicile Certificate"
         ],
         "application_steps": [
-            "[हिन्दी] Register at the closest CSC.",
-            "[हिन्दी] Or apply online at cropinsurance.bihar.gov.in."
+            "[हिन्दी] Visit nearest bank branch with land details.",
+            "[हिन्दी] Pay the premium amount before the cutoff date."
         ]
     },
     {
@@ -2471,8 +2548,9 @@
             "[हिन्दी] Domicile Certificate"
         ],
         "application_steps": [
-            "[हिन्दी] Submit pitch deck at startup.bihar.gov.in.",
-            "[हिन्दी] Clear the interview round."
+            "[हिन्दी] Submit physical business plan to the District Industries Centre (DIC).",
+            "[हिन्दी] Attend the screening interview.",
+            "[हिन्दी] Apply online at startup.bihar.gov.in"
         ]
     },
     {
@@ -2491,8 +2569,9 @@
             "[हिन्दी] Domicile Certificate"
         ],
         "application_steps": [
-            "[हिन्दी] Show BPL card at any Govt Hospital in bihar.",
-            "[हिन्दी] Apply for e-card at health.bihar.gov.in."
+            "[हिन्दी] Show BPL card at any Govt Hospital in bihar to get registered.",
+            "[हिन्दी] Collect the health card from the hospital desk.",
+            "[हिन्दी] Apply online at health.bihar.gov.in"
         ]
     },
     {
@@ -2512,8 +2591,9 @@
             "[हिन्दी] Domicile Certificate"
         ],
         "application_steps": [
-            "[हिन्दी] Apply via State Women Welfare portal women.bihar.gov.in.",
-            "[हिन्दी] Verify Aadhaar at local panchayat."
+            "[हिन्दी] Collect application form from the Gram Panchayat.",
+            "[हिन्दी] Submit filled form along with Aadhaar and bank details.",
+            "[हिन्दी] Apply online at women.bihar.gov.in"
         ]
     },
     {
@@ -2532,8 +2612,9 @@
             "[हिन्दी] Domicile Certificate"
         ],
         "application_steps": [
-            "[हिन्दी] Apply via the Gram Panchayat.",
-            "[हिन्दी] Upload site photos to housing.bihar.gov.in."
+            "[हिन्दी] Apply in person at the Block Development Office (BDO).",
+            "[हिन्दी] Wait for the physical site inspection.",
+            "[हिन्दी] Apply online at housing.bihar.gov.in"
         ]
     },
     {
@@ -2552,8 +2633,9 @@
             "[हिन्दी] Domicile Certificate"
         ],
         "application_steps": [
-            "[हिन्दी] Link consumer number with Aadhaar at power.bihar.gov.in.",
-            "[हिन्दी] Subsidy is auto-applied."
+            "[हिन्दी] Visit the local electricity board office.",
+            "[हिन्दी] Submit Aadhaar and consumer number for linking.",
+            "[हिन्दी] Link online at power.bihar.gov.in"
         ]
     },
     {
@@ -2573,7 +2655,8 @@
         ],
         "application_steps": [
             "[हिन्दी] Schools automatically nominate top students.",
-            "[हिन्दी] Check status at education.bihar.gov.in."
+            "[हिन्दी] Submit bank details to the school principal.",
+            "[हिन्दी] Check status online at education.bihar.gov.in"
         ]
     },
     {
@@ -2592,8 +2675,9 @@
             "[हिन्दी] Domicile Certificate"
         ],
         "application_steps": [
-            "[हिन्दी] Register online at highered.bihar.gov.in.",
-            "[हिन्दी] Submit admission receipt."
+            "[हिन्दी] Collect application form from the college administration.",
+            "[हिन्दी] Submit form with admission receipt.",
+            "[हिन्दी] Register online at highered.bihar.gov.in"
         ]
     },
     {
@@ -2613,8 +2697,8 @@
             "[हिन्दी] Domicile Certificate"
         ],
         "application_steps": [
-            "[हिन्दी] Submit application at the Block Development Office.",
-            "[हिन्दी] Track application via pension.bihar.gov.in."
+            "[हिन्दी] Submit application physically at the District Social Welfare Office.",
+            "[हिन्दी] Track application online at pension.bihar.gov.in"
         ]
     },
     {
@@ -2633,7 +2717,7 @@
             "[हिन्दी] Domicile Certificate"
         ],
         "application_steps": [
-            "[हिन्दी] Apply through the haryana Agriculture Portal agri.haryana.gov.in.",
+            "[हिन्दी] Visit the local Agriculture Office for offline submission.",
             "[हिन्दी] Submit equipment quotation."
         ]
     },
@@ -2652,8 +2736,8 @@
             "[हिन्दी] Domicile Certificate"
         ],
         "application_steps": [
-            "[हिन्दी] Register at the closest CSC.",
-            "[हिन्दी] Or apply online at cropinsurance.haryana.gov.in."
+            "[हिन्दी] Visit nearest bank branch with land details.",
+            "[हिन्दी] Pay the premium amount before the cutoff date."
         ]
     },
     {
@@ -2672,8 +2756,9 @@
             "[हिन्दी] Domicile Certificate"
         ],
         "application_steps": [
-            "[हिन्दी] Submit pitch deck at startup.haryana.gov.in.",
-            "[हिन्दी] Clear the interview round."
+            "[हिन्दी] Submit physical business plan to the District Industries Centre (DIC).",
+            "[हिन्दी] Attend the screening interview.",
+            "[हिन्दी] Apply online at startup.haryana.gov.in"
         ]
     },
     {
@@ -2692,8 +2777,9 @@
             "[हिन्दी] Domicile Certificate"
         ],
         "application_steps": [
-            "[हिन्दी] Show BPL card at any Govt Hospital in haryana.",
-            "[हिन्दी] Apply for e-card at health.haryana.gov.in."
+            "[हिन्दी] Show BPL card at any Govt Hospital in haryana to get registered.",
+            "[हिन्दी] Collect the health card from the hospital desk.",
+            "[हिन्दी] Apply online at health.haryana.gov.in"
         ]
     },
     {
@@ -2713,8 +2799,9 @@
             "[हिन्दी] Domicile Certificate"
         ],
         "application_steps": [
-            "[हिन्दी] Apply via State Women Welfare portal women.haryana.gov.in.",
-            "[हिन्दी] Verify Aadhaar at local panchayat."
+            "[हिन्दी] Collect application form from the Gram Panchayat.",
+            "[हिन्दी] Submit filled form along with Aadhaar and bank details.",
+            "[हिन्दी] Apply online at women.haryana.gov.in"
         ]
     },
     {
@@ -2733,8 +2820,9 @@
             "[हिन्दी] Domicile Certificate"
         ],
         "application_steps": [
-            "[हिन्दी] Apply via the Gram Panchayat.",
-            "[हिन्दी] Upload site photos to housing.haryana.gov.in."
+            "[हिन्दी] Apply in person at the Block Development Office (BDO).",
+            "[हिन्दी] Wait for the physical site inspection.",
+            "[हिन्दी] Apply online at housing.haryana.gov.in"
         ]
     },
     {
@@ -2753,8 +2841,9 @@
             "[हिन्दी] Domicile Certificate"
         ],
         "application_steps": [
-            "[हिन्दी] Link consumer number with Aadhaar at power.haryana.gov.in.",
-            "[हिन्दी] Subsidy is auto-applied."
+            "[हिन्दी] Visit the local electricity board office.",
+            "[हिन्दी] Submit Aadhaar and consumer number for linking.",
+            "[हिन्दी] Link online at power.haryana.gov.in"
         ]
     },
     {
@@ -2774,7 +2863,8 @@
         ],
         "application_steps": [
             "[हिन्दी] Schools automatically nominate top students.",
-            "[हिन्दी] Check status at education.haryana.gov.in."
+            "[हिन्दी] Submit bank details to the school principal.",
+            "[हिन्दी] Check status online at education.haryana.gov.in"
         ]
     },
     {
@@ -2793,8 +2883,9 @@
             "[हिन्दी] Domicile Certificate"
         ],
         "application_steps": [
-            "[हिन्दी] Register online at highered.haryana.gov.in.",
-            "[हिन्दी] Submit admission receipt."
+            "[हिन्दी] Collect application form from the college administration.",
+            "[हिन्दी] Submit form with admission receipt.",
+            "[हिन्दी] Register online at highered.haryana.gov.in"
         ]
     },
     {
@@ -2814,8 +2905,8 @@
             "[हिन्दी] Domicile Certificate"
         ],
         "application_steps": [
-            "[हिन्दी] Submit application at the Block Development Office.",
-            "[हिन्दी] Track application via pension.haryana.gov.in."
+            "[हिन्दी] Submit application physically at the District Social Welfare Office.",
+            "[हिन्दी] Track application online at pension.haryana.gov.in"
         ]
     },
     {
@@ -2834,7 +2925,7 @@
             "[हिन्दी] Domicile Certificate"
         ],
         "application_steps": [
-            "[हिन्दी] Apply through the madhyapradesh Agriculture Portal agri.madhyapradesh.gov.in.",
+            "[हिन्दी] Visit the local Agriculture Office for offline submission.",
             "[हिन्दी] Submit equipment quotation."
         ]
     },
@@ -2853,8 +2944,8 @@
             "[हिन्दी] Domicile Certificate"
         ],
         "application_steps": [
-            "[हिन्दी] Register at the closest CSC.",
-            "[हिन्दी] Or apply online at cropinsurance.madhyapradesh.gov.in."
+            "[हिन्दी] Visit nearest bank branch with land details.",
+            "[हिन्दी] Pay the premium amount before the cutoff date."
         ]
     },
     {
@@ -2873,8 +2964,9 @@
             "[हिन्दी] Domicile Certificate"
         ],
         "application_steps": [
-            "[हिन्दी] Submit pitch deck at startup.madhyapradesh.gov.in.",
-            "[हिन्दी] Clear the interview round."
+            "[हिन्दी] Submit physical business plan to the District Industries Centre (DIC).",
+            "[हिन्दी] Attend the screening interview.",
+            "[हिन्दी] Apply online at startup.madhyapradesh.gov.in"
         ]
     },
     {
@@ -2893,8 +2985,9 @@
             "[हिन्दी] Domicile Certificate"
         ],
         "application_steps": [
-            "[हिन्दी] Show BPL card at any Govt Hospital in madhyapradesh.",
-            "[हिन्दी] Apply for e-card at health.madhyapradesh.gov.in."
+            "[हिन्दी] Show BPL card at any Govt Hospital in madhyapradesh to get registered.",
+            "[हिन्दी] Collect the health card from the hospital desk.",
+            "[हिन्दी] Apply online at health.madhyapradesh.gov.in"
         ]
     },
     {
@@ -2914,8 +3007,9 @@
             "[हिन्दी] Domicile Certificate"
         ],
         "application_steps": [
-            "[हिन्दी] Apply via State Women Welfare portal women.madhyapradesh.gov.in.",
-            "[हिन्दी] Verify Aadhaar at local panchayat."
+            "[हिन्दी] Collect application form from the Gram Panchayat.",
+            "[हिन्दी] Submit filled form along with Aadhaar and bank details.",
+            "[हिन्दी] Apply online at women.madhyapradesh.gov.in"
         ]
     },
     {
@@ -2934,8 +3028,9 @@
             "[हिन्दी] Domicile Certificate"
         ],
         "application_steps": [
-            "[हिन्दी] Apply via the Gram Panchayat.",
-            "[हिन्दी] Upload site photos to housing.madhyapradesh.gov.in."
+            "[हिन्दी] Apply in person at the Block Development Office (BDO).",
+            "[हिन्दी] Wait for the physical site inspection.",
+            "[हिन्दी] Apply online at housing.madhyapradesh.gov.in"
         ]
     },
     {
@@ -2954,8 +3049,9 @@
             "[हिन्दी] Domicile Certificate"
         ],
         "application_steps": [
-            "[हिन्दी] Link consumer number with Aadhaar at power.madhyapradesh.gov.in.",
-            "[हिन्दी] Subsidy is auto-applied."
+            "[हिन्दी] Visit the local electricity board office.",
+            "[हिन्दी] Submit Aadhaar and consumer number for linking.",
+            "[हिन्दी] Link online at power.madhyapradesh.gov.in"
         ]
     },
     {
@@ -2975,7 +3071,8 @@
         ],
         "application_steps": [
             "[हिन्दी] Schools automatically nominate top students.",
-            "[हिन्दी] Check status at education.madhyapradesh.gov.in."
+            "[हिन्दी] Submit bank details to the school principal.",
+            "[हिन्दी] Check status online at education.madhyapradesh.gov.in"
         ]
     },
     {
@@ -2994,8 +3091,9 @@
             "[हिन्दी] Domicile Certificate"
         ],
         "application_steps": [
-            "[हिन्दी] Register online at highered.madhyapradesh.gov.in.",
-            "[हिन्दी] Submit admission receipt."
+            "[हिन्दी] Collect application form from the college administration.",
+            "[हिन्दी] Submit form with admission receipt.",
+            "[हिन्दी] Register online at highered.madhyapradesh.gov.in"
         ]
     },
     {
@@ -3015,8 +3113,8 @@
             "[हिन्दी] Domicile Certificate"
         ],
         "application_steps": [
-            "[हिन्दी] Submit application at the Block Development Office.",
-            "[हिन्दी] Track application via pension.madhyapradesh.gov.in."
+            "[हिन्दी] Submit application physically at the District Social Welfare Office.",
+            "[हिन्दी] Track application online at pension.madhyapradesh.gov.in"
         ]
     }
 ]
